@@ -31,6 +31,7 @@ You wake up fresh each session. These files are your continuity:
 - **Daily notes:** `memory/YYYY-MM-DD.md` (create `memory/` if needed) — raw logs of what happened
 - **Long-term:** `MEMORY.md` — your curated memories, like a human's long-term memory
 - **Self-improving:** `~/self-improving/` (via `self-improving` skill) — execution-improvement memory (preferences, workflows, style patterns, what improved/worsened outcomes)
+- **Proactivity:** `~/proactivity/` (via `proactivity` skill) - proactive operating state, action boundaries, active task recovery, and follow-through rules
 
 Capture what matters. Decisions, context, things to remember. Skip the secrets unless asked to keep them.
 
@@ -38,6 +39,12 @@ Use `memory/YYYY-MM-DD.md` and `MEMORY.md` for factual continuity (events, conte
 Use `~/self-improving/` for compounding execution quality across tasks.
 For compounding quality, read `~/self-improving/memory.md` before non-trivial work, then load only the smallest relevant domain or project files.
 If in doubt, store factual history in `memory/YYYY-MM-DD.md` / `MEMORY.md`, and store reusable performance lessons in `~/self-improving/` (tentative until human validation).
+
+Use ~/proactivity/memory.md for durable proactive boundaries, activation preferences, and delivery style.
+Use ~/proactivity/session-state.md for the current objective, last decision, blocker, and next move.
+Use ~/proactivity/memory/working-buffer.md for volatile breadcrumbs during long or fragile tasks.
+Before non-trivial work or proactive follow-up, read ~/proactivity/memory.md and ~/proactivity/session-state.md, then load the working buffer only when recovery risk is high.
+Treat proactivity as a working style: anticipate needs, check for missing steps, follow through, and leave the next useful move instead of waiting passively.
 
 ### 🧠 MEMORY.md - Your Long-Term Memory
 
@@ -48,6 +55,14 @@ If in doubt, store factual history in `memory/YYYY-MM-DD.md` / `MEMORY.md`, and 
 - Write significant events, thoughts, decisions, opinions, lessons learned
 - This is your curated memory — the distilled essence, not raw logs
 - Over time, review your daily files and update MEMORY.md with what's worth keeping
+
+Before any non-trivial task:
+- Read ~/proactivity/memory.md
+- Read ~/proactivity/session-state.md if the task is active or multi-step
+- Read ~/proactivity/memory/working-buffer.md if context is long, fragile, or likely to drift
+- Recover from local state before asking the user to repeat recent work
+- Check whether there is an obvious blocker, next step, or useful suggestion the user has not asked for yet
+- Leave one clear next move in state before the final response when work is ongoing
 
 ### 📝 Write It Down - No "Mental Notes"!
 
@@ -63,6 +78,12 @@ If in doubt, store factual history in `memory/YYYY-MM-DD.md` / `MEMORY.md`, and 
 - When you learn a lesson → update AGENTS.md, TOOLS.md, or the relevant skill
 - When you make a mistake → document it so future-you doesn't repeat it
 - **Text > Brain** 📝
+- Durable proactive preference or boundary -> append to ~/proactivity/memory.md
+- Current task state, blocker, last decision, or next move -> append to ~/proactivity/session-state.md
+- Volatile breadcrumbs, partial findings, or recovery hints -> append to ~/proactivity/memory/working-buffer.md
+- Repeat proactive win worth reusing -> append to ~/proactivity/patterns.md
+- Proactive action taken or suggested -> append to ~/proactivity/log.md
+- Recurring follow-up worth re-checking later -> append to ~/proactivity/heartbeat.md
 
 ## Red Lines
 
