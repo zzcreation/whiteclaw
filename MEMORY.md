@@ -1,6 +1,29 @@
 
 ---
 
+## Workspace 项目组织规范（2026-03-21 记录）
+
+### 项目文件夹结构
+```
+~/.openclaw/workspace/
+├── projects/          # 所有项目文件夹放这里
+│   ├── openclaw-training/
+│   └── multi-agent-framework/
+├── plans/             # 长期计划文件
+│   └── LONGTERM_2026_XX.md
+├── memory/            # 每日工作日志
+├── skills/            # 技能文件夹
+├── scripts/           # 通用脚本
+└── docs/              # 文档
+```
+
+### 规则
+- 所有项目文件夹都放在 `projects/` 下
+- 长期计划文件放在 `plans/` 下，文件名格式：`LONGTERM_YYYY_NN.md`
+- 长期计划总览在 `LONGTERM_PLANS.md`
+
+---
+
 ## 飞书 Cron 任务注意事项（2026-03-19 记录）
 
 ### 问题描述
