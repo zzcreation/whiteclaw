@@ -13,19 +13,55 @@
 
 ---
 
+## 新功能开发流程
+
+```
+1. 切换到 develop 分支
+   git checkout develop
+
+2. 拉取最新修改
+   git pull origin develop
+
+3. 创建开发分支
+   git checkout -b <branch-name>
+
+4. 开发功能
+   (编写代码、测试)
+
+5. 提交更改
+   git add .
+   git commit -m "feat: description"
+
+6. 推送分支
+   git push -u origin <branch-name>
+
+7. 创建 PR
+   gh pr create --title "..." --body "..."
+   或在 GitHub 网页创建
+
+8. 代码 Review
+   - 等待协作者 review
+   - 根据反馈修改
+
+9. 合并 PR
+   PR approve 后由维护者合并
+```
+
+---
+
 ## 计划阶段
 
-### Phase 0：基线与治理 ✅ 即将开始
+### Phase 0：基线与治理 ⏳ 等待PR approve合并
 - [ ] 冻结当前接口（TaskEnvelope, ControlPlane API）
 - [ ] 补齐开源治理文档（CONTRIBUTING.md, GOVERNANCE.md, SECURITY.md）
 - [ ] 定义 SLO、错误预算
 - [ ] 输出 v0.2 技术规范
 
-**关联 PR**: 已合并 `codex/refactor-main.py-to-separate-control-and-data-planes`
+**关联 PR**: [#4](https://github.com/zzcreation/multi-agent-framework/pull/4) 已合并
 
 ---
 
-### Phase 1：控制平面重构 ⏳ 进行中
+### Phase 1：控制平面重构 🔄 开发中
 - [x] TaskEnvelope 协议定义
 - [x] WorkerRegistry 心跳注册
 - [x] Scheduler 调度器
@@ -33,7 +69,9 @@
 - [ ] 改造执行路径为异步事件驱动
 - [ ] 完成幂等 + 重试 + DLQ
 
-**当前状态**: 基础架构已通过 PR 合并
+**当前状态**: 基础架构已通过 PR #4 合并到 develop
+
+**开发分支**: `pr/refactor` (本地已有)
 
 ---
 
@@ -66,6 +104,17 @@
 - [ ] 发布插件化 Worker SDK
 - [ ] 发布示例仓库
 - [ ] 社区运营
+
+---
+
+## 当前开发状态
+
+| 阶段 | 状态 | 说明 |
+|------|------|------|
+| Phase 0 | ⏳ 等待PR approve合并 | 等待上一个阶段 PR 合并后开始 |
+| Phase 1 | 🔄 开发中 | PR #4 已合并，基础功能就绪 |
+| Phase 2 | ⏳ 待开始 | 依赖 Phase 1 完成 |
+| Phase 3-5 | ⏳ 待开始 | 后续阶段 |
 
 ---
 
