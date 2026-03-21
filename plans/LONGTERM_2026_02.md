@@ -51,17 +51,21 @@
 
 ## 计划阶段
 
-### Phase 0：基线与治理 ⏳ 等待PR approve合并
-- [ ] 冻结当前接口（TaskEnvelope, ControlPlane API）
+### Phase 0：基线与治理 🔄 开发中
+- [x] 冻结当前接口（TaskEnvelope, ControlPlane API）
 - [ ] 补齐开源治理文档（CONTRIBUTING.md, GOVERNANCE.md, SECURITY.md）
 - [ ] 定义 SLO、错误预算
 - [ ] 输出 v0.2 技术规范
 
-**关联 PR**: [#4](https://github.com/zzcreation/multi-agent-framework/pull/4) 已合并
+**当前状态**: 
+- TaskEnvelope 协议已通过 PR #4 冻结并合并到 develop
+- 等待开始治理文档编写
+
+**关联 PR**: [#4](https://github.com/zzcreation/multi-agent-framework/pull/4) 已合并 ✓
 
 ---
 
-### Phase 1：控制平面重构 🔄 开发中
+### Phase 1：控制平面重构 ⏳ 待开始
 - [x] TaskEnvelope 协议定义
 - [x] WorkerRegistry 心跳注册
 - [x] Scheduler 调度器
@@ -69,9 +73,7 @@
 - [ ] 改造执行路径为异步事件驱动
 - [ ] 完成幂等 + 重试 + DLQ
 
-**当前状态**: 基础架构已通过 PR #4 合并到 develop
-
-**开发分支**: `pr/refactor` (本地已有)
+**当前状态**: Phase 0 尚未完成，等待治理文档完成后开始
 
 ---
 
@@ -111,10 +113,9 @@
 
 | 阶段 | 状态 | 说明 |
 |------|------|------|
-| Phase 0 | ⏳ 等待PR approve合并 | 等待上一个阶段 PR 合并后开始 |
-| Phase 1 | 🔄 开发中 | PR #4 已合并，基础功能就绪 |
-| Phase 2 | ⏳ 待开始 | 依赖 Phase 1 完成 |
-| Phase 3-5 | ⏳ 待开始 | 后续阶段 |
+| Phase 0 | 🔄 开发中 | 接口已冻结，开始治理文档 |
+| Phase 1 | ⏳ 待开始 | 依赖 Phase 0 完成 |
+| Phase 2-5 | ⏳ 待开始 | 后续阶段 |
 
 ---
 
@@ -135,3 +136,10 @@ User/API -> Control Plane -> Message Bus -> Worker Pool
 - 可用性：99.99%（长期目标）
 - 可扩展：支持多租户
 - 可维护：模块边界清晰
+
+---
+
+## 项目地址
+
+- GitHub: https://github.com/zzcreation/multi-agent-framework
+- 本地: `~/.openclaw/workspace/projects/multi-agent-framework/`
