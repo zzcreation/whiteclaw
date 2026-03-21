@@ -39,6 +39,34 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 Add whatever helps you do your job. This is your cheat sheet.
 
+### SSH
+
+- xiaoqi-remote → 192.168.130.33:2222 (WSL2 Ubuntu)
+  - 位置: Windows 主机上的 WSL2 Ubuntu
+  - Node.js: v22.22.1 (通过 nvm 安装)
+  - OpenClaw: 2026.3.13
+  - Gateway: lan 模式，端口 18789
+  - 端口转发: 2222 (SSH), 18789 (Gateway)
+
+### 远程 Agent 调用
+
+调用 xiaoqi-remote agent 的正确方式：
+```bash
+ssh -p 2222 zzc@192.168.130.33 "export NVM_DIR=/home/zzc/.nvm && export PATH=/home/zzc/.nvm/versions/node/v22.22.1/bin:\$PATH && openclaw agent --agent xiaoqi-remote --message '任务描述' --timeout 300"
+```
+
+**重要提示**：
+- 必须使用 `--agent xiaoqi-remote` 而不是 `--agent main`（main 连接了飞书会有其他用途）
+- 需要告诉 xiaoqi-remote 使用 exec 工具调用 agent-reach 工具
+- agent-reach skill 需要软链接到 xiaoqi-remote agent 的 skills 目录
+
+**Agent Reach 工具**（xiaoqi-remote 上已安装）：
+- `curl + jina.ai` - 读取任意网页
+- `xreach` - 搜索 Twitter
+- `mcporter exa` - 全网语义搜索
+- `yt-dlp` - YouTube/B站 视频字幕
+- `gh CLI` - GitHub
+
 ## Proactive Tool Use
 
 - Prefer safe internal work, drafts, checks, and preparation before escalating
