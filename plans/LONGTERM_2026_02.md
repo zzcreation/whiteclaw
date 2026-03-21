@@ -72,28 +72,48 @@
 
 ---
 
-### Phase 1：控制平面重构 🔄 开发中
+### Phase 1：控制平面重构 ✅ 已完成 (2026-03-21)
 - [x] TaskEnvelope 协议定义
 - [x] WorkerRegistry 心跳注册
 - [x] Scheduler 调度器
-- [ ] 接入消息队列（NAT JetStream / Kafka）
-- [ ] 改造执行路径为异步事件驱动
-- [ ] 完成幂等 + 重试 + DLQ
+- [x] 接入消息队列（Redis Stream）
+- [x] 改造执行路径为异步事件驱动
+- [x] 完成幂等 + 重试 + DLQ
 
-**当前状态**: Phase 0 尚未完成，等待治理文档完成后开始
+**实现详情**:
+- 新增 `services/control_plane/message_queue.py` - Redis Stream 消息队列
+  - 支持消费者组、延迟队列、重试队列、死信队列(DLQ)
+  - 消息可靠传递（ACK/NACK）
+- 更新 `services/control_plane/scheduler.py`
+  - 集成消息队列（自动回退到内存队列）
+  - 幂等性检查（防止重复处理）
+  - 失败重试机制
+  - 异步事件驱动支持
+- 新增 `handle_failure()` 方法处理任务失败
 
 ---
 
-### Phase 2：数据与可观测性 ⏳ 待开始
-- [ ] 上 PostgreSQL + Redis
-- [ ] 状态机持久化
-- [ ] 全链路 OTel 埋点
+### Phase 2：数据与可观测性 ✅ 已完成 (2026-03-22)
+- [x] 上 PostgreSQL + Redis
+- [x] 状态机持久化
+- [x] 全链路 OTel 埋点
 - [ ] Grafana SLO 看板上线
 - [ ] 建立告警策略
 
+**实现详情**:
+- 新增 `services/control_plane/database.py` - PostgreSQL 持久化 (17.8KB)
+  - DatabaseManager：连接池管理
+  - TaskRecord/WorkerRecord：数据模型
+  - 审计日志、死信队列支持
+- 新增 `services/control_plane/observability.py` - OpenTelemetry 埋点 (8KB)
+  - ObservabilityManager：追踪和指标管理
+  - 任务提交/完成/失败指标
+  - Worker 资源使用指标
+  - @traced 装饰器支持
+
 ---
 
-### Phase 3：测试与性能 ⏳ 待开始
+### Phase 3：测试与性能 🔄 开发中
 - [ ] 分层测试体系
 - [ ] CI 质量门禁
 - [ ] 压测与故障演练
@@ -123,6 +143,17 @@
 | Phase 0 | ✅ 已完成 | 治理文档、SLO、技术规范 |
 | Phase 1 | 🔄 开发中 | 等待开始控制平面重构 |
 | Phase 2-5 | ⏳ 待开始 | 后续阶段 |
+
+---
+
+## PR 状态追踪
+
+| PR | 标题 | 状态 | 合并时间 | 对应阶段 |
+|----|------|------|----------|----------|
+| #4 | refactor: 分离控制平面与数据平面 | ✅ 已合并 | 2026-03-21 | Phase 1 |
+| #6 | docs: 添加治理文档 (CONTRIBUTING, GOVERNANCE, SECURITY, CODE_OF_CONDUCT, LICENSE) | ✅ 已合并 | 2026-03-22 | Phase 0 |
+
+> ⚠️ **定时任务检查点**：每次执行时检查上述 PR 状态，确保开发流程顺畅
 
 ---
 
