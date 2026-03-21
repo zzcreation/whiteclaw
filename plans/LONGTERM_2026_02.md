@@ -51,21 +51,28 @@
 
 ## 计划阶段
 
-### Phase 0：基线与治理 🔄 开发中
+### Phase 0：基线与治理 ✅ 已完成 (2026-03-21)
 - [x] 冻结当前接口（TaskEnvelope, ControlPlane API）
-- [ ] 补齐开源治理文档（CONTRIBUTING.md, GOVERNANCE.md, SECURITY.md）
-- [ ] 定义 SLO、错误预算
-- [ ] 输出 v0.2 技术规范
+- [x] 补齐开源治理文档（CONTRIBUTING.md, GOVERNANCE.md, SECURITY.md）
+- [x] 定义 SLO、错误预算
+- [x] 输出 v0.2 技术规范
 
 **当前状态**: 
 - TaskEnvelope 协议已通过 PR #4 冻结并合并到 develop
-- 等待开始治理文档编写
+- 治理文档已创建完成 (2026-03-21)
+- SLO 定义完成 (SLO.md)
+- v0.2 技术规范完成 (docs/TECHNICAL_SPEC.md)
 
-**关联 PR**: [#4](https://github.com/zzcreation/multi-agent-framework/pull/4) 已合并 ✓
+**创建文档**:
+- [CONTRIBUTING.md](CONTRIBUTING.md) - 贡献指南
+- [GOVERNANCE.md](GOVERNANCE.md) - 治理文档
+- [SECURITY.md](SECURITY.md) - 安全策略
+- [SLO.md](SLO.md) - 服务级别目标
+- [docs/TECHNICAL_SPEC.md](docs/TECHNICAL_SPEC.md) - 技术规范 v0.2
 
 ---
 
-### Phase 1：控制平面重构 ⏳ 待开始
+### Phase 1：控制平面重构 🔄 开发中
 - [x] TaskEnvelope 协议定义
 - [x] WorkerRegistry 心跳注册
 - [x] Scheduler 调度器
@@ -113,8 +120,8 @@
 
 | 阶段 | 状态 | 说明 |
 |------|------|------|
-| Phase 0 | 🔄 开发中 | 接口已冻结，开始治理文档 |
-| Phase 1 | ⏳ 待开始 | 依赖 Phase 0 完成 |
+| Phase 0 | ✅ 已完成 | 治理文档、SLO、技术规范 |
+| Phase 1 | 🔄 开发中 | 等待开始控制平面重构 |
 | Phase 2-5 | ⏳ 待开始 | 后续阶段 |
 
 ---
