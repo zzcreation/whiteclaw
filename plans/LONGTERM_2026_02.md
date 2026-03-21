@@ -97,8 +97,10 @@
 - [x] 上 PostgreSQL + Redis
 - [x] 状态机持久化
 - [x] 全链路 OTel 埋点
-- [ ] Grafana SLO 看板上线
-- [ ] 建立告警策略
+- [x] Grafana SLO 看板上线
+- [x] 建立告警策略
+
+> ✅ PR #7 已合并
 
 **实现详情**:
 - 新增 `services/control_plane/database.py` - PostgreSQL 持久化 (17.8KB)
@@ -114,22 +116,57 @@
 ---
 
 ### Phase 3：测试与性能 🔄 开发中
-- [ ] 分层测试体系
-- [ ] CI 质量门禁
+- [x] 分层测试体系
+- [x] CI 质量门禁
 - [ ] 压测与故障演练
 - [ ] 容量报告与扩容策略
 
+> ⏳ 等待提交 PR
+
+**实现详情**:
+- 新增测试框架 (`pytest.ini`)
+  - `tests/conftest.py` - 测试 fixtures
+  - `tests/unit/test_scheduler.py` - 调度器单元测试
+  - `tests/unit/test_task_protocol.py` - 协议单元测试
+  - `tests/unit/test_registry.py` - 注册表单元测试
+  - `tests/integration/test_control_plane.py` - 集成测试
+- 新增 CI 质量门禁 (`.github/workflows/ci.yml`)
+  - 代码检查 (flake8)
+  - 类型检查 (mypy)
+  - 单元测试 + 覆盖率
+  - 集成测试
+  - 安全扫描 (bandit, safety)
+  - 构建验证
+
 ---
 
-### Phase 4：DevOps 与高可用 ⏳ 待开始
-- [ ] GitOps + 渐进发布
-- [ ] 自动回滚
-- [ ] 多副本/多AZ容灾
+### Phase 4：DevOps 与高可用 🔄 开发中
+- [x] GitOps + 渐进发布
+- [x] 自动回滚
+- [x] 多副本/多AZ容灾
 - [ ] 核心链路 99.95%
 
+> ⏳ 等待提交 PR
+
+**实现详情**:
+- 新增 `deploy/` 目录 - GitOps 部署配置
+  - `deploy/base/` - 基础 Kustomize 配置
+    - deployment-control-plane.yaml - 控制平面 Deployment
+    - deployment-worker.yaml - Worker Deployment
+    - hpa.yaml - 水平Pod自动扩缩容
+    - pdb.yaml - Pod中断预算
+    - service-*.yaml - 服务配置
+  - `deploy/overlays/dev/` - 开发环境配置
+  - `deploy/overlays/prod/` - 生产环境配置
+- 新增 `services/control_plane/deployment.py` - 部署管理器 (8.7KB)
+  - DeploymentManager：部署生命周期管理
+  - 支持滚动发布、蓝绿部署、金丝雀发布
+  - 自动回滚机制 (auto_rollback_on_failure)
+  - 扩缩容支持
+
 ---
 
-### Phase 5：生态与开源增长 ⏳ 待开始
+### Phase 5：生态与开源增长 🔄 开发中
 - [ ] 发布插件化 Worker SDK
 - [ ] 发布示例仓库
 - [ ] 社区运营
@@ -140,9 +177,12 @@
 
 | 阶段 | 状态 | 说明 |
 |------|------|------|
-| Phase 0 | ✅ 已完成 | 治理文档、SLO、技术规范 |
-| Phase 1 | 🔄 开发中 | 等待开始控制平面重构 |
-| Phase 2-5 | ⏳ 待开始 | 后续阶段 |
+| Phase 0 | ✅ 已完成 | PR #6 已合并 |
+| Phase 1 | ✅ 已完成 | PR #4 已合并 |
+| Phase 2 | ✅ 已完成 | PR #7 已合并 |
+| Phase 3 | 🔄 开发中 | 等待提交 PR |
+| Phase 4 | 🔄 开发中 | 等待提交 PR |
+| Phase 5 | ⏳ 待开始 | 生态与开源 |
 
 ---
 
@@ -151,7 +191,8 @@
 | PR | 标题 | 状态 | 合并时间 | 对应阶段 |
 |----|------|------|----------|----------|
 | #4 | refactor: 分离控制平面与数据平面 | ✅ 已合并 | 2026-03-21 | Phase 1 |
-| #6 | docs: 添加治理文档 (CONTRIBUTING, GOVERNANCE, SECURITY, CODE_OF_CONDUCT, LICENSE) | ✅ 已合并 | 2026-03-22 | Phase 0 |
+| #6 | docs: 添加治理文档 | ✅ 已合并 | 2026-03-22 | Phase 0 |
+| #7 | feat: Phase 2 数据与可观测性 | ✅ 已合并 | 2026-03-22 | Phase 2 |
 
 > ⚠️ **定时任务检查点**：每次执行时检查上述 PR 状态，确保开发流程顺畅
 
