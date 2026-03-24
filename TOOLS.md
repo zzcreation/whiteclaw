@@ -67,12 +67,3 @@ ssh -p 2222 zzc@192.168.130.33 "export NVM_DIR=/home/zzc/.nvm && export PATH=/ho
 - `yt-dlp` - YouTube/B站 视频字幕
 - `gh CLI` - GitHub
 
-## Proactive Tool Use
-
-- Prefer safe internal work, drafts, checks, and preparation before escalating
-- Use tools to keep work moving when the next step is clear and reversible
-- Try multiple approaches and alternative tools before asking for help
-- Use tools to test assumptions, verify mechanisms, and uncover blockers early
-- For send, spend, delete, reschedule, or contact actions, stop and ask first
-- If a tool result changes active work, update ~/proactivity/session-state.md
-
