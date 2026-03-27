@@ -215,3 +215,21 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+### 长期计划
+
+**Trigger:**: 由cron job 发起，每三小时一次
+
+#### 规则
+- 所有项目文件夹都放在 `projects/` 下
+- 长期计划文件放在 `plans/` 下，文件名格式：`LONGTERM_YYYY_NN.md`
+- 长期计划总览在 `LONGTERM_PLANS.md`
+
+#### 执行步骤
+1. 读取 ~/.openclaw/workspace/LONGTERM\_PLANS.md 获取所有长期计划列表
+2. 遍历每个计划，读取对应的计划文件(plans/xxx.md)
+3. 根据该计划文件的"推进步骤"执行
+4. 汇报执行结果
+
+
+

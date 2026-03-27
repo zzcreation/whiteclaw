@@ -67,3 +67,44 @@ ssh -p 2222 zzc@192.168.130.33 "export NVM_DIR=/home/zzc/.nvm && export PATH=/ho
 - `yt-dlp` - YouTube/B站 视频字幕
 - `gh CLI` - GitHub
 
+### Excel 转 PDF（横向+适应一页）
+
+**之前失败的原因：**
+1. 用 `libreoffice --headless --convert-to pdf` 而不是 `libreoffice --headless --calc --convert-to pdf`
+2. 缺少 `ws.sheet_properties.pageSetUpPr.fitToPage = True`
+3. scale 没有设置为 None
+
+**正确步骤：**
+
+```bash
+# 1. 用 openpyxl 调整页面设置
+python3 << 'EOF'
+import openpyxl
+from openpyxl.worksheet.page import PageMargins
+
+wb = openpyxl.load_workbook('input.xlsx')
+ws = wb.active
+
+# 横向 + A4 + 适应一页
+ws.page_setup.orientation = 'landscape'
+ws.page_setup.paperSize = 9  # A4
+ws.page_setup.fitToWidth = 1
+ws.page_setup.fitToHeight = 1
+ws.page_setup.scale = None
+
+# 缩小页边距
+ws.page_margins = PageMargins(left=0.3, right=0.3, top=0.5, bottom=0.5)
+ws.sheet_properties.pageSetUpPr.fitToPage = True
+
+wb.save('input_adjusted.xlsx')
+EOF
+
+# 2. 用 libreoffice-calc 转换（关键：用 calc 而不是 generic libreoffice）
+libreoffice --headless --calc --convert-to pdf --outdir /tmp input_adjusted.xlsx
+```
+
+**关键点：**
+- 必须用 `--calc` 参数指定用 Calc 打开
+- `fitToPage = True` 是关键设置
+- `scale = None` 让 fitToWidth/Height 生效
+
