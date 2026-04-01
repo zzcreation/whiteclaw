@@ -43,8 +43,8 @@ Add whatever helps you do your job. This is your cheat sheet.
 
 - xiaoqi-remote → 192.168.130.33:2222 (WSL2 Ubuntu)
   - 位置: Windows 主机上的 WSL2 Ubuntu
-  - Node.js: v22.22.1 (通过 nvm 安装)
-  - OpenClaw: 2026.3.13
+  - Node.js: v22.22.1 (直接安装)
+  - OpenClaw: 2026.3.24
   - Gateway: lan 模式，端口 18789
   - 端口转发: 2222 (SSH), 18789 (Gateway)
 
@@ -52,7 +52,7 @@ Add whatever helps you do your job. This is your cheat sheet.
 
 调用 xiaoqi-remote agent 的正确方式：
 ```bash
-ssh -p 2222 zzc@192.168.130.33 "export NVM_DIR=/home/zzc/.nvm && export PATH=/home/zzc/.nvm/versions/node/v22.22.1/bin:\$PATH && openclaw agent --agent xiaoqi-remote --message '任务描述' --timeout 300"
+ssh -p 2222 zzc@192.168.130.33 "openclaw agent --agent xiaoqi-remote --message '任务描述' --timeout 300"
 ```
 
 **重要提示**：
