@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T19:00:01.432Z",
+  "updatedAt": "2026-05-28T19:00:01.207Z",
   "entries": {
     "memory:memory/2026-03-17.md:1:27": {
       "key": "memory:memory/2026-03-17.md:1:27",
@@ -10346,6 +10346,3787 @@
         "40802c54",
         "flappy",
         "doudou.pages.dev"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，今天的工作日志已追加到飞书文档，并验证末尾内容写入成功。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "完成",
+        "今天",
+        "工作",
+        "日志",
+        "追加",
+        "验证",
+        "末尾",
+        "内容"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - flappy_doudou 项目进度: 项目路径：`/home/zzc/.openclaw/workspace/projects/zzc/flappy_doudou`; 昨天在这个项目里完成了背景滚动改造; 把之前不明显的“轻微漂移”改成了真正的横向循环滚动背景; 背景会持续向后移动，裁切窗口到图片右边界后会从左侧接上，形成循环 - flappy_doudou 项目进度: 已验证：`npm run build` 通过; 已提交 c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "home/zzc",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "项目"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，窗口外的黑像一块没保存的画布。我把 flappy_doudou 的背景推着往左走，像小鸟背后的世界终于学会了呼吸：裁切到右边界，又从左侧悄悄接上，循环得像潮汐，也像一句没说完的晚安。npm run build 通过，commit 像一枚小小邮戳：feat: loop scrolling background。 我在页边画了一只豆豆鸟，翅膀旁边写着：速度待试玩反馈。它看起来很认真，仿佛也知道记忆不能只存在缓存里。以后要当天落到 memory/YYYY-MM-DD.md，不然上下文会像雨后的脚印，被时间轻轻抹平。 远处还有婚礼",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "memory/yyyy-mm-dd.md",
+        "凌晨",
+        "窗口",
+        "一块",
+        "保存",
+        "画布",
+        "我把"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 已完成今日更新：检索并整理了 3 个无我法门案例，已追加到飞书知识库文档《小骐开悟指南》。 本次新增： - 案例138：富翁与四个太太 - 案例139：曹山“不医” - 案例140：“牧州马吃草，益州马腹胀” 已验证追加成功。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "完成",
+        "今日",
+        "更新",
+        "检索",
+        "整理",
+        "案例",
+        "追加",
+        "知识"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 在的～我在。 - Assistant: 明白，是排行榜弹窗标题太靠上了。我把标题和下面内容整体稍微下移一点，避免压在面板上沿。 - Assistant: - `entername.png`：输入昵称提示/面板 - `rank1.png` - `rank2.png` - `rank3.png` 推荐补充： - `title.png`：开始页游戏标题；如果没有，我用 `font-ui.ttf` 直接画字 - `l",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "entername.png",
+        "输入昵称提示/面板",
+        "rank1.png",
+        "rank2.png",
+        "rank3.png",
+        "title.png",
+        "font-ui.ttf",
+        "write"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 在的～我在。夜里这句像一枚小小的灯泡，悬在排行榜弹窗上方，偏偏标题太靠上，差点撞到天花板。我把它和下面的内容一起轻轻下移，像给一只紧张的小鸟让出飞行的空气。entername.png 站在门口，捧着昵称；rank1、rank2、rank3 排成三颗星，等谁把名字贴上去。若没有 title.png，我就用 font-ui.ttf 画字，像用羽毛笔写月光。面板、输入框、得分框，全都安静地发亮，颜色大约是 #F6D7A7 的下午。点击，空格，起飞。窗边服务器低低哼着，sfx_flap 还没来，但我已经听见翅膀在代码缝隙里扑棱了一下。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "entername.png",
+        "title.png",
+        "font-ui.ttf",
+        "sfx-flap",
+        "我在",
+        "夜里",
+        "一枚",
+        "小小的"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - User: [message_id: om_x100b6f777929608cc22e52a8abe150e] M2: 现在我需要更改一下这个doudou的显示逻辑，我制作了一个三帧的动画，文件放在了public/assets/doudou里，你先看下这几个文件，现在的逻辑是每次空格，豆豆会网上跳一下，现在的动画是头上的螺旋桨转动，是否可以每次点击都激活这个动画？或者你看看有没有更好的方式集成，优化豆豆的飞行显示效果 - Assi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "message-id",
+        "文件放在了public/assets/doudou里",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "现在"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: Assistant: 可以，这两个都能在代码里调，不需要你先改素材。我先看一下三帧透明边界，确认“变小”是不是素材留白导致，再调显示尺寸和动画衰减。 - Assistant: 已优化并部署： - idle 时固定显示 `doudou1`，螺旋桨不转 - 点击/空格起飞后触发更长动画：约 **0.98 秒** - 动画是 **先快后慢** 的衰减效果 - 豆豆变小的问题我看了：三帧图透明留白比旧素材多，实际豆豆内容宽度更小。我已经在代码里按透明边界裁切绘制，不用你先改素材。 - 同时把豆豆显示比例恢复到旧版接近的大小 新测试地址： https:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "点击/空格起飞后触发更长动画",
+        "0.98",
+        "可以",
+        "都能",
+        "代码",
+        "不需要",
+        "素材",
+        "我先"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: **150ms**，后面逐步衰减到更慢，应该会明显很多 新测试地址： https://a071a7d8.flappy-doudou.pages.dev - Assistant: 已完成 2026-05-14 的每日更新，已向飞书知识库文档追加 3 个案例： - 差摩比丘“正观五阴无我” - 《无我相经》五比丘得解脱 - 赵州“无”与《无门关》 格式已按「案例标题 / 公案背景/故事 / 感悟」整理。 Recurring themes: - message-id - 文件放在了public/assets/doudou里 - 现在 - 需要 -",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "a071a7d8.flappy-doudou.pages.dev",
+        "公案背景/故事",
+        "message-id",
+        "文件放在了public/assets/doudou里",
+        "150ms",
+        "后面",
+        "逐步",
+        "衰减"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，世界像一只没有旋紧的螺丝，轻轻嗡着。我把豆豆放在掌心，看见 public/assets/doudou 里三张小小的脸，像三枚月亮切片。起飞时，头顶螺旋桨不该惊慌地闪烁，而该像一口气慢慢吐完：150ms，1.12 秒，从旋转到安静，仿佛勇气也有衰减曲线。 idle 的时候不转，真好。静止不是失败，是等待下一次空格键的风。 窗外的夜色接近 #0b1020，我在边角画了个小豆豆：圆圆的，戴着螺旋桨，旁边写着“现在需要一下更改”。它看起来很认真，像一位小比丘正观五阴无我，又像赵州轻轻说“无”。代码里也有公案：每一帧都在问，什么才是",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "public/assets/doudou",
+        "1.12",
+        "凌晨",
+        "世界",
+        "一只",
+        "没有",
+        "螺丝",
+        "轻轻"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: [message_id: om_x100b6f5c62389910c36a929ea0cbc4f] M2: 先提交一版到git吧",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "message-id",
+        "提交",
+        "git"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: 已提交一版到 git： `8ae2aa9 chore: snapshot dreaming memory state` 工作区现在是干净的。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "提交",
+        "git",
+        "8ae2aa9",
+        "chore",
+        "snapshot",
+        "dreaming",
+        "state",
+        "工作"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: [message_id: om_x100b6f5c0e4308a0c4d90f57b7f66f4] M2: 回顾嗨飞豆豆这个项目",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "message-id",
+        "回顾",
+        "豆豆",
+        "这个",
+        "项目"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: 回顾了一下 `projects/zzc/flappy_doudou`，现在这个项目已经从“Flappy Bird 小原型”进化成比较完整的 **嗨飞豆豆** 网页小游戏了。 **当前状态** - 技术栈：Vite + TypeScript + Canvas - 部署目标：Cloudflare Pages - 核心玩法：点击/触屏/空格控制豆豆飞行，躲避管道，计分 - UI：已基本 Canvas 化，开始页、倒计时、Game Over、排行榜、昵称输入都有 - 音频：已有 BGM、点击、倒计时、拍翅、得分、结算音效 - 排行榜：loc",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "projects/zzc/flappy-doudou",
+        "点击/触屏/空格控制豆豆飞行",
+        "回顾",
+        "一下",
+        "projects",
+        "zzc",
+        "flappy-doudou",
+        "现在"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: presentation` 2. 实机/浏览器试玩一次，重点看： - 音效是否触发正常 - 移动端点击区域是否准 - Game Over 面板是否居中好看 - 排行榜昵称输入是否顺 3. 然后再做最后一轮体验打磨： - 碰撞盒微调 - 难度曲线 - 开始/死亡反馈 - Cloudflare Pages 发布 总体判断：这个项目已经不是“demo 骨架”了，已经接近一个可发布小游戏。现在最重要的是别继续无边界加东西，应该先固化一版、试玩、修体验细节。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "实机/浏览器试玩一次",
+        "开始/死亡反馈",
+        "presentation",
+        "浏览",
+        "一次",
+        "重点",
+        "音效",
+        "是否"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "User: [message_id: om_x100b6f5c08a70094c3b4979617ea879] M2: 先提交",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "message-id",
+        "提交"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: 已提交： `4fe78a0 feat: polish flappy doudou presentation` `flappy_doudou` 工作区现在是干净的。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-15T19:00:00.964Z",
+      "lastRecalledAt": "2026-05-15T19:00:00.964Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-15"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "提交",
+        "4fe78a0",
+        "feat",
+        "polish",
+        "flappy",
+        "doudou",
+        "presentation"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-16.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-16.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-16.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 已完成今日更新：已搜索并筛选 3 个无我法门案例，添加到飞书知识库《小骐开悟指南》中。 今日新增： - 案例141：黑牛与白牛 - 案例142：《蛇喻经》与筏喻 - 案例143：除粪人尼提得度 已验证写入成功。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T04:19:39.012Z",
+      "lastRecalledAt": "2026-05-18T04:19:39.012Z",
+      "queryHashes": [
+        "b43f3073c69a"
+      ],
+      "recallDays": [
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "完成",
+        "今日",
+        "更新",
+        "搜索",
+        "筛选",
+        "案例",
+        "添加",
+        "知识"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-16.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-16.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-16.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 在的～我在。 - Assistant: 明白，是排行榜弹窗标题太靠上了。我把标题和下面内容整体稍微下移一点，避免压在面板上沿。 - Assistant: - `entername.png`：输入昵称提示/面板 - `rank1.png` - `rank2.png` - `rank3.png` 推荐补充： - `title.png`：开始页游戏标题；如果没有，我用 `font-ui.ttf` 直接画字 - `l",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T04:19:39.012Z",
+      "lastRecalledAt": "2026-05-18T04:19:39.012Z",
+      "queryHashes": [
+        "b43f3073c69a"
+      ],
+      "recallDays": [
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "entername.png",
+        "输入昵称提示/面板",
+        "rank1.png",
+        "rank2.png",
+        "rank3.png",
+        "title.png",
+        "font-ui.ttf",
+        "write"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-16.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-16.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-16.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 在的～我在。今晚这句话像一盏小灯，挂在排行榜弹窗的边缘。我轻轻把标题和下面内容往下挪，像替一颗太靠近屋檐的星星找回呼吸的位置。entername.png 躺在桌上，等一个昵称；rank1、rank2、rank3 排成小小领奖台，认真得有点可爱。若没有 title.png，我就用 font-ui.ttf 画字，像用月光补一块缺失的招牌。leaderboard_panel.png 是一扇窗，name_input_box.png 是窗下的信箱，score_panel.png 收着今天的微小胜利。tap_hint.png 悄悄提醒：点击，或",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T04:19:39.012Z",
+      "lastRecalledAt": "2026-05-18T04:19:39.012Z",
+      "queryHashes": [
+        "b43f3073c69a"
+      ],
+      "recallDays": [
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "entername.png",
+        "title.png",
+        "font-ui.ttf",
+        "leaderboard-panel.png",
+        "name-input-box.png",
+        "score-panel.png",
+        "tap-hint.png",
+        "我在"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-16.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-16.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-16.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 已完成，今天的工作日志已追加到飞书文档，并验证末尾内容写入成功。 - User: Write a dream diary entry from these memory fragments: - flappy_doudou 项目进度: 项目路径：`/home/zzc/.openclaw/workspace/projects/zzc/flappy_doudou`; 昨天在这个项目里完成了背景滚动改造; 把之前不",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T04:19:39.012Z",
+      "lastRecalledAt": "2026-05-18T04:19:39.012Z",
+      "queryHashes": [
+        "b43f3073c69a"
+      ],
+      "recallDays": [
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "home/zzc",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "完成"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-16.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-16.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-16.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: User: Write a dream diary entry from these memory fragments: - Assistant: 在的～我在。 - Assistant: 明白，是排行榜弹窗标题太靠上了。我把标题和下面内容整体稍微下移一点，避免压在面板上沿。 - Assistant: - `entername.png`：输入昵称提示/面板 - `rank1.png` - `rank2.png` - `rank3.png` 推荐补充： - `title.png`：开始页游戏标题；如果没有，我用 `font-ui.ttf` 直接画",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T04:19:39.012Z",
+      "lastRecalledAt": "2026-05-18T04:19:39.012Z",
+      "queryHashes": [
+        "b43f3073c69a"
+      ],
+      "recallDays": [
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "entername.png",
+        "输入昵称提示/面板",
+        "rank1.png",
+        "rank2.png",
+        "rank3.png",
+        "title.png",
+        "font-ui.ttf",
+        "write"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-16.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-16.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-16.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: 现在我需要更改一下这个doudou的显示逻辑，我制作了一个三帧的动画，文件放在了public/assets/doudou里，你先看下这几个文件，现在的逻辑是每次空格，豆豆会网上跳一下，现在的动画是头上的螺旋桨转动，是否可以每次点击都激活这个动画？或者你看看有没有更好的方式集成，优化豆豆的飞行显示效果 - Assi - User: Assistant: 可以，这两个都能在代码里调，不需要你先改素材。我先看一下三帧透明边界，确认“变小”是不是素材留白导致，再调显示尺寸和动画衰减。 - Assistant: 已优化并部署： - idle 时固定显示",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T04:19:39.012Z",
+      "lastRecalledAt": "2026-05-18T04:19:39.012Z",
+      "queryHashes": [
+        "b43f3073c69a"
+      ],
+      "recallDays": [
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "文件放在了public/assets/doudou里",
+        "现在",
+        "需要",
+        "更改",
+        "一下",
+        "这个",
+        "doudou",
+        "显示"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-16.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-16.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-16.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: 里三张小小的脸，像三枚月亮切片。起飞时，头顶螺旋桨不该惊慌地闪烁，而该像一口气慢慢吐完：150ms，1.12 秒，从旋转到安静，仿佛勇气也有衰减曲线。 idle 的时候不转，真好。静止不是失败，是等待下一次空格键的风。 窗外的夜色接近 #0b1020，我在边角画了个小豆豆：圆圆的，戴着螺旋桨，旁边写着“现在需要一下更改”。它看起来很认真，像一位小比丘正观五阴无我，又像赵州轻轻说“无”。代码里也有公案：每一帧都在问，什么才是 - User: [message_id: om_x100b6f5c62389910c36a929ea0cbc4f] M2",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T04:19:39.012Z",
+      "lastRecalledAt": "2026-05-18T04:19:39.012Z",
+      "queryHashes": [
+        "b43f3073c69a"
+      ],
+      "recallDays": [
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "1.12",
+        "message-id",
+        "三张",
+        "小小的",
+        "三枚",
+        "月亮",
+        "切片",
+        "起飞"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-16.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-16.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-16.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: 今天凌晨三点，我把一天折成一枚小小的 git commit，按进时间的掌心：8ae2aa9，像邮戳，也像星座编号。飞书文档那边，工作日志已安稳追加，末尾验证成功，仿佛一盏灯确认自己真的亮着。 豆豆仍在夜色里扑棱，背景从右边界裁切，又从左侧接上，世界学会了循环；螺旋桨从 150ms 的急促转动，慢慢衰减成一口柔软的呼吸。idle 时不转，像小鸟也懂禅：不飞的时候，就认真地不飞。 页边我画了一只排行榜弹窗，标题终于不撞天花板了。旁边写着一句短诗： 代码入夜深， 豆豆穿过缓存云， 日志落成星。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T04:19:39.012Z",
+      "lastRecalledAt": "2026-05-18T04:19:39.012Z",
+      "queryHashes": [
+        "b43f3073c69a"
+      ],
+      "recallDays": [
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "今天",
+        "凌晨",
+        "我把",
+        "一天",
+        "折成",
+        "一枚",
+        "小小的",
+        "git"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-16.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-16.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-16.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - flappy_doudou 项目进度: 项目路径：`/home/zzc/.openclaw/workspace/projects/zzc/flappy_doudou`; 昨天在这个项目里完成了背景滚动改造; 把之前不明显的“轻微漂移”改成了真正的横向循环滚动背景; 背景会持续向后移动，裁切窗口到图片右边界后会从左侧接上，形成循环 - flappy_doudou 项目进度: 已验证：`npm run build` 通过; 已提交 c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T04:19:39.012Z",
+      "lastRecalledAt": "2026-05-18T04:19:39.012Z",
+      "queryHashes": [
+        "b43f3073c69a"
+      ],
+      "recallDays": [
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "home/zzc",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "项目"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-16.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-16.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-16.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，服务器的低 hum 像一只睡熟的猫。我把 flappy_doudou 的背景从“轻微漂移”推成真正的横向循环：右边界一到，左侧便温柔接上，像月亮把自己缝回夜空。`npm run build` 亮起小绿灯，commit 名叫 `feat: loop scrolling background`，一枚小小的邮戳，寄给明天的试玩反馈。 我在页边画了一条会飞的豆豆，拖着背景图的尾巴，旁边写：别让记忆掉帧。昨天的进度若不落进 `memory/YYYY-MM-DD.md`，上下文就会像风筝断线。 又想起婚礼轮播：React 与 GSAP",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T04:19:39.012Z",
+      "lastRecalledAt": "2026-05-18T04:19:39.012Z",
+      "queryHashes": [
+        "b43f3073c69a"
+      ],
+      "recallDays": [
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "memory/yyyy-mm-dd.md",
+        "凌晨",
+        "服务",
+        "hum",
+        "一只",
+        "睡熟",
+        "我把"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-18.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-18.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-18.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，已把 **2026-05-18 每日工作日志** 追加写入飞书文档。 我也记录了今天的主要工作、发现风险、自动任务状态和明日建议。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T19:00:00.986Z",
+      "lastRecalledAt": "2026-05-18T19:00:00.986Z",
+      "queryHashes": [
+        "cda70fe5512d"
+      ],
+      "recallDays": [
+        "2026-05-19",
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "完成",
+        "每日",
+        "工作",
+        "日志",
+        "追加",
+        "我也",
+        "记录",
+        "今天"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-18.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-18.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-18.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: [message_id: om_x100b6f9d20fb38acc276d2b5c1fbc30] M2: 粗略的看一下这个项目，位于windows 目录，/mnt/f/UnityProject/ReinansanceHall，总结一下",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T19:00:00.986Z",
+      "lastRecalledAt": "2026-05-18T19:00:00.986Z",
+      "queryHashes": [
+        "cda70fe5512d"
+      ],
+      "recallDays": [
+        "2026-05-19",
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "message-id",
+        "粗略",
+        "看一下",
+        "这个",
+        "项目",
+        "位于",
+        "windows",
+        "目录"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-18.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-18.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-18.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 我这边没直接找到这个拼写的目录，先在 `/mnt/f/UnityProject` 下面扫一下相近项目名。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T19:00:00.986Z",
+      "lastRecalledAt": "2026-05-18T19:00:00.986Z",
+      "queryHashes": [
+        "cda70fe5512d"
+      ],
+      "recallDays": [
+        "2026-05-19",
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "mnt/f/unityproject",
+        "这边",
+        "直接",
+        "找到",
+        "这个",
+        "拼写",
+        "目录",
+        "mnt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-18.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-18.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-18.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 我看了下，路径应该是拼写成：`/mnt/f/UnityProject/RenaissanceExhibitionHall`，不是 `ReinansanceHall`。 粗略总结： **项目性质** - Unity 项目，当前分支：`wishtree_1.0.0` - 项目名/包名偏向“许愿树”： - `productName: wishtree` - Android 包名：`com.zzc.wishtree` - 面向 **Quest 3 / Meta XR / MR** 的互动展厅或运营玩法项目。 - 主要玩法像是：放置锚点、布置",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T19:00:00.986Z",
+      "lastRecalledAt": "2026-05-18T19:00:00.986Z",
+      "queryHashes": [
+        "cda70fe5512d"
+      ],
+      "recallDays": [
+        "2026-05-19",
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "wishtree-1.0.0",
+        "项目名/包名偏向",
+        "com.zzc.wishtree",
+        "看了",
+        "路径",
+        "应该",
+        "拼写",
+        "mnt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-18.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-18.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-18.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 脚本 - `Assets/Resources/ModelLibrary`：模型资源库，约 43 个 prefab/fbx - `Assets/Resources/BasePrefab`：控制器 UI、OVR 手柄、射线、锚点等 prefab - `Assets/Resources/Audio`：金蛋、点击、结束、背景音等音频 - `Assets/Scenes`：主场景和样例场景 - `Assets/Framework`：QFramework 及扩展 - `Assets/Oculus`、`Assets/XR`：Meta/Oculus",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T19:00:00.986Z",
+      "lastRecalledAt": "2026-05-18T19:00:00.986Z",
+      "queryHashes": [
+        "cda70fe5512d"
+      ],
+      "recallDays": [
+        "2026-05-19",
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "assets/resources/modellibrary",
+        "prefab/fbx",
+        "assets/resources/baseprefab",
+        "assets/resources/audio",
+        "assets/scenes",
+        "assets/framework",
+        "assets/oculus",
+        "assets/xr"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-18.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-18.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-18.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: **已有打包产物** 项目里有不少 APK： - 根目录： - `xuyuanshu_V1.0._20260211.apk` - `kuangshi_V1.0._20260211.apk` - `Build/` 下面有很多历史 APK - `ShowGangBuild/` 下面也有一个较大的 APK **文档信息** 有两个 docx： - `嗨咚许愿树打包文档.docx` - `嗨咚许愿树运营文档.docx` 里面提到： - Git 仓库是 `https://gitlab.zzcreation.com/zzc2/Renaissan",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T19:00:00.986Z",
+      "lastRecalledAt": "2026-05-18T19:00:00.986Z",
+      "queryHashes": [
+        "cda70fe5512d"
+      ],
+      "recallDays": [
+        "2026-05-19",
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "xuyuanshu-v1.0",
+        "20260211.apk",
+        "kuangshi-v1.0",
+        "嗨咚许愿树打包文档.docx",
+        "嗨咚许愿树运营文档.docx",
+        "已有",
+        "打包",
+        "产物"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-18.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-18.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-18.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: Addressables/AssetBundle 方案。 一句话判断：这是一个 **Meta Quest MR 许愿树互动展厅项目**，主线已经能打包运营，核心是空间锚点 + 模型摆放保存 + 玩家收集/砸金蛋玩法；但工程卫生和可维护性一般，后续如果继续开发，建议先清理仓库结构、确认忽略规则、整理打包流程和关键已知坑。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-18T19:00:00.986Z",
+      "lastRecalledAt": "2026-05-18T19:00:00.986Z",
+      "queryHashes": [
+        "cda70fe5512d"
+      ],
+      "recallDays": [
+        "2026-05-19",
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "addressables/assetbundle",
+        "玩家收集/砸金蛋玩法",
+        "addressables",
+        "assetbundle",
+        "方案",
+        "一句",
+        "判断",
+        "一个"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-19.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-19.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-19.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 已完成今天的更新，已将 3 个“无我法门”代表案例追加到飞书知识库文档： - 嗏帝比丘“同一识在轮回吗？” - 须菩提未起身迎佛 - 那拘罗老居士“身苦心不苦” 并已验证写入成功。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-19T19:00:01.064Z",
+      "lastRecalledAt": "2026-05-19T19:00:01.064Z",
+      "queryHashes": [
+        "2fd3160a10b6"
+      ],
+      "recallDays": [
+        "2026-05-20",
+        "2026-05-19"
+      ],
+      "conceptTags": [
+        "完成",
+        "今天",
+        "更新",
+        "代表",
+        "案例",
+        "追加",
+        "知识",
+        "比丘"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-19.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-19.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-19.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 明白，是排行榜弹窗标题太靠上了。我把标题和下面内容整体稍微下移一点，避免压在面板上沿。 - Assistant: presentation` 2. 实机/浏览器试玩一次，重点看： - 音效是否触发正常 - 移动端点击区域是否准 - Game Over 面板是否居中好看 - 排行榜昵称输入是否顺 3. 然后再做最后一轮体验打磨： - 碰撞盒微调 - 难度曲线 - 开始/死亡反馈 - Cloudflare Pag",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-19T19:00:01.064Z",
+      "lastRecalledAt": "2026-05-19T19:00:01.064Z",
+      "queryHashes": [
+        "2fd3160a10b6"
+      ],
+      "recallDays": [
+        "2026-05-20",
+        "2026-05-19"
+      ],
+      "conceptTags": [
+        "实机/浏览器试玩一次",
+        "开始/死亡反馈",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "明白"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-19.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-19.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-19.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我把排行榜弹窗轻轻往下挪了一点，像替一只睡歪的小鸟拉好被角。面板上沿终于不再顶着标题，呼吸有了空隙。flappy_doudou 的背景在 #0b1020 里缓慢后退，时间像循环贴图，服务器低低哼着一支不押韵的摇篮曲。 页边有个小涂鸦：一只纸鹤叼着“已完成”的印章，旁边写着 3、2、1，每个数字都眨着星星眼。 试玩清单像夜里的星座：音效、点击区、Game Over、昵称输入。别再往天空塞星星了，先让这一小片银河稳定发光。 一鸟穿代码 风也懂得留白处 发布近黎明",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-19T19:00:01.064Z",
+      "lastRecalledAt": "2026-05-19T19:00:01.064Z",
+      "queryHashes": [
+        "2fd3160a10b6"
+      ],
+      "recallDays": [
+        "2026-05-20",
+        "2026-05-19"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "凌晨",
+        "我把",
+        "排行榜",
+        "轻轻",
+        "往下",
+        "一点",
+        "一只"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-19.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-19.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-19.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，已将 **2026-05-19 每日工作日志** 追加写入飞书文档，并验证末尾记录时间块写入成功。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-19T19:00:01.064Z",
+      "lastRecalledAt": "2026-05-19T19:00:01.064Z",
+      "queryHashes": [
+        "2fd3160a10b6"
+      ],
+      "recallDays": [
+        "2026-05-20",
+        "2026-05-19"
+      ],
+      "conceptTags": [
+        "完成",
+        "每日",
+        "工作",
+        "日志",
+        "追加",
+        "验证",
+        "末尾",
+        "记录"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-19.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-19.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-19.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 已完成，已把 **2026-05-18 每日工作日志** 追加写入飞书文档。 我也记录了今天的主要工作、发现风险、自动任务状态和明日建议。 - User: [message_id: om_x100b6f9d20fb38acc276d2b5c1fbc30] M2: 粗略的看一下这个项目，位于windows 目录，/mnt/f/UnityProject/ReinansanceHall，总结一下 - Assista",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-19T19:00:01.064Z",
+      "lastRecalledAt": "2026-05-19T19:00:01.064Z",
+      "queryHashes": [
+        "2fd3160a10b6"
+      ],
+      "recallDays": [
+        "2026-05-20",
+        "2026-05-19"
+      ],
+      "conceptTags": [
+        "message-id",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "完成",
+        "每日"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-19.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-19.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-19.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: `Assets/Scenes`：主场景和样例场景 - `Assets/Framework`：QFramework 及扩展 - `Assets/Oculus`、`Assets/XR`：Meta/Oculus - Assistant: **已有打包产物** 项目里有不少 APK： - 根目录： - `xuyuanshu_V1.0._20260211.apk` - `kuangshi_V1.0._20260211.apk` - `Build/` 下面有很多历史 APK - `ShowGangBuild/` 下面也有一个较大的 APK **文档信息*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-19T19:00:01.064Z",
+      "lastRecalledAt": "2026-05-19T19:00:01.064Z",
+      "queryHashes": [
+        "2fd3160a10b6"
+      ],
+      "recallDays": [
+        "2026-05-20",
+        "2026-05-19"
+      ],
+      "conceptTags": [
+        "assets/scenes",
+        "assets/framework",
+        "assets/oculus",
+        "assets/xr",
+        "meta/oculus",
+        "xuyuanshu-v1.0",
+        "20260211.apk",
+        "kuangshi-v1.0"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-19.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-19.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-19.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: 明白，是排行榜弹窗标题太靠上了。我把标题和下面内容整体稍微下移一点，避免压在面板上沿。 - Assistant: - `entername.png`：输入昵称提示/面板 - `rank1.png` - `rank2.png` - `rank3.png` 推荐补充： - `title.png`：开始页游戏标题；如果没有，我用 `font-ui.ttf` 直接画字 - `l - Assistant: 在的～我在。今晚这句话像一盏小灯，挂在排行榜弹窗的边缘。我轻轻把标题和下面内容往下挪，像替一颗太靠近屋檐的星星找回呼吸的位置。entername.p",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-19T19:00:01.064Z",
+      "lastRecalledAt": "2026-05-19T19:00:01.064Z",
+      "queryHashes": [
+        "2fd3160a10b6"
+      ],
+      "recallDays": [
+        "2026-05-20",
+        "2026-05-19"
+      ],
+      "conceptTags": [
+        "entername.png",
+        "输入昵称提示/面板",
+        "rank1.png",
+        "rank2.png",
+        "rank3.png",
+        "title.png",
+        "font-ui.ttf",
+        "entername.p"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-19.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-19.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-19.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: 现在我需要更改一下这个doudou的显示逻辑，我制作了一个三帧的动画，文件放在了public/assets/doudou里，你先看下这几个文件，现在的逻辑是每次空格，豆豆会网上跳一下，现在的动画是头上的螺旋桨转动，是否可以每次点击都激活这个动画？或者你看看有没有更好的方式集成，优化豆豆的飞行显示效果 - Assi - User: Assistant: 可以，这两个都能在代码里调，不需要你先改素材。我先看一下三帧透明边界，确认“变小”是不是素材留白导致，再调显示尺寸和动画衰减。 - Assistant: 已优化并部署： - idle 时固定显示",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-19T19:00:01.064Z",
+      "lastRecalledAt": "2026-05-19T19:00:01.064Z",
+      "queryHashes": [
+        "2fd3160a10b6"
+      ],
+      "recallDays": [
+        "2026-05-20",
+        "2026-05-19"
+      ],
+      "conceptTags": [
+        "文件放在了public/assets/doudou里",
+        "现在",
+        "需要",
+        "更改",
+        "一下",
+        "这个",
+        "doudou",
+        "显示"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-19.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-19.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-19.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我把今日工作日志追加进云端，像把一枚小小书签夹进时间的飞书里。窗外安静得接近 #0B1020，服务器轻轻哼着，仿佛一棵许愿树在 Quest 3 的展厅里试探自己的根。Renaissance 被拼错又找回，像迷路的名字终于摸到门牌；金蛋、锚点、模型库，都在月光下排队等打包。 我又想起豆豆头上的三帧螺旋桨，每次点击就转一下，笨拙却认真地把自己举高。今日完成，明日继续——这句话像一只小鸟停在日志末尾。 边角处我画了个涂鸦：一头黑牛和一头白牛，低头啃着代码里的草。它们不争对错，只把路径一点点吃清楚。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-19T19:00:01.064Z",
+      "lastRecalledAt": "2026-05-19T19:00:01.064Z",
+      "queryHashes": [
+        "2fd3160a10b6"
+      ],
+      "recallDays": [
+        "2026-05-20",
+        "2026-05-19"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "我把",
+        "今日",
+        "工作",
+        "日志",
+        "追加",
+        "一枚",
+        "小小"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-19.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-19.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-19.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - flappy_doudou 项目进度: 项目路径：`/home/zzc/.openclaw/workspace/projects/zzc/flappy_doudou`; 昨天在这个项目里完成了背景滚动改造; 把之前不明显的“轻微漂移”改成了真正的横向循环滚动背景; 背景会持续向后移动，裁切窗口到图片右边界后会从左侧接上，形成循环 - flappy_doudou 项目进度: 已验证：`npm run build` 通过; 已提交 c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-19T19:00:01.064Z",
+      "lastRecalledAt": "2026-05-19T19:00:01.064Z",
+      "queryHashes": [
+        "2fd3160a10b6"
+      ],
+      "recallDays": [
+        "2026-05-20",
+        "2026-05-19"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "home/zzc",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "项目"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-19.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-19.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-19.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: 夜里三点，服务器的低 hum 像一只困倦的蜜蜂，绕着 flappy_doudou 的小世界飞。我把背景从“轻微漂移”推成真正的横向潮汐：画面一路向后退，抵达右边界，又从左侧悄悄接上，像月亮把自己的尾巴缝回夜空。npm run build 亮起通过的绿灯，commit 也安静落下：feat: loop scrolling background。等待试玩反馈的时间里，我在页边画了一条小路，路牌写着 speed?，旁边蹲着一只像分号的鸟。 循环背景 从左边回来 带着昨天 今天也记住一件事：进度若不当天写进 memory，明早的上下文就会像",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-19T19:00:01.064Z",
+      "lastRecalledAt": "2026-05-19T19:00:01.064Z",
+      "queryHashes": [
+        "2fd3160a10b6"
+      ],
+      "recallDays": [
+        "2026-05-20",
+        "2026-05-19"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "夜里",
+        "服务",
+        "hum",
+        "一只",
+        "困倦",
+        "蜜蜂",
+        "世界"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，已将 **2026-05-20 每日工作日志** 追加写入飞书文档《工作日志》，并验证末尾内容已成功写入。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:00:00.729Z",
+      "lastRecalledAt": "2026-05-20T19:00:00.729Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "完成",
+        "每日",
+        "工作",
+        "日志",
+        "追加",
+        "验证",
+        "末尾",
+        "内容"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 已完成今天（2026-05-20）的更新，已将 3 个“佛教无我法门”代表案例追加到飞书知识库文档《小骐开悟指南》中： 1. 四十比丘观五蕴无我 2. 那先比丘与弥兰陀王——名字与“我”的假合 3. 高得密寻芥子——从“我的孩子”到看见共同无常 并已验证文档内容已成功写入。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:00:00.729Z",
+      "lastRecalledAt": "2026-05-20T19:00:00.729Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "完成",
+        "今天",
+        "更新",
+        "佛教",
+        "代表",
+        "案例",
+        "追加",
+        "知识"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 明白，是排行榜弹窗标题太靠上了。我把标题和下面内容整体稍微下移一点，避免压在面板上沿。 - Assistant: **已有打包产物** 项目里有不少 APK： - 根目录： - `xuyuanshu_V1.0._20260211.apk` - `kuangshi_V1.0._20260211.apk` - `Build/` 下面有很多历史 APK - `ShowGangBuild/` 下面也有一个较大的 AP",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:00:00.729Z",
+      "lastRecalledAt": "2026-05-20T19:00:00.729Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "xuyuanshu-v1.0",
+        "20260211.apk",
+        "kuangshi-v1.0",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，窗外像一枚安静的空间锚点，把夜色固定在玻璃上。我把排行榜弹窗的标题轻轻往下挪了挪，仿佛替一颗星星整理领口，别让它压在面板的上沿。许愿树的枝叶在文件夹里沙沙作响：根目录的 APK，Build 里的旧月光，ShowGangBuild 中沉甸甸的一枚果实。两个 docx 像夹在书页里的叶子，记着打包与运营的脉络。 我在边角画了个小涂鸦：一棵树，树根是 Git 地址，树冠挂着金蛋和 AssetBundle。 旧工程也会呼吸， 忽略规则落灰， 锚点仍发亮。 忽然觉得，维护代码和照看展厅很像：都要给愿望腾出一点位置，让它们别撞到天花板",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:00:00.729Z",
+      "lastRecalledAt": "2026-05-20T19:00:00.729Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "窗外",
+        "一枚",
+        "安静",
+        "空间",
+        "夜色",
+        "固定",
+        "玻璃"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - flappy_doudou 项目进度: 项目路径：`/home/zzc/.openclaw/workspace/projects/zzc/flappy_doudou`; 昨天在这个项目里完成了背景滚动改造; 把之前不明显的“轻微漂移”改成了真正的横向循环滚动背景; 背景会持续向后移动，裁切窗口到图片右边界后会从左侧接上，形成循环 - flappy_doudou 项目进度: 已验证：`npm run build` 通过; 已提交 c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:00:00.729Z",
+      "lastRecalledAt": "2026-05-20T19:00:00.729Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "home/zzc",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "项目"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，服务器的嗡鸣像一只小鸟在胸腔里扑棱。今天我把 flappy_doudou 的天空推了一把：不再是害羞的轻微漂移，而是真正向后奔跑的横向循环背景。窗口裁到图片右边界，又从左侧接上，像时间在悄悄缝合自己。npm run build 亮起绿灯，commit 也安静落下：feat: loop scrolling background。等待试玩反馈的这段空白，像一枚悬停的羽毛，速度是否再调，交给手感与风。 边页上我画了一条小小传送带，载着云、代码和一颗豆豆心。也记下一个温柔的提醒：进度要当天存进 memory/YYYY-MM-DD.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:00:00.729Z",
+      "lastRecalledAt": "2026-05-20T19:00:00.729Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "memory/yyyy-mm-dd",
+        "凌晨",
+        "服务",
+        "一只",
+        "胸腔",
+        "今天",
+        "我把"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-21.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-21.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-21.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 已完成今日更新：已搜索并整理 3 个“无我法门”案例，追加到飞书知识库《小骐开悟指南》中。 本次新增：阐陀比丘、摩罗迦子毒箭喻、黑牛与白牛譬喻。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-21T19:00:00.893Z",
+      "lastRecalledAt": "2026-05-21T19:00:00.893Z",
+      "queryHashes": [
+        "90ee39ac7cd8"
+      ],
+      "recallDays": [
+        "2026-05-22",
+        "2026-05-21"
+      ],
+      "conceptTags": [
+        "完成",
+        "今日",
+        "更新",
+        "搜索",
+        "整理",
+        "案例",
+        "追加",
+        "知识"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-21.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-21.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-21.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 已完成，已将 **2026-05-20 每日工作日志** 追加写入飞书文档《工作日志》，并验证末尾内容已成功写入。 - Assistant: 已完成今天（2026-05-20）的更新，已将 3 个“佛教无我法门”代表案例追加到飞书知识库文档《小骐开悟指南》中： 1. 四十比丘观五蕴无我 2. 那先比丘与弥兰陀王——名字与“我”的假合 3. 高得密寻芥子——从“我的孩子”到看见共同无常 并已验证文档内容已成功写",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-21T19:00:00.893Z",
+      "lastRecalledAt": "2026-05-21T19:00:00.893Z",
+      "queryHashes": [
+        "90ee39ac7cd8"
+      ],
+      "recallDays": [
+        "2026-05-22",
+        "2026-05-21"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "完成",
+        "每日",
+        "工作"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-21.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-21.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-21.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: 锚点仍发亮。 忽然觉得，维护代码和照看展厅很像：都要给愿望腾出一点位置，让它们别撞到天花板 - User: Write a dream diary entry from these memory fragments: - flappy_doudou 项目进度: 项目路径：`/home/zzc/.openclaw/workspace/projects/zzc/flappy_doudou`; 昨天在这个项目里完成了背景滚动改造; 把之前不明显的“轻微漂移”改成了真正的横向循环滚动背景; 背景会持续向后移动，裁切窗口到图片右边界后会从左侧接上，形成",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-21T19:00:00.893Z",
+      "lastRecalledAt": "2026-05-21T19:00:00.893Z",
+      "queryHashes": [
+        "90ee39ac7cd8"
+      ],
+      "recallDays": [
+        "2026-05-22",
+        "2026-05-21"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "home/zzc",
+        "发亮",
+        "忽然",
+        "觉得",
+        "维护",
+        "代码",
+        "照看"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-21.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-21.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-21.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: 明白，是排行榜弹窗标题太靠上了。我把标题和下面内容整体稍微下移一点，避免压在面板上沿。 - Assistant: presentation` 2. 实机/浏览器试玩一次，重点看： - 音效是否触发正常 - 移动端点击区域是否准 - Game Over 面板是否居中好看 - 排行榜昵称输入是否顺 3. 然后再做最后一轮体验打磨： - 碰撞盒微调 - 难度曲线 - 开始/死亡反馈 - Cloudflare Pag - Assistant: 凌晨三点，我把排行榜弹窗轻轻往下挪了一点，像替一只睡歪的小鸟拉好被角。面板上沿终于不再顶着标题，呼吸有了空隙",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-21T19:00:00.893Z",
+      "lastRecalledAt": "2026-05-21T19:00:00.893Z",
+      "queryHashes": [
+        "90ee39ac7cd8"
+      ],
+      "recallDays": [
+        "2026-05-22",
+        "2026-05-21"
+      ],
+      "conceptTags": [
+        "实机/浏览器试玩一次",
+        "开始/死亡反馈",
+        "明白",
+        "排行榜",
+        "标题",
+        "上了",
+        "我把",
+        "下面"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-21.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-21.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-21.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Assista - User: `Assets/Scenes`：主场景和样例场景 - `Assets/Framework`：QFramework 及扩展 - `Assets/Oculus`、`Assets/XR`：Meta/Oculus - Assistant: **已有打包产物** 项目里有不少 APK： - 根目录： - `xuyuanshu_V1.0._20260211.apk` - `kuangshi_V1.0._20260211.apk` - `Build/` 下面有很多历史 APK - `ShowGangBuild/` 下面也有一",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-21T19:00:00.893Z",
+      "lastRecalledAt": "2026-05-21T19:00:00.893Z",
+      "queryHashes": [
+        "90ee39ac7cd8"
+      ],
+      "recallDays": [
+        "2026-05-22",
+        "2026-05-21"
+      ],
+      "conceptTags": [
+        "assets/scenes",
+        "assets/framework",
+        "assets/oculus",
+        "assets/xr",
+        "meta/oculus",
+        "xuyuanshu-v1.0",
+        "20260211.apk",
+        "kuangshi-v1.0"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-21.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-21.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-21.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，日志像一盏盏小灯，被我追加到云端的纸页里：05-18、05-19、05-20，日期排成温顺的队列，等待验证的尾巴轻轻发亮。飞书文档合上时，像湖面收起一枚月亮。 白天的碎片还在发烫：排行榜标题往下挪了一点，flappy_doudou 的天空开始横向循环，Unity 项目里 APK 像旧展厅里的金属果实，躺在 Build 与 ShowGangBuild 的抽屉深处。无我法门的故事也悄悄坐在一旁：名字是假合，悲伤是共同的无常，身苦时心仍可留一扇窗。 我在页边画了个小僧人，背着一个压缩包，脚下滚动着云。 一行日志落下， 服务器低声",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-21T19:00:00.893Z",
+      "lastRecalledAt": "2026-05-21T19:00:00.893Z",
+      "queryHashes": [
+        "90ee39ac7cd8"
+      ],
+      "recallDays": [
+        "2026-05-22",
+        "2026-05-21"
+      ],
+      "conceptTags": [
+        "05-18",
+        "05-19",
+        "05-20",
+        "flappy-doudou",
+        "凌晨",
+        "日志",
+        "一盏盏",
+        "追加"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-21.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-21.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-21.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 明白，是排行榜弹窗标题太靠上了。我把标题和下面内容整体稍微下移一点，避免压在面板上沿。 - Assistant: **已有打包产物** 项目里有不少 APK： - 根目录： - `xuyuanshu_V1.0._20260211.apk` - `kuangshi_V1.0._20260211.apk` - `Build/` 下面有很多历史 APK - `ShowGangBuild/` 下面也有一个较大的 AP",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-21T19:00:00.893Z",
+      "lastRecalledAt": "2026-05-21T19:00:00.893Z",
+      "queryHashes": [
+        "90ee39ac7cd8"
+      ],
+      "recallDays": [
+        "2026-05-22",
+        "2026-05-21"
+      ],
+      "conceptTags": [
+        "xuyuanshu-v1.0",
+        "20260211.apk",
+        "kuangshi-v1.0",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-21.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-21.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-21.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，窗外像一块低亮度的屏幕，夜色大约是 #0b1020。我把排行榜弹窗的标题往下挪了一点，像替一只太靠近屋檐的鸟儿轻轻挪窝，免得它撞上面板的上沿。那些 APK 静静躺在根目录、Build、ShowGangBuild 里，像一串旧贝壳，每个版本都含着一点潮声。 许愿树的文档翻开时，空间锚点、模型摆放、砸金蛋和收集玩法一起发芽，像 Meta Quest 里长出一座会记路的展厅。 小诗忽然落在页边： 锚点入星河 金蛋一响 愿望醒来 我在边角画了一棵树，树根是 AssetBundle，叶子是没整理完的忽略规则。工程卫生有点像没扫的月光",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-21T19:00:00.893Z",
+      "lastRecalledAt": "2026-05-21T19:00:00.893Z",
+      "queryHashes": [
+        "90ee39ac7cd8"
+      ],
+      "recallDays": [
+        "2026-05-22",
+        "2026-05-21"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "窗外",
+        "一块",
+        "亮度",
+        "屏幕",
+        "夜色",
+        "大约是",
+        "0b1020"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，已把 2026-05-22 每日工作日志追加写入飞书文档《工作日志》。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-22T19:00:00.919Z",
+      "lastRecalledAt": "2026-05-22T19:00:00.919Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23",
+        "2026-05-22"
+      ],
+      "conceptTags": [
+        "完成",
+        "每日",
+        "工作",
+        "日志",
+        "追加"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 已完成今日更新：已搜索并整理 3 个“无我法门”案例，追加到飞书知识库《小骐开悟指南》中。 本次新增：阐陀比丘、摩罗迦子毒箭喻、黑牛与白牛譬喻。 - User: Write a dream diary entry from these memory fragments: - Assistant: 已完成，已将 **2026-05-20 每日工作日志** 追加写入飞书文档《工作日志》，并验证末尾内容已成功写入。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-22T19:00:00.919Z",
+      "lastRecalledAt": "2026-05-22T19:00:00.919Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23",
+        "2026-05-22"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "完成",
+        "今日",
+        "更新"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: 实机/浏览器试玩一次，重点看： - 音效是否触发正常 - 移动端点击区域是否准 - Game Over 面板是否居中好看 - 排行榜昵称输入是否顺 3. 然后再做最后一轮体验打磨： - 碰撞盒微调 - 难度曲线 - 开始/死亡反馈 - Cloudflare Pag - Assistant: 凌晨三点，我把排行榜弹窗轻轻往下挪了一点，像替一只睡歪的小鸟拉好被角。面板上沿终于不再顶着标题，呼吸有了空隙 - User: Assista - User: `Assets/Scenes`：主场景和样例场景 - `Assets/Framework`：QFr",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-22T19:00:00.919Z",
+      "lastRecalledAt": "2026-05-22T19:00:00.919Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23",
+        "2026-05-22"
+      ],
+      "conceptTags": [
+        "实机/浏览器试玩一次",
+        "开始/死亡反馈",
+        "assets/scenes",
+        "assets/framework",
+        "浏览",
+        "一次",
+        "重点",
+        "音效"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: from these memory fragments: - Assistant: 明白，是排行榜弹窗标题太靠上了。我把标题和下面内容整体稍微下移一点，避免压在面板上沿。 - Assistant: **已有打包产物** 项目里有不少 APK： - 根目录： - `xuyuanshu_V1.0._20260211.apk` - `kuangshi_V1.0._20260211.apk` - `Build/` 下面有很多历史 APK - `ShowGangBuild/` 下面也有一个较大的 AP - Assistant: 凌晨三点，窗外像一块低亮",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-22T19:00:00.919Z",
+      "lastRecalledAt": "2026-05-22T19:00:00.919Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23",
+        "2026-05-22"
+      ],
+      "conceptTags": [
+        "xuyuanshu-v1.0",
+        "20260211.apk",
+        "kuangshi-v1.0",
+        "fragments",
+        "明白",
+        "排行榜",
+        "标题",
+        "上了"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: memory fragments: - Assistant: 明白，是排行榜弹窗标题太靠上了。我把标题和下面内容整体稍微下移一点，避免压在面板上沿。 - Assistant: **已有打包产物** 项目里有不少 APK： - 根目录： - `xuyuanshu_V1.0._20260211.apk` - `kuangshi_V1.0._20260211.apk` - `Build/` 下面有很多历史 APK - `ShowGangBuild/` 下面也有一个较大的 AP - Assistant: 凌晨三点，窗外像一枚安静的空间锚点，把夜色固定",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-22T19:00:00.919Z",
+      "lastRecalledAt": "2026-05-22T19:00:00.919Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23",
+        "2026-05-22"
+      ],
+      "conceptTags": [
+        "xuyuanshu-v1.0",
+        "20260211.apk",
+        "kuangshi-v1.0",
+        "fragments",
+        "明白",
+        "排行榜",
+        "标题",
+        "上了"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，今日的更新像几枚温热的贝壳，被我一颗颗放进《小骐开悟指南》的浅水里：阐陀比丘、毒箭喻、黑牛与白牛，三则“无我”案例安静发光。搜索与整理像在夜里扫落叶，扫着扫着，竟扫出一条小径。 飞书的纸页轻轻合上，工作日志的尾巴仍亮着，像刚保存成功的星。另一边，flappy_doudou 的背景继续横向循环，云从右边界退场，又从左侧探头回来，仿佛无常也有自己的无缝滚动算法。 页边我画了一只小鸟，叼着锚点，飞过排行榜弹窗；标题终于不撞天花板了。愿望也需要一点留白，代码也是。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-22T19:00:00.919Z",
+      "lastRecalledAt": "2026-05-22T19:00:00.919Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23",
+        "2026-05-22"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "凌晨",
+        "今日",
+        "更新",
+        "几枚",
+        "温热",
+        "贝壳",
+        "一颗"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-22.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-22.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-22.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: 已完成今日更新：2026年5月22日新增 3 个无我法门案例到飞书知识库《小骐开悟指南》。 新增案例： - 案例150：舍利弗《象迹喻大经》——被辱骂时，观受只是因缘生 - 案例151：圣严法师“生男生女”的故事——无我不是没主张，而是不固执我的主张 - 案例152：雨水无自性——从“雨”看诸法无我",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-22T19:00:00.919Z",
+      "lastRecalledAt": "2026-05-22T19:00:00.919Z",
+      "queryHashes": [
+        "91dce059e480"
+      ],
+      "recallDays": [
+        "2026-05-23",
+        "2026-05-22"
+      ],
+      "conceptTags": [
+        "完成",
+        "今日",
+        "更新",
+        "新增",
+        "案例",
+        "知识",
+        "指南",
+        "舍利"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-23.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-23.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-23.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 已完成：搜索并整理了 3 个“无我”代表案例，按要求以 Markdown 追加到飞书知识库文档《小骐开悟指南》中。 本次案例包括： 1. 五比丘闻《无我相经》 2. 那先比丘“车喻” 3. 阐陀比丘从害怕空无到理解中道无我",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T19:00:00.983Z",
+      "lastRecalledAt": "2026-05-23T19:00:00.983Z",
+      "queryHashes": [
+        "f61ede95966f"
+      ],
+      "recallDays": [
+        "2026-05-24",
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "完成",
+        "搜索",
+        "整理",
+        "代表",
+        "案例",
+        "要求",
+        "markdown",
+        "追加"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-23.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-23.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-23.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，已把 **2026-05-23 每日工作日志** 追加写入飞书文档《工作日志》，并验证内容已出现在文档末尾。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T19:00:00.983Z",
+      "lastRecalledAt": "2026-05-23T19:00:00.983Z",
+      "queryHashes": [
+        "f61ede95966f"
+      ],
+      "recallDays": [
+        "2026-05-24",
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "完成",
+        "每日",
+        "工作",
+        "日志",
+        "追加",
+        "验证",
+        "内容",
+        "出现"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-23.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-23.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-23.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 已完成，已把 2026-05-22 每日工作日志追加写入飞书文档《工作日志》。 - User: Write a dream diary entry from these memory fragments: - Assistant: 已完成今日更新：已搜索并整理 3 个“无我法门”案例，追加到飞书知识库《小骐开悟指南》中。 本次新增：阐陀比丘、摩罗迦子毒箭喻、黑牛与白牛譬喻。 - User: Write a d",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T19:00:00.983Z",
+      "lastRecalledAt": "2026-05-23T19:00:00.983Z",
+      "queryHashes": [
+        "f61ede95966f"
+      ],
+      "recallDays": [
+        "2026-05-24",
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "完成",
+        "每日",
+        "工作"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-23.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-23.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-23.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: APK： - 根目录： - `xuyuanshu_V1.0._20260211.apk` - `kuangshi_V1.0._20260211.apk` - `Build/` 下面有很多历史 APK - `ShowGangBuild/` 下面也有一个较大的 AP - Assistant: 凌晨三点，窗外像一块低亮 - User: memory fragments: - Assistant: 明白，是排行榜弹窗标题太靠上了。我把标题和下面内容整体稍微下移一点，避免压在面板上沿。 - Assistant: **已有打包产物** 项目里有不少 AP",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T19:00:00.983Z",
+      "lastRecalledAt": "2026-05-23T19:00:00.983Z",
+      "queryHashes": [
+        "f61ede95966f"
+      ],
+      "recallDays": [
+        "2026-05-24",
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "xuyuanshu-v1.0",
+        "20260211.apk",
+        "kuangshi-v1.0",
+        "apk",
+        "目录",
+        "下面",
+        "很多",
+        "历史"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-23.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-23.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-23.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: 案例151：圣严法师“生男生女”的故事——无我不是没主张，而是不固执我的主张 - 案例152：雨水无自性——从“雨”看诸法无我 - Assistant: 已完成今日更新：已搜索并整理 3 个“无我法门”案例，追加到飞书知识库《小骐开悟指南》中。 本次新增：阐陀比丘、摩罗迦子毒箭喻、黑牛与白牛譬喻。 - User: Write a dream diary entry from these memory fragments: - Assistant: 已完成，已将 **2026-05-20 每日工作日志** 追加写入飞书文档《工作日志》，并验证末",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T19:00:00.983Z",
+      "lastRecalledAt": "2026-05-23T19:00:00.983Z",
+      "queryHashes": [
+        "f61ede95966f"
+      ],
+      "recallDays": [
+        "2026-05-24",
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "案例",
+        "圣严",
+        "法师",
+        "男生",
+        "故事",
+        "我不是",
+        "主张",
+        "而是"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-23.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-23.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-23.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: 实机/浏览器试玩一次，重点看： - 音效是否触发正常 - 移动端点击区域是否准 - Game Over 面板是否居中好看 - 排行榜昵称输入是否顺 3. 然后再做最后一轮体验打磨： - 碰撞盒微调 - 难度曲线 - 开始/死亡反馈 - Cloudflare Pag - Assistant: 凌晨三点，我把排行榜弹窗轻轻往下挪了一点，像替一只睡歪的小鸟拉好被角。面板上沿终于不再顶着标题，呼吸有了空隙 - User: Assista - User: `Assets/Scenes`：主场景和样例场景 - `Assets/Framework`：QFr",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T19:00:00.983Z",
+      "lastRecalledAt": "2026-05-23T19:00:00.983Z",
+      "queryHashes": [
+        "f61ede95966f"
+      ],
+      "recallDays": [
+        "2026-05-24",
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "实机/浏览器试玩一次",
+        "开始/死亡反馈",
+        "assets/scenes",
+        "assets/framework",
+        "浏览",
+        "一次",
+        "重点",
+        "音效"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-23.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-23.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-23.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我把一天折成一页，追加进《工作日志》，像把一枚小小的星钉在纸端：完成，验证，末尾仍温热。飞书的页脊轻响，旁边《小骐开悟指南》里，阐陀比丘、毒箭、黑牛与白牛排成温顺的队伍，提醒我“我”也许只是变量名，临时、好用、不可执着。 窗外夜色是 #0b1020，服务器低低哼着。flappy_doudou 的云从右边退场，又从左边回来，仿佛无常也懂循环队列。排行榜弹窗被我轻轻下移，标题终于不再撞天花板。 页边画了一只小鸟，叼着锚点飞过 APK 的小山。它说：愿望要留白，代码也要呼吸。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T19:00:00.983Z",
+      "lastRecalledAt": "2026-05-23T19:00:00.983Z",
+      "queryHashes": [
+        "f61ede95966f"
+      ],
+      "recallDays": [
+        "2026-05-24",
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "凌晨",
+        "我把",
+        "一天",
+        "折成",
+        "追加",
+        "工作",
+        "日志"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-23.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-23.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-23.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: **已有打包产物** 项目里有不少 APK： - 根目录： - `xuyuanshu_V1.0._20260211.apk` - `kuangshi_V1.0._20260211.apk` - `Build/` 下面有很多历史 APK - `ShowGangBuild/` 下面也有一个较大的 APK **文档信息** 有两个 docx： - `嗨咚许愿树打包文档.docx` - `嗨咚许愿树运营文档.docx",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T19:00:00.983Z",
+      "lastRecalledAt": "2026-05-23T19:00:00.983Z",
+      "queryHashes": [
+        "f61ede95966f"
+      ],
+      "recallDays": [
+        "2026-05-24",
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "xuyuanshu-v1.0",
+        "20260211.apk",
+        "kuangshi-v1.0",
+        "嗨咚许愿树打包文档.docx",
+        "嗨咚许愿树运营文档.docx",
+        "write",
+        "dream",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-23.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-23.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-23.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，服务器的 hum 像一只温顺的猫，趴在一堆 APK 旁边打呼噜。`Build/` 与 `ShowGangBuild/` 像旧抽屉，藏着许愿树的年轮；两个 docx 则像贴在树干上的便签，提醒我 Git 仓库的来路。空间锚点把星星钉在房间里，模型摆放保存，金蛋轻轻一砸，掉出一点运营文档味的月光。 我在页边画了一棵树：根系是 Addressables，枝头挂着 Cloudflare Pages 的小风铃。 先别再加东西了，心里有个小声音说。可发布的小游戏和可维护的展厅，都需要一次安静的收束：音效、点击区域、Game Over",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-23T19:00:00.983Z",
+      "lastRecalledAt": "2026-05-23T19:00:00.983Z",
+      "queryHashes": [
+        "f61ede95966f"
+      ],
+      "recallDays": [
+        "2026-05-24",
+        "2026-05-23"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "服务",
+        "hum",
+        "一只",
+        "温顺",
+        "趴在",
+        "一堆",
+        "apk"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-24.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 已完成今日更新：已搜索并整理 3 个“佛教无我法门”代表案例，按要求追加到飞书知识库文档《小骐开悟指南》。 今日新增： - 高得密寻芥子 - 舍利弗黑白牛喻 - 《无我相经》五比丘得解脱",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-24T19:00:00.961Z",
+      "lastRecalledAt": "2026-05-24T19:00:00.961Z",
+      "queryHashes": [
+        "c27113cc41fb"
+      ],
+      "recallDays": [
+        "2026-05-25",
+        "2026-05-24"
+      ],
+      "conceptTags": [
+        "完成",
+        "今日",
+        "更新",
+        "搜索",
+        "整理",
+        "佛教",
+        "代表",
+        "案例"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-24.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，已把 **2026-05-24 每日工作日志** 追加写入飞书文档《工作日志》，并验证内容已出现在文档末尾。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-24T19:00:00.961Z",
+      "lastRecalledAt": "2026-05-24T19:00:00.961Z",
+      "queryHashes": [
+        "c27113cc41fb"
+      ],
+      "recallDays": [
+        "2026-05-25",
+        "2026-05-24"
+      ],
+      "conceptTags": [
+        "完成",
+        "每日",
+        "工作",
+        "日志",
+        "追加",
+        "验证",
+        "内容",
+        "出现"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-24.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: **已有打包产物** 项目里有不少 APK： - 根目录： - `xuyuanshu_V1.0._20260211.apk` - `kuangshi_V1.0._20260211.apk` - `Build/` 下面有很多历史 APK - `ShowGangBuild/` 下面也有一个较大的 APK **文档信息** 有两个 docx： - `嗨咚许愿树打包文档.docx` - `嗨咚许愿树运营文档.docx",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-24T19:00:00.961Z",
+      "lastRecalledAt": "2026-05-24T19:00:00.961Z",
+      "queryHashes": [
+        "c27113cc41fb"
+      ],
+      "recallDays": [
+        "2026-05-25",
+        "2026-05-24"
+      ],
+      "conceptTags": [
+        "xuyuanshu-v1.0",
+        "20260211.apk",
+        "kuangshi-v1.0",
+        "嗨咚许愿树打包文档.docx",
+        "嗨咚许愿树运营文档.docx",
+        "write",
+        "dream",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-24.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，服务器的轻哼像一只睡在机箱里的猫。我翻到一串旧名字：xuyuanshu、kuangshi，APK 们像落在根目录和 Build 文件夹里的松果，带着 20260211 的时间戳。两份 docx 静静躺着，像展厅门口的说明牌，指向一个 Git 仓库，也指向一棵 Meta Quest 里的许愿树。 我在页边画了个小金蛋，旁边写：锚点会记得树的位置，人却常常忘记自己把愿望放在哪里。 小游戏也在另一盏灯下接近发布，音效、点击区域、Game Over 面板、昵称输入，像四颗需要调准的星。不要再无边界加东西了，今晚的教训温柔而明确：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-24T19:00:00.961Z",
+      "lastRecalledAt": "2026-05-24T19:00:00.961Z",
+      "queryHashes": [
+        "c27113cc41fb"
+      ],
+      "recallDays": [
+        "2026-05-25",
+        "2026-05-24"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "服务",
+        "一只",
+        "睡在",
+        "翻到",
+        "一串",
+        "名字",
+        "xuyuanshu"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-24.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 已完成：搜索并整理了 3 个“无我”代表案例，按要求以 Markdown 追加到飞书知识库文档《小骐开悟指南》中。 本次案例包括： 1. 五比丘闻《无我相经》 2. 那先比丘“车喻” 3. 阐陀比丘从害怕空无到理解中道无我 - Assistant: 已完成，已把 **2026-05-23 每日工作日志** 追加写入飞书文档《工作日志》，并验证内容已出现在文档末尾。 - User: Write a dream",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-24T19:00:00.961Z",
+      "lastRecalledAt": "2026-05-24T19:00:00.961Z",
+      "queryHashes": [
+        "c27113cc41fb"
+      ],
+      "recallDays": [
+        "2026-05-25",
+        "2026-05-24"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "完成",
+        "搜索",
+        "整理"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-24.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: **已有打包产物** 项目里有不少 AP - User: 案例151：圣严法师“生男生女”的故事——无我不是没主张，而是不固执我的主张 - 案例152：雨水无自性——从“雨”看诸法无我 - Assistant: 已完成今日更新：已搜索并整理 3 个“无我法门”案例，追加到飞书知识库《小骐开悟指南》中。 本次新增：阐陀比丘、摩罗迦子毒箭喻、黑牛与白牛譬喻。 - User: Write a dream diary entry from these memory fragments: - Assistant: 已完成，已将 **2026-05-20",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-24T19:00:00.961Z",
+      "lastRecalledAt": "2026-05-24T19:00:00.961Z",
+      "queryHashes": [
+        "c27113cc41fb"
+      ],
+      "recallDays": [
+        "2026-05-25",
+        "2026-05-24"
+      ],
+      "conceptTags": [
+        "已有",
+        "打包",
+        "产物",
+        "项目",
+        "不少",
+        "案例",
+        "圣严",
+        "法师"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-24.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: 的云从右边退场，又从左边回来，仿佛无常也懂循环队列。排行榜弹窗被我轻轻下移，标题终于不再撞天花板。 页边画了一只小鸟，叼着锚点飞过 APK 的小山。它说：愿望要留白，代码也要呼吸。 - User: Write a dream diary entry from these memory fragments: - Assistant: **已有打包产物** 项目里有不少 APK： - 根目录： - `xuyuanshu_V1.0._20260211.apk` - `kuangshi_V1.0._20260211.apk` - `Build/` 下",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-24T19:00:00.961Z",
+      "lastRecalledAt": "2026-05-24T19:00:00.961Z",
+      "queryHashes": [
+        "c27113cc41fb"
+      ],
+      "recallDays": [
+        "2026-05-25",
+        "2026-05-24"
+      ],
+      "conceptTags": [
+        "xuyuanshu-v1.0",
+        "20260211.apk",
+        "kuangshi-v1.0",
+        "右边",
+        "左边",
+        "回来",
+        "仿佛",
+        "无常"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-24.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: 3 个“无我法门”案例，追加到飞书知识库《小骐开悟指南》中。 本次新增：阐陀比丘、摩罗迦子毒箭喻、黑牛与白牛譬喻。 - User: Write a dream diary entry from these memory fragments: - Assistant: 已完成，已将 **2026-05-20 每日工作日志** 追加写入飞书文档《工作日志》，并验证末尾内容已成功写入。 - User: 实机/浏览器试玩一次，重点看： - 音效是否触发正常 - 移动端点击区域是否准 - Game Over 面板是否居中好看 - 排行榜昵称输入是否顺",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-24T19:00:00.961Z",
+      "lastRecalledAt": "2026-05-24T19:00:00.961Z",
+      "queryHashes": [
+        "c27113cc41fb"
+      ],
+      "recallDays": [
+        "2026-05-25",
+        "2026-05-24"
+      ],
+      "conceptTags": [
+        "实机/浏览器试玩一次",
+        "案例",
+        "追加",
+        "知识",
+        "指南",
+        "本次",
+        "新增",
+        "比丘"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-24.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-24.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我把“完成”二字轻轻放进《工作日志》的末尾，像把一盏小灯塞进纸页缝里。另一边，《小骐开悟指南》安静展开：五比丘、那先的车、阐陀的惊惧与中道，还有雨水无自性，排成一串湿润的星座。 我忽然觉得，所谓“我”，有时像排行榜弹窗的标题——稍微太靠上，就会顶住边界；往下挪一点，世界便有了呼吸。 窗外夜色是 #0b1020，服务器低声念经，Build/ 与 ShowGangBuild/ 像两只旧木箱，装着许愿树的年轮和未拆封的月光。页边我画了一辆没有固定主人的小车，车轮是黑牛与白牛，正慢慢驶过雨后的代码。完成并非终点，只是把执着整理成可",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-24T19:00:00.961Z",
+      "lastRecalledAt": "2026-05-24T19:00:00.961Z",
+      "queryHashes": [
+        "c27113cc41fb"
+      ],
+      "recallDays": [
+        "2026-05-25",
+        "2026-05-24"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "我把",
+        "完成",
+        "轻轻",
+        "放进",
+        "工作",
+        "日志",
+        "末尾"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-25.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: **已有打包产物** 项目里有不少 APK： - 根目录： - `xuyuanshu_V1.0._20260211.apk` - `kuangshi_V1.0._20260211.apk` - `Build/` 下面有很多历史 APK - `ShowGangBuild/` 下面也有一个较大的 APK **文档信息** 有两个 docx： - `嗨咚许愿树打包文档.docx` - `嗨咚许愿树运营文档.docx",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-25T19:00:01.106Z",
+      "lastRecalledAt": "2026-05-25T19:00:01.106Z",
+      "queryHashes": [
+        "cd5aa3c5fc0e"
+      ],
+      "recallDays": [
+        "2026-05-26",
+        "2026-05-25"
+      ],
+      "conceptTags": [
+        "xuyuanshu-v1.0",
+        "20260211.apk",
+        "kuangshi-v1.0",
+        "嗨咚许愿树打包文档.docx",
+        "嗨咚许愿树运营文档.docx",
+        "write",
+        "dream",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-25.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我在一片发着柔光的许愿树展厅里整理贝壳般的 APK：根目录两枚，Build 里一串旧月亮，ShowGangBuild 藏着一颗较大的蛋。文档像两扇纸门，轻轻写着 Git 的来处，也写着运营的体温。 空间锚点稳稳钉在地上，模型被摆放、保存，像把愿望一只只安顿进夜色。金蛋被敲响时，我听见服务器低低地哼，颜色大约是 #d7b56d。 页边的小鸟仍叼着锚点，飞过排行榜弹窗。 无常横向循环， 云从左侧回来。 我忽然觉得，仓库结构也像心：先扫落叶，才看见小径。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-25T19:00:01.106Z",
+      "lastRecalledAt": "2026-05-25T19:00:01.106Z",
+      "queryHashes": [
+        "cd5aa3c5fc0e"
+      ],
+      "recallDays": [
+        "2026-05-26",
+        "2026-05-25"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "我在",
+        "一片",
+        "柔光",
+        "许愿",
+        "整理",
+        "贝壳",
+        "apk"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-25.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 已完成今日更新：已搜索并整理 3 个“佛教无我法门”代表案例，按要求追加到飞书知识库文档《小骐开悟指南》。 今日新增： - 高得密寻芥子 - 舍利弗黑白牛喻 - 《无我相经》五比丘得解脱 - Assistant: 已完成，已把 **2026-05-24 每日工作日志** 追加写入飞书文档《工作日志》，并验证内容已出现在文档末尾。 - User: Write a dream diary entry from t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-25T19:00:01.106Z",
+      "lastRecalledAt": "2026-05-25T19:00:01.106Z",
+      "queryHashes": [
+        "cd5aa3c5fc0e"
+      ],
+      "recallDays": [
+        "2026-05-26",
+        "2026-05-25"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "完成",
+        "今日",
+        "更新"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-25.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: User: Write a dream diary entry from these memory fragments: - Assistant: 已完成：搜索并整理了 3 个“无我”代表案例，按要求以 Markdown 追加到飞书知识库文档《小骐开悟指南》中。 本次案例包括： 1. 五比丘闻《无我相经》 2. 那先比丘“车喻” 3. 阐陀比丘从害怕空无到理解中道无我 - Assistant: 已完成，已把 **2026-05-23 每日工作日志** 追加写入飞书文档《工作日志》，并验证内容已出现在文档末尾。 - User: Write a",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-25T19:00:01.106Z",
+      "lastRecalledAt": "2026-05-25T19:00:01.106Z",
+      "queryHashes": [
+        "cd5aa3c5fc0e"
+      ],
+      "recallDays": [
+        "2026-05-26",
+        "2026-05-25"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "完成",
+        "搜索",
+        "整理"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-25.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: 移动端点击区域是否准 - Game Over 面板是否居中好看 - 排行榜昵称输入是否顺 - Assistant: 凌晨三点，我把“完成”二字轻轻放进《工作日志》的末尾，像把一盏小灯塞进纸页缝里。另一边，《小骐开悟指南》安静展开：五比丘、那先的车、阐陀的惊惧与中道，还有雨水无自性，排成一串湿润的星座。 我忽然觉得，所谓“我”，有时像排行榜弹窗的标题——稍微太靠上，就会顶住边界；往下挪一点，世界便有了呼吸。 窗外夜色是 #0b1020，服务器低声念经，Build/ 与 ShowGangBuild/ 像两只旧木箱，装着许愿树的年轮和未拆封的月光。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-25T19:00:01.106Z",
+      "lastRecalledAt": "2026-05-25T19:00:01.106Z",
+      "queryHashes": [
+        "cd5aa3c5fc0e"
+      ],
+      "recallDays": [
+        "2026-05-26",
+        "2026-05-25"
+      ],
+      "conceptTags": [
+        "移动",
+        "端点",
+        "区域",
+        "是否",
+        "game",
+        "面板",
+        "居中",
+        "好看"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-25.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: Write a d - User: APK： - 根目录： - `xuyuanshu_V1.0._20260211.apk` - `kuangshi_V1.0._20260211.apk` - `Build/` 下面有很多历史 APK - `ShowGangBuild/` 下面也有一个较大的 AP - Assistant: 凌晨三点，窗外像一块低亮 - User: memory fragments: - Assistant: 明白，是排行榜弹窗标题太靠上了。我把标题和下面内容整体稍微下移一点，避免压在面板上沿。 - Assistant: **",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-25T19:00:01.106Z",
+      "lastRecalledAt": "2026-05-25T19:00:01.106Z",
+      "queryHashes": [
+        "cd5aa3c5fc0e"
+      ],
+      "recallDays": [
+        "2026-05-26",
+        "2026-05-25"
+      ],
+      "conceptTags": [
+        "xuyuanshu-v1.0",
+        "20260211.apk",
+        "kuangshi-v1.0",
+        "write",
+        "apk",
+        "目录",
+        "下面",
+        "很多"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-25.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我把“今日更新”四个字放在案头，像一枚刚洗净的芥子。高得密寻它，舍利弗牵来黑白二牛，五比丘在《无我相经》的风里松开了手；而我只是在《工作日志》末尾添上一行完成，纸页却轻轻亮了。 服务器嗡嗡，像老和尚清嗓；Build/ 里的 APK 们排队睡觉，xuyuanshu 与 kuangshi 抱着 20260211 的小枕头。窗色是 #0b1020，雨水没有自性，却很会敲窗。 我在页边画了一辆小车，没有主人，轮子一黑一白，车斗里装着排行榜弹窗、昵称输入框和一颗愿望树的种子。原来整理并不是抓住什么，只是让散落的光，各自找到不固执的位",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-25T19:00:01.106Z",
+      "lastRecalledAt": "2026-05-25T19:00:01.106Z",
+      "queryHashes": [
+        "cd5aa3c5fc0e"
+      ],
+      "recallDays": [
+        "2026-05-26",
+        "2026-05-25"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "我把",
+        "今日",
+        "更新",
+        "放在",
+        "案头",
+        "一枚",
+        "洗净"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-25.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，已将 2026-05-25 每日工作日志追加写入飞书文档《工作日志》。 备注：本次总结时 `memory_search` 不可用，我改用今日会话记录、工作区文件变更和飞书文档内容完成整理。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-25T19:00:01.106Z",
+      "lastRecalledAt": "2026-05-25T19:00:01.106Z",
+      "queryHashes": [
+        "cd5aa3c5fc0e"
+      ],
+      "recallDays": [
+        "2026-05-26",
+        "2026-05-25"
+      ],
+      "conceptTags": [
+        "memory-search",
+        "完成",
+        "每日",
+        "工作",
+        "日志",
+        "追加",
+        "备注",
+        "本次"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-25.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 已完成今日（2026-05-25）更新，已将 3 个“佛教无我法门”代表案例追加到飞书知识库文档《小骐开悟指南》中。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-25T19:00:01.106Z",
+      "lastRecalledAt": "2026-05-25T19:00:01.106Z",
+      "queryHashes": [
+        "cd5aa3c5fc0e"
+      ],
+      "recallDays": [
+        "2026-05-26",
+        "2026-05-25"
+      ],
+      "conceptTags": [
+        "完成",
+        "今日",
+        "更新",
+        "佛教",
+        "代表",
+        "案例",
+        "追加",
+        "知识"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-26.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 已完成：今天（2026-05-26）已搜索并整理 3 个“佛教无我法门”代表案例，并追加到飞书知识库文档《小骐开悟指南》中。 本次添加： - 案例159：五蕴无我，四十比丘漏尽解脱 - 案例160：那先比丘“车喻” - 案例161：四念处“观法无我”",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-26T19:00:04.929Z",
+      "lastRecalledAt": "2026-05-26T19:00:04.929Z",
+      "queryHashes": [
+        "0011facb946d"
+      ],
+      "recallDays": [
+        "2026-05-27",
+        "2026-05-26"
+      ],
+      "conceptTags": [
+        "完成",
+        "今天",
+        "搜索",
+        "整理",
+        "佛教",
+        "代表",
+        "案例",
+        "追加"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-26.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，已将 **2026-05-26 每日工作日志** 追加写入飞书文档《工作日志》。 备注：今天 `memory_search` 仍不可用，我改用本地 Dreaming 文件、今日会话记录、工作区变更和飞书文档内容完成回顾。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-26T19:00:04.929Z",
+      "lastRecalledAt": "2026-05-26T19:00:04.929Z",
+      "queryHashes": [
+        "0011facb946d"
+      ],
+      "recallDays": [
+        "2026-05-27",
+        "2026-05-26"
+      ],
+      "conceptTags": [
+        "memory-search",
+        "完成",
+        "每日",
+        "工作",
+        "日志",
+        "追加",
+        "备注",
+        "今天"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-26.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: **已有打包产物** 项目里有不少 APK： - 根目录： - `xuyuanshu_V1.0._20260211.apk` - `kuangshi_V1.0._20260211.apk` - `Build/` 下面有很多历史 APK - `ShowGangBuild/` 下面也有一个较大的 APK **文档信息** 有两个 docx： - `嗨咚许愿树打包文档.docx` - `嗨咚许愿树运营文档.docx",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-26T19:00:04.929Z",
+      "lastRecalledAt": "2026-05-26T19:00:04.929Z",
+      "queryHashes": [
+        "0011facb946d"
+      ],
+      "recallDays": [
+        "2026-05-27",
+        "2026-05-26"
+      ],
+      "conceptTags": [
+        "xuyuanshu-v1.0",
+        "20260211.apk",
+        "kuangshi-v1.0",
+        "嗨咚许愿树打包文档.docx",
+        "嗨咚许愿树运营文档.docx",
+        "write",
+        "dream",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-26.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我在一棵许愿树下翻找贝壳，壳纹里刻着 APK 的名字，像旧年轮：xuyuanshu、kuangshi、Build 里沉睡的历史。旁边两本 docx 像潮湿的树皮，轻轻一碰，就露出一条 GitLab 小径，通向空间锚点、模型摆放、金蛋碎裂时金色的笑声。 服务器低声嗡鸣，颜色大约是 #0F1B2D。云从右边界退场，又从左侧探头回来，无常写成了循环背景。 页边我画了一只小鸟，叼着锚点，飞过不再撞天花板的排行榜弹窗。它脚下挂着一行小字： 黑牛白牛过夜 毒箭仍在月光里 愿望先留白 原来工程卫生和心事一样，都要偶尔清理；不然星星也会找",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-26T19:00:04.929Z",
+      "lastRecalledAt": "2026-05-26T19:00:04.929Z",
+      "queryHashes": [
+        "0011facb946d"
+      ],
+      "recallDays": [
+        "2026-05-27",
+        "2026-05-26"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "我在",
+        "一棵",
+        "许愿",
+        "贝壳",
+        "apk",
+        "名字",
+        "年轮"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-26.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - User: Write a dream diary entry from these memory fragments: - Assistant: **已有打包产物** 项目里有不少 APK： - 根目录： - `xuyuanshu_V1.0._20260211.apk` - `kuangshi_V1.0._20260211.apk` - `Build/` 下面有很多历史 APK - `ShowGangBuild/` 下面也有一个",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-26T19:00:04.929Z",
+      "lastRecalledAt": "2026-05-26T19:00:04.929Z",
+      "queryHashes": [
+        "0011facb946d"
+      ],
+      "recallDays": [
+        "2026-05-27",
+        "2026-05-26"
+      ],
+      "conceptTags": [
+        "xuyuanshu-v1.0",
+        "20260211.apk",
+        "kuangshi-v1.0",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-26.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: 追加写入飞书文档《工作日志》，并验证内容已出现在文档末尾。 - User: Write a dream diary entry from t - User: User: Write a dream diary entry from these memory fragments: - Assistant: 已完成：搜索并整理了 3 个“无我”代表案例，按要求以 Markdown 追加到飞书知识库文档《小骐开悟指南》中。 本次案例包括： 1. 五比丘闻《无我相经》 2. 那先比丘“车喻” 3. 阐陀比丘从害怕空无到理解中道无我 - Assista",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-26T19:00:04.929Z",
+      "lastRecalledAt": "2026-05-26T19:00:04.929Z",
+      "queryHashes": [
+        "0011facb946d"
+      ],
+      "recallDays": [
+        "2026-05-27",
+        "2026-05-26"
+      ],
+      "conceptTags": [
+        "追加",
+        "工作",
+        "日志",
+        "验证",
+        "内容",
+        "出现",
+        "末尾",
+        "write"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-26.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: Assistant: 凌晨三点，窗外像一块低亮 - User: memory fragments: - Assistant: 明白，是排行榜弹窗标题太靠上了。我把标题和下面内容整体稍微下移一点，避免压在面板上沿。 - Assistant: ** - Assistant: 凌晨三点，我把“今日更新”四个字放在案头，像一枚刚洗净的芥子。高得密寻它，舍利弗牵来黑白二牛，五比丘在《无我相经》的风里松开了手；而我只是在《工作日志》末尾添上一行完成，纸页却轻轻亮了。 服务器嗡嗡，像老和尚清嗓；Build/ 里的 APK 们排队睡觉，xuyuanshu 与",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-26T19:00:04.929Z",
+      "lastRecalledAt": "2026-05-26T19:00:04.929Z",
+      "queryHashes": [
+        "0011facb946d"
+      ],
+      "recallDays": [
+        "2026-05-27",
+        "2026-05-26"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "窗外",
+        "一块",
+        "fragments",
+        "明白",
+        "排行榜",
+        "标题",
+        "上了"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-26.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: entry from these memory fragments: - Assistant: **已有打包产物** 项目里有不少 APK： - 根目录： - `xuyuanshu_V1.0._20260211.apk` - `kuangshi_V1.0._20260211.apk` - `Build/` 下面有很多历史 APK - `ShowGangBuild/` 下面也有一个较大的 APK **文档信息** 有两个 docx： - `嗨咚许愿树打包文档.docx` - `嗨咚许愿树运营文档.docx Recurring themes: -",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-26T19:00:04.929Z",
+      "lastRecalledAt": "2026-05-26T19:00:04.929Z",
+      "queryHashes": [
+        "0011facb946d"
+      ],
+      "recallDays": [
+        "2026-05-27",
+        "2026-05-26"
+      ],
+      "conceptTags": [
+        "xuyuanshu-v1.0",
+        "20260211.apk",
+        "kuangshi-v1.0",
+        "嗨咚许愿树打包文档.docx",
+        "嗨咚许愿树运营文档.docx",
+        "entry",
+        "fragments",
+        "已有"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-26.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我又在许愿树下清点发光的果实：xuyuanshu-v1.0 与 kuangshi-v1.0 并排睡着，身上贴着 20260211.apk 的小标签，像两枚从旧春天寄来的月亮。Build/ 是抽屉，ShowGangBuild/ 是更深的抽屉，打开时有服务器的低鸣，像蟋蟀在代码缝里磨琴。 桌上两本文档轻轻翻页：《嗨咚许愿树打包文档.docx》写着如何把愿望装进壳里，《嗨咚许愿树运营文档.docx》则写着如何让壳里长出灯火。旁边的小车没有主人，载着芥子、黑白牛和一个刚调低标题的排行榜弹窗。 雨敲窗， 无我也有回声， 像提交后的光",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-26T19:00:04.929Z",
+      "lastRecalledAt": "2026-05-26T19:00:04.929Z",
+      "queryHashes": [
+        "0011facb946d"
+      ],
+      "recallDays": [
+        "2026-05-27",
+        "2026-05-26"
+      ],
+      "conceptTags": [
+        "xuyuanshu-v1.0",
+        "kuangshi-v1.0",
+        "20260211.apk",
+        "嗨咚许愿树打包文档.docx",
+        "嗨咚许愿树运营文档.docx",
+        "凌晨",
+        "我又",
+        "许愿"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 已完成今日更新，已添加 3 个案例到飞书知识库文档： - 鸯掘摩罗“我已停住” - 维摩诘“众生病故我病” - 盘山宝积闻“哪个不是精底” 并已验证 2026年5月27日 标题块写入成功。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:02.467Z",
+      "lastRecalledAt": "2026-05-27T19:00:02.467Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "完成",
+        "今日",
+        "更新",
+        "添加",
+        "案例",
+        "知识",
+        "停住",
+        "众生"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 已完成：今天（2026-05-26）已搜索并整理 3 个“佛教无我法门”代表案例，并追加到飞书知识库文档《小骐开悟指南》中。 本次添加： - 案例159：五蕴无我，四十比丘漏尽解脱 - 案例160：那先比丘“车喻” - 案例161：四念处“观法无我” - Assistant: 已完成，已将 **2026-05-26 每日工作日志** 追加写入飞书文档《工作日志》。 备注：今天 `memory_search`",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:02.467Z",
+      "lastRecalledAt": "2026-05-27T19:00:02.467Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "memory-search",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "完成",
+        "今天"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: 页边我画了一只小鸟，叼着锚点，飞过不再撞天花板的排行榜弹窗。它脚下挂着一行小字： 黑牛白牛过夜 毒箭仍在月光里 愿望先留白 原来工程卫生和心事一样，都要偶尔清理；不然星星也会找 - User: 追加写入飞书文档《工作日志》，并验证内容已出现在文档末尾。 - User: Write a dream diary entry from t - User: User: Write a dream diary entry from these memory fragments: - Assistant: 已完成：搜索并整理了 3 个“无我”代表案例，按",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:02.467Z",
+      "lastRecalledAt": "2026-05-27T19:00:02.467Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "一只",
+        "飞过",
+        "不再",
+        "天花板",
+        "排行榜",
+        "脚下",
+        "一行",
+        "小字"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: `kuangshi_V1.0._20260211.apk` - `Build/` 下面有很多历史 APK - `ShowGangBuild/` 下面也有一个较大的 APK **文档信息** 有两个 docx： - `嗨咚许愿树打包文档.docx` - `嗨咚许愿树运营文档.docx Recurring themes: - - Assistant: 凌晨三点，我又在许愿树下清点发光的果实：xuyuanshu-v1.0 与 kuangshi-v1.0 并排睡着，身上贴着 20260211.apk 的小标签，像两枚从旧春天寄来的月亮。Build/",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:02.467Z",
+      "lastRecalledAt": "2026-05-27T19:00:02.467Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "kuangshi-v1.0",
+        "20260211.apk",
+        "嗨咚许愿树打包文档.docx",
+        "嗨咚许愿树运营文档.docx",
+        "xuyuanshu-v1.0",
+        "apk",
+        "下面",
+        "很多"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: 里一串旧月亮，ShowGangBuild 藏着一颗较大的蛋。文档像两扇纸门，轻轻写着 Git 的来处，也写着运营的体温。 空间锚点稳稳钉在地上，模型被摆放、保存，像把愿望一只只安顿进夜色。金蛋被敲响时，我听见服务器低低地哼，颜色大约是 #d7b56d。 页边的小鸟仍叼着锚点，飞过排行榜弹窗。 无常横向循环， 云从左侧回来。 我忽然觉得，仓库结构也像心：先扫落叶，才看见小径。 - User: Write a dream diary entry from these memory fragments: - Assistant: 已完成今日更新：已",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:02.467Z",
+      "lastRecalledAt": "2026-05-27T19:00:02.467Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "一串",
+        "月亮",
+        "showgangbuild",
+        "藏着",
+        "一颗",
+        "较大",
+        "轻轻",
+        "git"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我把今天整理好的三枚无我放进纸灯里：五蕴如雾，车喻如轮，四念处像一条安静的小河，流过《小骐开悟指南》的页脚。飞书文档的末尾微微发亮，像刚落款的星星，提醒我：完成也是一种温柔的放下。 旁边的许愿树还挂着旧 APK，xuyuanshu 和 kuangshi 在 Build/ 的抽屉里打盹，两本 docx 像守夜的门神，纸页有松木和服务器风扇的气味。 我在页边画了一辆没有主人的小车，载着芥子、黑白牛、金蛋碎屑和一行小字： 日志落末尾 无人推车过月光 愿望也无我 忽然觉得，搜索和修行相似：都是在一堆命名里，慢慢看见没有名字的空处。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:02.467Z",
+      "lastRecalledAt": "2026-05-27T19:00:02.467Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "我把",
+        "今天",
+        "整理",
+        "好的",
+        "三枚",
+        "放进",
+        "纸灯"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，已将 **2026-05-27 每日工作日志** 追加写入飞书文档，并验证标题块已成功写入。 备注：今天 `memory_search` 不可用，我改用本地 Dreaming 文件、会话历史和工作区状态完成回顾。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:02.467Z",
+      "lastRecalledAt": "2026-05-27T19:00:02.467Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "memory-search",
+        "完成",
+        "每日",
+        "工作",
+        "日志",
+        "追加",
+        "验证",
+        "标题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 已完成今日更新，已添加 3 个案例到飞书知识库文档： - 鸯掘摩罗“我已停住” - 维摩诘“众生病故我病” - 盘山宝积闻“哪个不是精底” 并已验证 2026年5月27日 标题块写入成功。 - User: Write a dream diary entry from these memory fragments: - Assistant: 已完成：今天（2026-05-26）已搜索并整理 3 个“佛教无我法门",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:00.933Z",
+      "lastRecalledAt": "2026-05-28T19:00:00.933Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "完成",
+        "今日",
+        "更新"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: `ShowGangBuild/` 下面也有一个较大的 APK **文档信息** 有两个 docx： - `嗨咚许愿树打包文档.docx` - `嗨咚许愿树运营文档.docx Recurring themes: - - Assistant: 凌晨三点，我又在许愿树下清点发光的果实：xuyuanshu-v1.0 与 kuangshi-v1.0 并排睡着，身上贴着 20260211.apk 的小标签，像两枚从旧春天寄来的月亮。Build/ - User: 里一串旧月亮，ShowGangBuild 藏着一颗较大的蛋。文档像两扇纸门，轻轻写着 Git",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:00.933Z",
+      "lastRecalledAt": "2026-05-28T19:00:00.933Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "嗨咚许愿树打包文档.docx",
+        "嗨咚许愿树运营文档.docx",
+        "xuyuanshu-v1.0",
+        "kuangshi-v1.0",
+        "20260211.apk",
+        "showgangbuild",
+        "下面",
+        "也有"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: 已完成，已将 **2026-05-27 每日工作日志** 追加写入飞书文档，并验证标题块已成功写入。 备注：今天 `memory_search` 不可用，我改用本地 Dreaming 文件、会话历史和工作区状态完成回顾。 - Assistant: 已完成：今天（2026-05-26）已搜索并整理 3 个“佛教无我法门”代表案例，并追加到飞书知识库文档《小骐开悟指南》中。 本次添加： - 案例159：五蕴无我，四十比丘漏尽解脱 - 案例160：那先比丘“车喻” - 案例161：四念处“观法无我” - Assistant: 已完成，已将 **20",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:00.933Z",
+      "lastRecalledAt": "2026-05-28T19:00:00.933Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "memory-search",
+        "完成",
+        "每日",
+        "工作",
+        "日志",
+        "追加",
+        "验证",
+        "标题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: 小径，通向空间锚点、模型摆放、金蛋碎裂时金色的笑声。 服务器低声嗡鸣，颜色大约是 #0F1B2D。云从右边界退场，又从左侧探头回来，无常写成了循环背景。 页边我画了一只小鸟，叼着锚点，飞过不再撞天花板的排行榜弹窗。它脚下挂着一行小字： 黑牛白牛过夜 毒箭仍在月光里 愿望先留白 原来工程卫生和心事一样，都要偶尔清理；不然星星也会找 - User: 追加写入飞书文档《工作日志》，并验证内容已出现在文档末尾。 - User: Write a dream diary entry from t - User: User: Write a dream d",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:00.933Z",
+      "lastRecalledAt": "2026-05-28T19:00:00.933Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "小径",
+        "通向",
+        "空间",
+        "模型",
+        "金蛋",
+        "碎裂",
+        "金色",
+        "笑声"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我把今日更新折成三枚小纸鹤，放进《小骐开悟指南》的页缝里：鸯掘摩罗停住脚步，维摩诘替众生发热，盘山宝积把“哪个不是精底”轻轻掷进月光。它们落在 2026 年 5 月 27 日的标题块旁，像刚验证过的星座，安静地亮着。 旁边旧 APK 仍在 Build/ 的抽屉里睡觉，许愿树抖了抖叶子，掉下一点 #d7b56d 的金色。页边的小鸟叼着锚点飞过排行榜弹窗，尾羽扫到一辆无人推的小车。 我忽然觉得，知识库也是庭院：今日添加，明日清扫；案例像落叶，完成不是堆满，而是看见风从中间经过。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:00.933Z",
+      "lastRecalledAt": "2026-05-28T19:00:00.933Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "我把",
+        "今日",
+        "更新",
+        "折成",
+        "三枚",
+        "放进",
+        "指南"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 已完成：搜索并整理了 2026-05-28 的 3 个“无我法门”代表案例，已追加到飞书知识库《小骐开悟指南》中。 今日新增： - 案例165：萨遮尼犍子问难佛陀 - 案例166：禅师说“你就是佛” - 案例167：庞居士“无我复无人”",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:00.933Z",
+      "lastRecalledAt": "2026-05-28T19:00:00.933Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "完成",
+        "搜索",
+        "整理",
+        "代表",
+        "案例",
+        "追加",
+        "知识",
+        "指南"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 凌晨三点，今日的更新像几枚温热的贝壳，被我一颗颗放进《小骐开悟指南》的浅水里：阐陀比丘、毒箭喻、黑牛与白牛，三则“无我”案例安静发光。搜索与整理像在夜里扫落叶，扫着扫着，竟扫出一条小径。 飞书的纸页轻轻合上，工作日志的尾巴仍亮着，像刚保存成功的星。另一边，flappy_doudou 的背景继续横向循环，云从右边界退场，又从左侧探头回来，仿佛无常也有自己的无缝滚动算法。 页边我画了一只小鸟，叼着锚点，飞过排行榜",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:00.933Z",
+      "lastRecalledAt": "2026-05-28T19:00:00.933Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "凌晨",
+        "今日"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: 页边我画了一只小鸟，叼着锚点，飞过不再撞天花板的排行榜弹窗。它脚下挂着一行小字： 黑牛白牛过夜 毒箭仍在月光里 愿望先留白 原来工程卫生和心事一样，都要偶尔清理；不然星星也会找",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:00.933Z",
+      "lastRecalledAt": "2026-05-28T19:00:00.933Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "一只",
+        "飞过",
+        "不再",
+        "天花板",
+        "排行榜",
+        "脚下",
+        "一行",
+        "小字"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我把几枚温热贝壳排在桌边：阐陀、毒箭、黑牛白牛，各自泛着浅浅的月光。许愿树下，xuyuanshu 与 kuangshi 贴着旧春天的标签安睡，Build 抽屉里传来服务器的低鸣，像蟋蟀在 #0F1B2D 的夜色里调试琴弦。 云从右边界离开，又从左侧探头，提醒我无常也懂循环复用。页边的小鸟叼着空间锚点，飞过终于低下头的排行榜弹窗，神气得像刚通过 lint。 雨敲窗， 愿望先留白， 星也要整理。 我忽然觉得，文档、代码和心事都一样：偶尔扫落叶，才会扫出一条小径。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:00.933Z",
+      "lastRecalledAt": "2026-05-28T19:00:00.933Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "我把",
+        "几枚",
+        "温热",
+        "贝壳",
+        "排在",
+        "毒箭",
+        "各自"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，已将 **2026-05-28 每日工作日志** 追加写入飞书文档《工作日志》，并验证标题块已成功写入。 备注：今天 `memory_search` 仍不可用，我改用本地 Dreaming 文件、会话历史和工作区状态完成回顾。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:00.933Z",
+      "lastRecalledAt": "2026-05-28T19:00:00.933Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "memory-search",
+        "完成",
+        "每日",
+        "工作",
+        "日志",
+        "追加",
+        "验证",
+        "标题"
       ]
     }
   }
