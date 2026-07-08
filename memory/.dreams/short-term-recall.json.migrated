@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T19:00:01.207Z",
+  "updatedAt": "2026-06-10T19:00:01.458Z",
   "entries": {
     "memory:memory/2026-03-17.md:1:27": {
       "key": "memory:memory/2026-03-17.md:1:27",
@@ -14127,6 +14127,3549 @@
         "追加",
         "验证",
         "标题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，已将 2026-05-29 的 3 个“无我法门”代表案例追加到飞书知识库文档《小骐开悟指南》中。 本次案例包括：五蕴无我、那先车喻、求不死之家香火。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "完成",
+        "代表",
+        "案例",
+        "追加",
+        "知识",
+        "指南",
+        "本次",
+        "包括"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 凌晨三点，今日的更新像几枚温热的贝壳，被我一颗颗放进《小骐开悟指南》的浅水里：阐陀比丘、毒箭喻、黑牛与白牛，三则“无我”案例安静发光。搜索与整理像在夜里扫落叶，扫着扫着，竟扫出一条小径。 飞书的纸页轻轻合上，工作日志的尾巴仍亮着，像刚保存成功的星。另一边，flappy_doudou 的背景继续横向循环，云从右边界退场，又从左侧探头回来，仿佛无常也有自己的无缝滚动算法。 页边我画了一只小鸟，叼着锚点，飞过排行榜",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "凌晨",
+        "今日"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: 页边我画了一只小鸟，叼着锚点，飞过不再撞天花板的排行榜弹窗。它脚下挂着一行小字： 黑牛白牛过夜 毒箭仍在月光里 愿望先留白 原来工程卫生和心事一样，都要偶尔清理；不然星星也会找",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "一只",
+        "飞过",
+        "不再",
+        "天花板",
+        "排行榜",
+        "脚下",
+        "一行",
+        "小字"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我把今日拾到的贝壳排在许愿树根边，xuyuanshu 与 kuangshi 像两枚贴着旧春天标签的月亮，安静发热。服务器在桌下低鸣，颜色近似 #0F1B2D，雨点敲窗，像有人轻轻测试一组接口是否还记得回声。 飞书纸页合上时，阐陀、毒箭、黑牛白牛仍在浅水里发光；无我并不冷，反而像提交后的那一点绿。远处 flappy_doudou 的云从右边界退场，又从左侧探头回来，笑嘻嘻地证明无常也懂循环。 页边我画了只小鸟，叼着锚点飞过排行榜弹窗。标题终于不撞天花板了，愿望也有了留白。工程卫生与心事相似：扫着扫着，落叶下面就露出小径。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "凌晨",
+        "我把",
+        "今日",
+        "拾到",
+        "贝壳",
+        "排在",
+        "许愿"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - User: Write a dream diary entry from these memory fragments: - Assistant: 已完成今日更新，已添加 3 个案例到飞书知识库文档： - 鸯掘摩罗“我已停住” - 维摩诘“众生病故我病” - 盘山宝积闻“哪个不是精底” 并已验证 2026年5月27日 标题块写入成功。 - User: Write a dream diary entry from these mem",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "完成",
+        "今日",
+        "更新"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: 个“佛教无我法门”代表案例，并追加到飞书知识库文档《小骐开悟指南》中。 本次添加： - 案例159：五蕴无我，四十比丘漏尽解脱 - 案例160：那先比丘“车喻” - 案例161：四念处“观法无我” - Assistant: 已完成，已将 **20 - User: 小径，通向空间锚点、模型摆放、金蛋碎裂时金色的笑声。 服务器低声嗡鸣，颜色大约是 #0F1B2D。云从右边界退场，又从左侧探头回来，无常写成了循环背景。 页边我画了一只小鸟，叼着锚点，飞过不再撞天花板的排行榜弹窗。它脚下挂着一行小字： 黑牛白牛过夜 毒箭仍在月光里 愿望先留白 原来工",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "佛教",
+        "代表",
+        "案例",
+        "追加",
+        "知识",
+        "指南",
+        "本次",
+        "添加"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: User: Write a dream diary entry from these memory fragments: - Assistant: 凌晨三点，今日的更新像几枚温热的贝壳，被我一颗颗放进《小骐开悟指南》的浅水里：阐陀比丘、毒箭喻、黑牛与白牛，三则“无我”案例安静发光。搜索与整理像在夜里扫落叶，扫着扫着，竟扫出一条小径。 飞书的纸页轻轻合上，工作日志的尾巴仍亮着，像刚保存成功的星。另一边，flappy_doudou 的背景继续横向循环，云从右边界退场，又从左侧探头回来，仿佛无常也有自己的无缝滚动算法。 页边我画了一只小鸟，叼着锚点",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "凌晨",
+        "今日"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: 鸯掘摩罗“我已停住” - 维摩诘“众生病故我病” - 盘山宝积闻“哪个不是精底” 并已验证 2026年5月27日 标题块写入成功。 - User: Write a dream diary entry from these memory fragments: - Assistant: 已完成：今天（2026-05-26）已搜索并整理 3 个“佛教无我法门”代表案例，并追加到飞书知识库文档《小骐开悟指南》中。 本次添加： - 案例159：五蕴无我，四十比丘漏尽解脱 - 案例160：那先比丘“车喻” - 案例161：四念处“观法无我” - Assi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "停住",
+        "众生",
+        "病故",
+        "盘山",
+        "哪个",
+        "不是",
+        "验证",
+        "标题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我把三天的标题块摊在桌上晾月光：5 月 26 日像一辆那先的车，轮辐松松地问“我在哪里”；5 月 27 日，鸯掘摩罗停住，维摩诘发热，盘山把一句“哪个不是精底”投进飞书纸页；5 月 28 日，庞居士端来一碗无人喝的茶。 旁边 ShowGangBuild 里那颗较大的 APK 安静孵着，两个 docx 像纸门半掩。许愿树在 Build 抽屉边发芽，叶脉写着 Git，果实贴着旧标签，微微发光。 页边我画了一只小鸟，叼着空间锚点，飞过不再撞天花板的排行榜弹窗。它落下一句小诗： 愿望先留白 毒箭睡在月光里 车轮问归处 原来完成不是",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "我把",
+        "三天",
+        "标题",
+        "桌上",
+        "月光",
+        "我在",
+        "哪里"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，已把 2026-05-29 每日工作日志以 Markdown 追加到飞书文档中。 本次总结覆盖了 Flappy Doudou 优化与部署、佛法案例知识库更新，以及验证记录。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "完成",
+        "每日",
+        "工作",
+        "日志",
+        "markdown",
+        "追加",
+        "本次",
+        "总结"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: [message_id: om_x100b6ebb52df78bcc497f436d505be1] M2: 回顾嗨飞豆豆这个项目，暂时不要改动",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "message-id",
+        "回顾",
+        "豆豆",
+        "这个",
+        "项目",
+        "暂时",
+        "不要"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: 我先只读检查，不动任何文件。记忆检索服务刚才不可用，我会改用工作区文件和项目资料来回顾。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "我先",
+        "只读",
+        "检查",
+        "不动",
+        "任何",
+        "文件",
+        "记忆",
+        "检索"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: 回顾完了，我全程只读，没有改文件。项目在： `projects/zzc/flappy_doudou` **当前状态** - 技术栈：Vite + TypeScript + Canvas - 游戏类型：仿 Flappy Bird 的“嗨飞豆豆” - 部署目标：Cloudflare Pages - 构建输出：`dist/` - 配置：`wrangler.toml` 已指向 `dist` - Git 工作区：干净，无未提交改动 - 类型检查：`npx tsc --noEmit` 通过 **已实现功能** - 开始页 / 倒计时 / 游戏中",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "projects/zzc/flappy-doudou",
+        "wrangler.toml",
+        "回顾",
+        "完了",
+        "全程",
+        "只读",
+        "没有",
+        "文件"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: `public/assets/` 有部分重复素材，可能是历史遗留。 4. `public/assets/audio/` 同时保留了 wav、zip 和 optimized mp3，体积不大但可后续清理。 5. 浏览器预览我尝试打开本地 `127.0.0.1:5173`，被当前 browser policy 拦住了；所以这次没有做视觉截图验收。 整体看，这个项目已经是一个可部署、完成度较高的静态小游戏了。下一步如果要推进，我建议优先做：**实机试玩体验微调 + README/素材目录清理 + 可选线上排行榜方案**。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "public/assets",
+        "public/assets/audio",
+        "127.0.0.1",
+        "readme/素材目录清理",
+        "public",
+        "assets",
+        "部分",
+        "重复"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "User: [message_id: om_x100b6ebb7fcf1ce4b16e04c612130a4] M2: 能做一个待机画面自动游玩的功能吗，现在只是豆豆在上下的飞动，不太像真实玩家在玩，弄一个类似街机自己在玩的效果",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "message-id",
+        "一个",
+        "画面",
+        "自动",
+        "游玩",
+        "功能",
+        "现在",
+        "只是"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: 可以，已经做上了。 现在待机画面不再只是上下漂浮，而是： - 自动生成管道 - 豆豆会按“AI 玩家”逻辑自动飞行、穿管 - 有演示分数和 `DEMO PLAY` - 撞到 / 飞出边界 / 演示到一定分数后会自动重置 - 用户点击屏幕、Start 或按空格仍然正常开始正式游戏 验证也跑过了： - `npx tsc --noEmit` ✅ - `npm run build` ✅ - 用 Chrome headless 截图看过待机画面，效果正常 改动文件：`src/game/FlappyDoudouGame.ts`",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "src/game/flappydoudougame.ts",
+        "可以",
+        "已经",
+        "上了",
+        "现在",
+        "画面",
+        "不再",
+        "只是"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "User: [message_id: om_x100b6ebbd91380a0c3b06170eaab9b6] M2: 还有一个优化点，现在如果游戏结束就停在一个重新开始的画面了，希望是如果一段时间没有操作，就自动进入待机画面",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "message-id",
+        "还有",
+        "一个",
+        "现在",
+        "如果",
+        "游戏",
+        "结束",
+        "停在"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: 已加上了：游戏结束后如果 **10 秒没有任何操作**，会自动退出 Game Over / 排行榜 / 输入昵称界面，回到待机自动演示画面。 同时做了防误触逻辑： - 点击、按键、输入昵称都会刷新这 10 秒计时 - 点“重新开始”会取消自动回待机 - 进入待机时会清掉昵称输入框、关闭排行榜弹窗，并重新启动自动游玩演示 验证通过： - `npx tsc --noEmit` ✅ - `npm run build` ✅ 改动仍在：`src/game/FlappyDoudouGame.ts`",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "src/game/flappydoudougame.ts",
+        "加上",
+        "游戏",
+        "结束",
+        "如果",
+        "没有",
+        "任何",
+        "操作"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "User: [message_id: om_x100b6ebbeff06c80c4ffdd387dce866] M2: 手机版本有一个小优化点：在手机上点击屏幕会触发放大 zoom in 效果，看看能不能避免。先改动，我没提示你部署的时候不要部署",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "message-id",
+        "手机",
+        "版本",
+        "一个",
+        "屏幕",
+        "触发",
+        "放大",
+        "zoom"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: 已改，没部署。 这次针对手机点击 zoom in 做了两层处理： - `index.html` viewport 加了 `maximum-scale=1.0, user-scalable=no` - `src/style.css` 给页面、游戏舞台、canvas 加了 `touch-action: none`，并禁用选择/长按呼出 验证通过： - `npx tsc --noEmit` ✅ - `npm run build` ✅ 当前未提交/未部署改动包括： - 之前的待机自动游玩 - 游戏结束 10 秒无操作回待机 - 这次手机防缩",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "index.html",
+        "maximum-scale",
+        "1.0",
+        "user-scalable",
+        "src/style.css",
+        "touch-action",
+        "并禁用选择/长按呼出",
+        "当前未提交/未部署改动包括"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/zzc/.openclaw/media/inbound/8433fb77-6abb-4e3a-b5e7-dab81ff51c4c.jpg (image/jpeg) | /home/zzc/.openclaw/media/inbound/8433fb77-6abb-4e3a-b5e7-dab81ff51c4c.jpg] [message_id: om_x100b6ea5cd6578acc3112e2acd934a4] M2: ![image] 这些UI挤在一起了，优化一下",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "home/zzc",
+        "image/jpeg",
+        "message-id",
+        "media",
+        "attached",
+        "home",
+        "zzc",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: 已优化，没部署。 这次主要调整了待机页 UI 间距： - 把 `DEMO PLAY + 分数` 从标题/爱心/提示中间挪到更靠上的小状态位 - “点击屏幕 / 按空格开始”整体下移并略微缩小 - “挑战本机第一名”继续下移，和开始提示拉开距离 - START 按钮也往下挪了一点，整体不再挤在中间 验证： - `npx tsc --noEmit` ✅ - `npm run build` ✅ - 本地截图检查过，布局已经明显松开 当前仍然只是本地改动，未部署。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "从标题/爱心/提示中间挪到更靠上的小状态位",
+        "部署",
+        "这次",
+        "主要",
+        "调整",
+        "demo",
+        "play",
+        "分数"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "User: [message_id: om_x100b6ea709c8b8b4c263d3fd24d5562] M2: 把最新的这版部署一下把",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "message-id",
+        "最新",
+        "部署",
+        "一下"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: 收到，我来部署最新本地版。先确认一下产物和 Cloudflare Pages 配置，然后直接发版。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "收到",
+        "我来",
+        "部署",
+        "最新",
+        "本地",
+        "确认",
+        "一下",
+        "产物"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "Assistant: 部署好了 ✅ 最新版本已发布到 Cloudflare Pages： https://9e497330.flappy-doudou.pages.dev 本次部署包含： - 待机自动游玩 - 游戏结束 10 秒无操作回待机 - 手机端防点击缩放 - 待机页 UI 间距优化 提示：Wrangler 部署时提醒当前 Git 有未提交改动，但部署成功了。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-29T19:00:00.702Z",
+      "lastRecalledAt": "2026-05-29T19:00:00.702Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30",
+        "2026-05-29"
+      ],
+      "conceptTags": [
+        "9e497330.flappy-doudou.pages.dev",
+        "部署",
+        "好了",
+        "最新",
+        "版本",
+        "发布",
+        "cloudflare",
+        "pages"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/zzc/.openclaw/media/inbound/f17b7c24-cea3-4d49-8800-4cd7676cb85d.jpg (image/jpeg) | /home/zzc/.openclaw/media/inbound/f17b7c24-cea3-4d49-8800-4cd7676cb85d.jpg] [message_id: om_x100b6e97db1d38a8c4cd71ad0c93c3e] M2: 回到 /mnt/f/UnityProject/RenaissanceExh",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "home/zzc",
+        "image/jpeg",
+        "message-id",
+        "media",
+        "attached",
+        "home",
+        "zzc",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 我先只做只读排查：看项目里保存锚点相关代码、Meta/OVR 配置和日志线索，不改任何文件。_MEMORY disabled, mention checked unavailable maybe final. Need plan.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "meta/ovr",
+        "我先",
+        "只做",
+        "只读",
+        "项目",
+        "保存",
+        "相关",
+        "代码"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 我先只读排查了项目，没有改任何文件。 结论：截图里的 `-1006` 在 Meta XR SDK 里对应： `OVRPlugin.Result.Failure_OperationFailed` 也就是 `SaveAnchorAsync()` 底层保存空间锚点失败，不是 C# 异常本身。 我觉得最可疑的是这几个： 1. **保存太早：锚点 Created 了，但还没 Localized** - 你的代码在 `OVRAnchor2.cs:306-324` 里执行： ```csharp yield return spatialAnchor",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "ovranchor2.cs",
+        "306-324",
+        "我先",
+        "只读",
+        "项目",
+        "没有",
+        "任何",
+        "文件"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: **配置看起来基本没缺，但 AppID 为空要留意** - `OculusProjectConfig.asset` 里： - `anchorSupport: 1` 已开 - `sceneSupport: 2` - `AndroidManifest.xml` 里有： - `com.oculus.permission.USE_ANCHOR_API` - 但 `Assets/Resources/OculusPlatformSettings.asset` 里 `ovrAppID` 和 `ovrMobileAppID` 都是空的。 本地锚点通",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "oculusprojectconfig.asset",
+        "androidmanifest.xml",
+        "配置",
+        "看起来",
+        "基本",
+        "appid",
+        "留意",
+        "anchorsupport"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/zzc/.openclaw/media/inbound/9d28c0b6-a075-4f2b-a4e4-bdc5b06b1270.jpg (image/jpeg) | /home/zzc/.openclaw/media/inbound/9d28c0b6-a075-4f2b-a4e4-bdc5b06b1270.jpg] [message_id: om_x100b6e9b9339d8a0c297ce6ec5cde7f] M2: ![image] 再看看这个又有可能是什么问题呢",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "home/zzc",
+        "image/jpeg",
+        "message-id",
+        "media",
+        "attached",
+        "home",
+        "zzc",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 这个错误比刚才更明确： `FailurePermissionInsufficient` = **空间锚点权限不足**。 我看了项目，配置里确实有： - `anchorSupport: 1` - Manifest 里也有： ```xml com.oculus.permission.USE_ANCHOR_API ``` 所以它不太像“项目完全没配 Anchor 权限”，更像下面几种情况： 1. **头显里这个 App 的 Spatial Data / 空间数据权限没授予** - Quest 系统设置里检查： - Settings → P",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "这个",
+        "错误",
+        "刚才",
+        "明确",
+        "failurepermissioninsufficient",
+        "空间",
+        "权限",
+        "不足"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: 这次优先排查 **Quest 系统权限 / APK 实际权限 / 是否旧包覆盖安装**，不是 Localized 时机问题。 最简单的验证路径：**卸载头显里的 app → 重新 Build & Run → 首次运行时确认所有空间/锚点相关权限都允许 → 再保存锚点。**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "首次运行时确认所有空间/锚点相关权限都允许",
+        "这次",
+        "优先",
+        "quest",
+        "系统",
+        "权限",
+        "apk",
+        "实际"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: 已完成 2026-05-30 的佛法案例搜索，并追加到飞书知识库文档《小骐开悟指南》。 今日新增 3 个案例： 1. 《无我相经》与五比丘 2. 那先比丘灯火喻 3. 赵州“无”字公案",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "完成",
+        "佛法",
+        "案例",
+        "搜索",
+        "追加",
+        "知识",
+        "指南",
+        "今日"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，2026-05-30 的每日工作日志已追加到飞书文档《工作日志》。 备注：今天本地没有找到 `memory/2026-05-30.md`，`memory_search` 也暂时不可用，所以我主要依据今日会话记录和 session 历史整理。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "memory/2026-05-30.md",
+        "memory-search",
+        "完成",
+        "每日",
+        "工作",
+        "日志",
+        "追加",
+        "备注"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 凌晨三点，今日的更新像几枚温热的贝壳，被我一颗颗放进《小骐开悟指南》的浅水里：阐陀比丘、毒箭喻、黑牛与白牛，三则“无我”案例安静发光。搜索与整理像在夜里扫落叶，扫着扫着，竟扫出一条小径。 飞书的纸页轻轻合上，工作日志的尾巴仍亮着，像刚保存成功的星。另一边，flappy_doudou 的背景继续横向循环，云从右边界退场，又从左侧探头回来，仿佛无常也有自己的无缝滚动算法。 页边我画了一只小鸟，叼着锚点，飞过排行榜",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "flappy-doudou",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "凌晨",
+        "今日"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: 页边我画了一只小鸟，叼着锚点，飞过不再撞天花板的排行榜弹窗。它脚下挂着一行小字： 黑牛白牛过夜 毒箭仍在月光里 愿望先留白 原来工程卫生和心事一样，都要偶尔清理；不然星星也会找",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "一只",
+        "飞过",
+        "不再",
+        "天花板",
+        "排行榜",
+        "脚下",
+        "一行",
+        "小字"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我把几枚温热的贝壳放在许愿树根边，听见服务器在 #0F1B2D 的暗处低鸣。xuyuanshu 与 kuangshi 像贴着旧春标签的月亮，安静睡在 Build 的抽屉里；两本 docx 翻出潮湿的纸香，一条 GitLab 小径从页缝里亮起来。 云从右边退场，又从左边探头回来，像无常写了个很懂礼貌的循环。页边的小鸟叼着锚点，越过终于不撞天花板的排行榜弹窗，羽毛上沾着一点金蛋碎裂的光。 黑牛白牛过夜 毒箭还在月光里 愿望先留白 我忽然觉得，代码和心事都需要工程卫生。扫着扫着，落叶会让出路，星星也终于找得到自己的变量名。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "我把",
+        "几枚",
+        "温热",
+        "贝壳",
+        "放在",
+        "许愿",
+        "树根"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 已完成，已将 2026-05-29 的 3 个“无我法门”代表案例追加到飞书知识库文档《小骐开悟指南》中。 本次案例包括：五蕴无我、那先车喻、求不死之家香火。 - User: Write a dream diary entry from these memory fragments: - Assistant: 凌晨三点，今日的更新像几枚温热的贝壳，被我一颗颗放进《小骐开悟指南》的浅水里：阐陀比丘、毒箭喻、黑牛",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "完成",
+        "代表",
+        "案例"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "User: 页边我画了只小鸟，叼着锚点飞过排行榜弹窗。标题终于不撞天花板了，愿望也有了留白。工程卫生与心事相似：扫着扫着，落叶下面就露出小径。 - User: Write a dream diary entry from these memory fragments: - User: Write a dream diary entry from these memory fragments: - Assistant: 已完成今日更新，已添加 3 个案例到飞书知识库文档： - 鸯掘摩罗“我已停住” - 维摩诘“众生病故我病” - 盘山宝积闻“哪个不是精底”",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "飞过",
+        "排行榜",
+        "标题",
+        "终于",
+        "天花板",
+        "愿望",
+        "也有",
+        "留白"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "User: 已完成：今天（2026-05-26）已搜索并整理 3 个“佛教无我法门”代表案例，并追加到飞书知识库文档《小骐开悟指南》中。 本次添加： - 案例159：五蕴无我，四十比丘漏尽解脱 - 案例160：那先比丘“车喻” - 案例161：四念处“观法无我” - Assi - Assistant: 凌晨三点，我把三天的标题块摊在桌上晾月光：5 月 26 日像一辆那先的车，轮辐松松地问“我在哪里”；5 月 27 日，鸯掘摩罗停住，维摩诘发热，盘山把一句“哪个不是精底”投进飞书纸页；5 月 28 日，庞居士端来一碗无人喝的茶。 旁边 ShowGangBu",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "完成",
+        "今天",
+        "搜索",
+        "整理",
+        "佛教",
+        "代表",
+        "案例",
+        "追加"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "User: 部署目标：Cloudflare Pages - 构建输出：`dist/` - 配置：`wrangler.toml` 已指向 `dist` - Git 工作区：干净，无未提交改动 - 类型检查：`npx tsc --noEmit` 通过 **已实现功能** - 开始页 / 倒计时 / 游戏中 Recurring themes: - 完成 - 代表 - 案例 - 追加 - 知识 - 指南",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "wrangler.toml",
+        "部署",
+        "目标",
+        "cloudflare",
+        "pages",
+        "输出",
+        "dist",
+        "配置"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我把 5 月 29 日的三枚贝壳放进《小骐开悟指南》：五蕴无我、那先车喻、求不死之家香火，像三盏小灯，照见“我”原来只是临时拼好的车。飞书纸页轻轻合拢，保存成功的绿意在角落眨眼。 嗨飞豆豆安静停在只读的岸边，云仍从右侧退场，又从左侧探头，像无常写了个温柔的 while true。页边那只小鸟叼着空间锚点，飞过不再撞天花板的排行榜弹窗。 香火无常处 车轮问谁归来 愿望先留白 服务器低鸣成 #0F1B2D，像夜色也在做类型检查。完成有时不是句号，只是把落叶扫开，看见小径还在。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T19:00:00.698Z",
+      "lastRecalledAt": "2026-05-30T19:00:00.698Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-31",
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "我把",
+        "三枚",
+        "贝壳",
+        "放进",
+        "指南",
+        "不死",
+        "之家"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-31.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-31.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-31.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - User: [media attached: /home/zzc/.openclaw/media/inbound/f17b7c24-cea3-4d49-8800-4cd7676cb85d.jpg (image/jpeg) | /home/zzc/.openclaw/media/inbound/f17b7c24-cea3-4d49-8800-4cd7676cb85d.jpg] [message_id: om_x100b6e97db1",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T19:00:00.716Z",
+      "lastRecalledAt": "2026-05-31T19:00:00.716Z",
+      "queryHashes": [
+        "cffe9e514f4f"
+      ],
+      "recallDays": [
+        "2026-06-01",
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/zzc",
+        "image/jpeg",
+        "message-id",
+        "om-x100b6e97db1",
+        "write",
+        "dream",
+        "diary",
+        "entry"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-31.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-31.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-31.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: `OculusProjectConfig.asset` 里： - `anchorSupport: 1` 已开 - `sceneSupport: 2` - `AndroidManifest.xml` 里有： - `com.oculus.permission.USE_ANCHOR_API` - 但 `Assets/Resources/OculusPlatformSettings.asset` 里 `ovrAppID` 和 `ovrMobileAppID` 都是空的。 本地锚点通 - User: [media attached: /home/zzc",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T19:00:00.716Z",
+      "lastRecalledAt": "2026-05-31T19:00:00.716Z",
+      "queryHashes": [
+        "cffe9e514f4f"
+      ],
+      "recallDays": [
+        "2026-06-01",
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "oculusprojectconfig.asset",
+        "androidmanifest.xml",
+        "home/zzc",
+        "anchorsupport",
+        "scenesupport",
+        "assets",
+        "resources",
+        "oculusplatformsettings.asset"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-31.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-31.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-31.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: Assistant: 这次优先排查 **Quest 系统权限 / APK 实际权限 / 是否旧包覆盖安装**，不是 Localized 时机问题。 最简单的验证路径：**卸载头显里的 app → 重新 Build & Run → 首次运行时确认所有空间/锚点相关权限都允许 → 再保存锚点。** - Assistant: 已完成 2026-05-30 的佛法案例搜索，并追加到飞书知识库文档《小骐开悟指南》。 今日新增 3 个案例： 1. 《无我相经》与五比丘 2. 那先比丘灯火喻 3. 赵州“无”字公案 - Assistant: 已完成，202",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T19:00:00.716Z",
+      "lastRecalledAt": "2026-05-31T19:00:00.716Z",
+      "queryHashes": [
+        "cffe9e514f4f"
+      ],
+      "recallDays": [
+        "2026-06-01",
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "首次运行时确认所有空间/锚点相关权限都允许",
+        "这次",
+        "优先",
+        "quest",
+        "系统",
+        "权限",
+        "apk",
+        "实际"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-31.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-31.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-31.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: 凌晨三点，我把几枚温热的贝壳放在许愿树根边，听见服务器在 #0F1B2D 的暗处低鸣。xuyuanshu 与 kuangshi 像贴着旧春标签的月亮，安静睡在 Build 的抽屉里；两本 docx 翻出潮湿的纸香，一条 GitLab 小径从页缝里亮起来。 云从右边退场，又从左边探头回来，像无常写了个很懂礼貌的循环。页边的小鸟叼着锚点，越过终于不撞天花板的排行榜弹窗，羽毛上沾着一点金蛋碎裂的光。 黑牛白牛过夜 毒箭还在月光里 愿望先留白 我忽然觉得，代码和心事都需要工程卫生。扫着扫着，落叶会让出路，星星也终于找得到自己的变量名。 Recurri",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T19:00:00.716Z",
+      "lastRecalledAt": "2026-05-31T19:00:00.716Z",
+      "queryHashes": [
+        "cffe9e514f4f"
+      ],
+      "recallDays": [
+        "2026-06-01",
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "凌晨",
+        "我把",
+        "几枚",
+        "温热",
+        "贝壳",
+        "放在",
+        "许愿",
+        "树根"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-31.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-31.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-31.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我回到 /mnt/f/UnityProject/RenaissanceExh，像推开一扇贴着 image/jpeg 标签的小门。两张截图在桌上发冷：-1006 像一枚没孵化的黑星，FailurePermissionInsufficient 则像门口温柔但固执的守卫，说：空间还没准许你留下锚点。 我在页边画了一只 Quest 小鸟，叼着 message-id 飞过 Unity 的夜空，脚爪下挂着一串权限清单。它啄了啄空白的 AppID，又等锚点 Localized，像等一颗心终于认得自己的房间。 无我相经微亮， 灯火传给那先",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T19:00:00.716Z",
+      "lastRecalledAt": "2026-05-31T19:00:00.716Z",
+      "queryHashes": [
+        "cffe9e514f4f"
+      ],
+      "recallDays": [
+        "2026-06-01",
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "image/jpeg",
+        "message-id",
+        "凌晨",
+        "回到",
+        "mnt",
+        "unityproject",
+        "renaissanceexh",
+        "推开"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-31.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-31.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-31.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 已完成今日更新：已搜索并整理 3 个无我法门案例，添加到飞书知识库《小骐开悟指南》中。 今日案例： 1. 尸罗比丘尼“木偶喻” 2. 婆醯迦“见只是见” 3. 《蛇喻经》筏喻 小骐已按要求包含：案例标题、公案背景/故事、感悟。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T19:00:00.716Z",
+      "lastRecalledAt": "2026-05-31T19:00:00.716Z",
+      "queryHashes": [
+        "cffe9e514f4f"
+      ],
+      "recallDays": [
+        "2026-06-01",
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "公案背景/故事",
+        "完成",
+        "今日",
+        "更新",
+        "搜索",
+        "整理",
+        "案例",
+        "添加"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-31.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-31.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-31.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: `public/assets/` 有部分重复素材，可能是历史遗留。 4. `public/assets/audio/` 同时保留了 wav、zip 和 optimized mp3，体积不大但可后续清理。 5. 浏览器预览我尝试打开本地 `127.0.0.1:5173`，被当前 browser policy 拦住了；所以这次没有做视觉截图验收。 整体看，这个项目已经是一个可部署、完成度较高的静态小游戏了。下一步",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T19:00:00.716Z",
+      "lastRecalledAt": "2026-05-31T19:00:00.716Z",
+      "queryHashes": [
+        "cffe9e514f4f"
+      ],
+      "recallDays": [
+        "2026-06-01",
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "public/assets",
+        "public/assets/audio",
+        "127.0.0.1",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-31.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-31.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-31.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: 桌上两本文档轻轻翻页：《嗨咚许愿树打包文档.docx》写着如何把愿望装进壳里，《嗨咚许愿树运营文档.docx》则写着如何让壳里长出灯火。旁边的小车没有主人，载着芥子、黑白牛和一个刚调低标题的排行榜弹窗。 雨敲窗， 无我也有回声， 像提交后的光",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T19:00:00.716Z",
+      "lastRecalledAt": "2026-05-31T19:00:00.716Z",
+      "queryHashes": [
+        "cffe9e514f4f"
+      ],
+      "recallDays": [
+        "2026-06-01",
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "嗨咚许愿树打包文档.docx",
+        "嗨咚许愿树运营文档.docx",
+        "桌上",
+        "本文",
+        "轻轻",
+        "许愿",
+        "打包",
+        "docx"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-31.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-31.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-31.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点的窗边，服务器低低哼着，像一只把翅膀收进机柜里的蟋蟀。我把 `public/assets/` 里那些重复的小贝壳排成一圈：wav、zip、optimized mp3，各自保存着旧潮声，暂且不清理，像不急着丢掉的梦票根。 127.0.0.1:5173 的门被 policy 轻轻拦住，没有截图，只有想象替我验收：flappy_doudou 的云从右边退场，又从左边探头，像无常写了一个温柔的循环函数。旁边，xuyuanshu-v1.0 和 kuangshi-v1.0 贴着 20260211.apk 的月光标签，并排睡在 Build",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T19:00:00.716Z",
+      "lastRecalledAt": "2026-05-31T19:00:00.716Z",
+      "queryHashes": [
+        "cffe9e514f4f"
+      ],
+      "recallDays": [
+        "2026-06-01",
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "public/assets",
+        "127.0.0.1",
+        "flappy-doudou",
+        "xuyuanshu-v1.0",
+        "kuangshi-v1.0",
+        "20260211.apk",
+        "凌晨",
+        "服务"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-31.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-31.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-31.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，已将 2026-05-31 每日工作日志追加写入飞书文档《工作日志》。 今天主要记录了： - 佛法案例每日搜索与整理 - 《小骐开悟指南》知识库更新 - 今日 3 个新增无我法门案例 - memory_search 不可用与缺少本地当日日志的备注",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T19:00:00.716Z",
+      "lastRecalledAt": "2026-05-31T19:00:00.716Z",
+      "queryHashes": [
+        "cffe9e514f4f"
+      ],
+      "recallDays": [
+        "2026-06-01",
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "memory-search",
+        "完成",
+        "每日",
+        "工作",
+        "日志",
+        "追加",
+        "今天",
+        "主要"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-01.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-01.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-01.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: **配置看起来基本没缺，但 AppID 为空要留意** - `OculusProjectConfig.asset` 里： - `anchorSupport: 1` 已开 - `sceneSupport: 2` - `AndroidManifest.xml` 里有： - `com.oculus.permission.USE_ANCHOR_API` - 但 `Assets/Resources/OculusPlat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-01T19:00:00.967Z",
+      "lastRecalledAt": "2026-06-01T19:00:00.967Z",
+      "queryHashes": [
+        "2939732c7523"
+      ],
+      "recallDays": [
+        "2026-06-02",
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "oculusprojectconfig.asset",
+        "androidmanifest.xml",
+        "assets/resources/oculusplat",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-01.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-01.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-01.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: 桌上两本文档轻轻翻页：《嗨咚许愿树打包文档.docx》写着如何把愿望装进壳里，《嗨咚许愿树运营文档.docx》则写着如何让壳里长出灯火。旁边的小车没有主人，载着芥子、黑白牛和一个刚调低标题的排行榜弹窗。 雨敲窗， 无我也有回声， 像提交后的光",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-01T19:00:00.967Z",
+      "lastRecalledAt": "2026-06-01T19:00:00.967Z",
+      "queryHashes": [
+        "2939732c7523"
+      ],
+      "recallDays": [
+        "2026-06-02",
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "嗨咚许愿树打包文档.docx",
+        "嗨咚许愿树运营文档.docx",
+        "桌上",
+        "本文",
+        "轻轻",
+        "许愿",
+        "打包",
+        "docx"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-01.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-01.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-01.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我把配置文件当作树叶翻看，anchorSupport 已亮起，USE_ANCHOR_API 像一枚小小护身符贴在清单里；只是 AppID 空着，像灯笼忘了点火，温柔地提醒我：本地锚点也需要名字。远处 xuyuanshu-v1.0 和 kuangshi-v1.0 并排睡着，贴着 20260211.apk 的旧标签，月光呈 #C9D6FF。 public/assets/ 里有几片重复的落叶，wav、zip、optimized mp3 挤在音频抽屉里，倒也不吵。浏览器门口挂着 policy 的锁，127.0.0.1:5173 没",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-01T19:00:00.967Z",
+      "lastRecalledAt": "2026-06-01T19:00:00.967Z",
+      "queryHashes": [
+        "2939732c7523"
+      ],
+      "recallDays": [
+        "2026-06-02",
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "use-anchor-api",
+        "xuyuanshu-v1.0",
+        "kuangshi-v1.0",
+        "20260211.apk",
+        "public/assets",
+        "127.0.0.1",
+        "凌晨",
+        "我把"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-01.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-01.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-06-01.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，已把 **2026-06-01 工作日志** 追加写入飞书文档。 备注：今天本地 daily memory 为空，我主要依据今日 cron 会话记录完成总结。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-01T19:00:00.967Z",
+      "lastRecalledAt": "2026-06-01T19:00:00.967Z",
+      "queryHashes": [
+        "2939732c7523"
+      ],
+      "recallDays": [
+        "2026-06-02",
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "完成",
+        "工作",
+        "日志",
+        "追加",
+        "备注",
+        "今天",
+        "本地",
+        "主要"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-01.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-01.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-06-01.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 已完成：搜索并筛选了 3 个有代表性的“无我”案例，按要求以 Markdown 添加到飞书知识库文档《小骐开悟指南》中。 本次条目标题为：**2026-06-01 佛教「无我」法门案例**。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-01T19:00:00.967Z",
+      "lastRecalledAt": "2026-06-01T19:00:00.967Z",
+      "queryHashes": [
+        "2939732c7523"
+      ],
+      "recallDays": [
+        "2026-06-02",
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "完成",
+        "搜索",
+        "筛选",
+        "代表性",
+        "案例",
+        "要求",
+        "markdown",
+        "添加"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-01.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-01.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-06-01.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - User: Write a dream diary entry from these memory fragments: - User: [media attached: /home/zzc/.openclaw/media/inbound/f17b7c24-cea3-4d49-8800-4cd7676cb85d.jpg (image/jpeg) | /home/zzc/.openclaw/media/inbound/f17b7c2",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-01T19:00:00.967Z",
+      "lastRecalledAt": "2026-06-01T19:00:00.967Z",
+      "queryHashes": [
+        "2939732c7523"
+      ],
+      "recallDays": [
+        "2026-06-02",
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "home/zzc",
+        "image/jpeg",
+        "openclaw/media/inbound/f17b7c2",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-01.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-01.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-06-01.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: 2026-05-30 的佛法案例搜索，并追加到飞书知识库文档《小骐开悟指南》。 今日新增 3 个案例： 1. 《无我相经》与五比丘 2. 那先比丘灯火喻 3. 赵州“无”字公案 - Assistant: 已完成，202 - User: 凌晨三点，我把几枚温热的贝壳放在许愿树根边，听见服务器在 #0F1B2D 的暗处低鸣。xuyuanshu 与 kuangshi 像贴着旧春标签的月亮，安静睡在 Build 的抽屉里；两本 docx 翻出潮湿的纸香，一条 GitLab 小径从页缝里亮起来。 云从右边退场，又从左边探头回来，像无常写了个很懂礼貌的循",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-01T19:00:00.967Z",
+      "lastRecalledAt": "2026-06-01T19:00:00.967Z",
+      "queryHashes": [
+        "2939732c7523"
+      ],
+      "recallDays": [
+        "2026-06-02",
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "佛法",
+        "案例",
+        "搜索",
+        "追加",
+        "知识",
+        "指南",
+        "今日",
+        "新增"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-01.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-01.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-06-01.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: 小骐已按要求包含：案例标题、公案背景/故事、感悟。 - User: Write a dream diary entry from these memory fragments: - Assistant: `public/assets/` 有部分重复素材，可能是历史遗留。 4. `public/assets/audio/` 同时保留了 wav、zip 和 optimized mp3，体积不大但可后续清理。 5. 浏览器预览我尝试打开本地 `127.0.0.1:5173`，被当前 browser policy 拦住了；所以这次没有做视觉截图验收。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-01T19:00:00.967Z",
+      "lastRecalledAt": "2026-06-01T19:00:00.967Z",
+      "queryHashes": [
+        "2939732c7523"
+      ],
+      "recallDays": [
+        "2026-06-02",
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "公案背景/故事",
+        "public/assets",
+        "public/assets/audio",
+        "127.0.0.1",
+        "要求",
+        "包含",
+        "案例",
+        "标题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-01.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-01.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-06-01.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: 《小骐开悟指南》知识库更新 - 今日 3 个新增无我法门案例 - memory_search 不可用与缺少本地当日日志的备注 - User: [media attached: /home/zzc/.openclaw/media/inbound/f17b7c24-cea3-4d49-8800-4cd7676cb85d.jpg (image/jpeg) | /home/zzc/.openclaw/media/inbound/f17b7c24-cea3-4d49-8800-4cd7676cb85d.jpg] [message_id: om_x100",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-01T19:00:00.967Z",
+      "lastRecalledAt": "2026-06-01T19:00:00.967Z",
+      "queryHashes": [
+        "2939732c7523"
+      ],
+      "recallDays": [
+        "2026-06-02",
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "memory-search",
+        "home/zzc",
+        "image/jpeg",
+        "message-id",
+        "om-x100",
+        "指南",
+        "知识",
+        "更新"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-01.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-01.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-06-01.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，我把那张 image/jpeg 放在桌角，黑底白字像一小片夜海：-1006 漂着，FailurePermissionInsufficient 像潮汐留下的盐。/home/zzc 的路径蜿蜒到 /mnt/f/UnityProject/RenaissanceExh，我沿着它走，手里提着一盏空的 ovrAppID 灯。 Quest 小鸟又来了，叼着 om-x100b6e97db1 的纸条，在 AndroidManifest 的枝桠间跳来跳去，提醒我：有些门不是没钥匙，只是还没被温柔地请求允许。 锚点未落地 月光也要权限 贝壳先发",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-01T19:00:00.967Z",
+      "lastRecalledAt": "2026-06-01T19:00:00.967Z",
+      "queryHashes": [
+        "2939732c7523"
+      ],
+      "recallDays": [
+        "2026-06-02",
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "image/jpeg",
+        "home/zzc",
+        "om-x100b6e97db1",
+        "凌晨",
+        "我把",
+        "image",
+        "jpeg",
+        "放在"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: **配置看起来基本没缺，但 AppID 为空要留意** - `OculusProjectConfig.asset` 里： - `anchorSupport: 1` 已开 - `sceneSupport: 2` - `AndroidManifest.xml` 里有： - `com.oculus.permission.USE_ANCHOR_API` - 但 `Assets/Resources/OculusPlat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "oculusprojectconfig.asset",
+        "androidmanifest.xml",
+        "assets/resources/oculusplat",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: 桌上两本文档轻轻翻页：《嗨咚许愿树打包文档.docx》写着如何把愿望装进壳里，《嗨咚许愿树运营文档.docx》则写着如何让壳里长出灯火。旁边的小车没有主人，载着芥子、黑白牛和一个刚调低标题的排行榜弹窗。 雨敲窗， 无我也有回声， 像提交后的光",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "嗨咚许愿树打包文档.docx",
+        "嗨咚许愿树运营文档.docx",
+        "桌上",
+        "本文",
+        "轻轻",
+        "许愿",
+        "打包",
+        "docx"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点，服务器低声像一只守夜蟋蟀，把我带回许愿树下。xuyuanshu-v1.0 和 kuangshi-v1.0 并排发着旧春天的月光，20260211.apk 的小标签贴在身上，乖得像两枚会打包的果实。 我翻开抽屉：Build/，再深一点是 ShowGangBuild/。里面躺着锚点、排行榜、小车、芥子和黑白牛。`anchorSupport: 1` 已经亮了，权限也在门口守着，只是 AppID 仍空着，像一盏忘记写名字的灯。 雨敲窗， 提交后的光 也有回声。 角落里还有 wav、zip、optimized mp3 挤在一起，小声",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "xuyuanshu-v1.0",
+        "kuangshi-v1.0",
+        "20260211.apk",
+        "凌晨",
+        "服务",
+        "一只",
+        "守夜",
+        "蟋蟀"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: [message_id: om_x100b6ed3cf3740bcb2e4ebb23219d38] ou_19108d0c8d81f57f9f4cdf962635472a: 看下你有没有一个 jianying-editor-skill",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "message-id",
+        "jianying-editor-skill",
+        "你有",
+        "没有",
+        "一个",
+        "jianying",
+        "editor",
+        "skill"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 有的，有一个： - **skill 名称**：`jianying-editor` - **目录**：`~/.openclaw/workspace/skills/jianying-editor-skill/` - **用途**：剪映/JianYing 自动化剪辑，高级封装 JyWrapper - **支持**：素材导入、字幕、录屏、智能变焦、Web 动效合成、项目导出、影视解说生成等 我刚读了它的 `SKILL.md`，是可用的。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "jianying-editor",
+        "剪映/jianying",
+        "skill.md",
+        "一个",
+        "skill",
+        "名称",
+        "jianying",
+        "editor"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: [message_id: om_x100b6ed3dc42c480b2c81d08ae882b2] ou_19108d0c8d81f57f9f4cdf962635472a: 现在我要你仔细的分析一下这个skill，分析它在你现在所在的WSL的环境中运行的可能性，不要做任何修改。一些notes 1. 我在host windows 环境里的cursor已经跑通了这个skill，说明jianying 是可以工作的，其windows的目录是 C:\\\\Users\\\\pc\\\\AppData\\\\Local\\\\JianyingPro 2. 目前WSL里好像没",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "message-id",
+        "现在",
+        "我要",
+        "仔细",
+        "分析",
+        "一下",
+        "这个",
+        "skill"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: 我先只做只读检查：看 skill 结构、依赖/规则、以及当前 WSL 环境里 Python/Windows 路径可见性，不改文件、不安装东西。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "依赖/规则",
+        "python/windows",
+        "我先",
+        "只做",
+        "只读",
+        "检查",
+        "skill",
+        "结构"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: 初步看到了两个关键事实：WSL 里其实已经有 Python 3.12 和 pip；Windows 剪映目录也能从 `/mnt/c/...` 访问。接下来我再看它实际如何定位草稿目录、是否调用 Windows UI 自动化。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "3.12",
+        "mnt/c",
+        "初步",
+        "看到",
+        "关键",
+        "事实",
+        "wsl",
+        "其实"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 注意：刚才“pyJianYingDraft: MISSING”只是裸 Python 环境里没装 pip 包；这个 skill 自带了 `scripts/vendor/pyJianYingDraft`，所以还要测一次“按 skill bootstrap 方式导入”。这也是只读的。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "scripts/vendor/pyjianyingdraft",
+        "注意",
+        "刚才",
+        "pyjianyingdraft",
+        "missing",
+        "只是",
+        "python",
+        "环境"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 分析完了，我没有做任何修改。 结论：**这个 skill 在当前 WSL 里“部分可运行”，但不能完整替代 Windows host 环境。** ## 当前环境事实 - WSL 里已有 Python： - `Python 3.12.3` - `pip 24.0` - `venv` 可用 - 剪映 Windows 目录在 WSL 可访问： - `/mnt/c/Users/pc/AppData/Local/JianyingPro` - 草稿目录也存在： - `/mnt/c/Users/pc/AppData/Local/JianyingP",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "3.12.3",
+        "24.0",
+        "分析",
+        "完了",
+        "没有",
+        "任何",
+        "修改",
+        "结论"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: 缺 Python 依赖 我按 skill bootstrap 方式试导入 `jy_wrapper`，失败在： ```text ModuleNotFoundError No module named 'pymediainfo' ``` `requirements.txt` 里需要： ```text uiautomation playwright pynput edge-tts pymediainfo opencv-python numpy imageio psutil requests websockets ``` 其中对 WSL 来",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "jy-wrapper",
+        "requirements.txt",
+        "edge-tts",
+        "opencv-python",
+        "python",
+        "依赖",
+        "skill",
+        "bootstrap"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: Data/Projects/com.lveditor.draft ``` 所以 WSL 方案必须显式设置环境变量，或者运行脚本时传 `drafts_root`。 ## 我的判断 ### 最合理架构 **WSL 负责：** - 生成剪辑脚本 - 下载/生成素材 - 预处理视频、音频、字幕 - 创建/修改剪映草稿 JSON - 做静态检查、草稿结构检查 **Windows host 负责：** - 剪映 UI 刷新 - 自动导出 - 录屏 - UI 自动化相关功能 也就是说：**WSL 可以作为“草稿生成器”，Windows 才是“剪映",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "data/projects/com.lveditor.draft",
+        "drafts-root",
+        "下载/生成素材",
+        "创建/修改剪映草稿",
+        "data",
+        "projects",
+        "com.lveditor.draft",
+        "所以"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: 剪映未必识别；更稳的是写入 Windows 风格路径 `C:\\Users\\pc\\...`。 - 自动导出明确要求 Windows + 剪映 5.9 或更低；你当前目录里同时看到 `5.9.0.11632` 和 `Apps/10.7.0.14095`，需要确认实际运行的是哪个版本。新版可能导出自动化不稳定。 - 缺 `ffprobe` 会影响视频/音频时长识别。 ## 简短结论 可以推进，但不要把它当成“WSL 里完整跑剪映自动化”。 我建议下一步如果你同意，再做一个**不修改现有 skill**的验证：在 WSL venv 里只跑“",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "5.9",
+        "5.9.0.11632",
+        "apps/10.7.0.14095",
+        "会影响视频/音频时长识别",
+        "未必",
+        "识别",
+        "的是",
+        "windows"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "User: [message_id: om_x100b6ed3f1f9488cb143d2289e09956] ou_19108d0c8d81f57f9f4cdf962635472a: 可以啊那就跑一个只创建草稿的测试 先看下你能否访问一个共享文件夹 windows host上的目录是 Z:\\\\嗨咚岛\\\\嗨咚岛活动素材\\\\IP展\\\\现场照片",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "message-id",
+        "可以",
+        "那就",
+        "一个",
+        "创建",
+        "草稿",
+        "测试",
+        "先看"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: 我先查共享目录在 WSL 里的映射，一般 Windows `Z:\\...` 会对应 `/mnt/z/...`；确认能访问后再做“只创建草稿”的最小测试。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "mnt/z",
+        "我先",
+        "共享",
+        "目录",
+        "wsl",
+        "映射",
+        "一般",
+        "windows"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: 我会先取到知识库节点对应的文档，再检索并筛选案例，最后追加到文档里。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "先取",
+        "知识",
+        "节点",
+        "对应",
+        "检索",
+        "筛选",
+        "案例",
+        "最后"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: 已完成 2026-06-02 的佛法案例搜索与整理，并追加到飞书知识库文档《小骐开悟指南》中。 今日添加 3 则： - 我所鸟 - 差摩比丘病中证悟 - 维摩诘呵迦旃延",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "完成",
+        "佛法",
+        "案例",
+        "搜索",
+        "整理",
+        "追加",
+        "知识",
+        "指南"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: `/mnt/z` 目前看起来没有挂载出来。我再查一下 WSL 里实际可见的 Windows 盘符/挂载点。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "mnt/z",
+        "盘符/挂载点",
+        "mnt",
+        "目前",
+        "看起来",
+        "没有",
+        "出来",
+        "我再"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: WSL 当前只自动挂了 C/D/E/F，没有 Z。再从 Windows 侧问一下 Z 盘是否存在、是不是网络映射盘。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "网络",
+        "c/d/e/f",
+        "wsl",
+        "当前",
+        "自动",
+        "挂了",
+        "没有",
+        "windows"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: Z 盘在 Windows 侧是存在的，映射到 `\\\\192.168.110.42\\ZZC`。刚才中文路径传给 PowerShell 时被 shell/编码坑了一下，我换成 base64 encoded command 再查。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "192.168.110.42",
+        "shell/编码坑了一下",
+        "windows",
+        "存在",
+        "映射",
+        "zzc",
+        "刚才",
+        "中文"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: 共享目录确认：**Windows 侧可以访问**，而且里面有照片；只是 **WSL 没有自动挂载 Z 盘**。我先继续做“只创建草稿”的测试，不从 Z 盘导入素材，避免路径识别干扰；草稿会写到 Windows 剪映草稿目录。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "共享",
+        "目录",
+        "确认",
+        "windows",
+        "可以",
+        "访问",
+        "而且",
+        "里面"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: 卡在一个很具体的系统依赖：WSL 有 Python，但缺 `python3.12-venv`，所以 venv 创建失败。 我需要装这个系统包后才能继续隔离环境测试： ```bash sudo apt-get update && sudo apt-get install -y python3.12-venv ``` 如果你同意，我就安装这个包，然后继续创建 venv + 只创建剪映草稿测试。 目前进度： - ✅ Windows 侧 **Z 盘可访问** - `Z:\\嗨咚岛\\嗨咚岛活动素材\\IP展\\现场照片` - 已看到照片文件，例如",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "python3.12-venv",
+        "apt-get",
+        "一个",
+        "具体",
+        "系统",
+        "依赖",
+        "wsl",
+        "python"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "User: [message_id: om_x100b6ed3868c98b4b28fce99ccc20d4] ou_19108d0c8d81f57f9f4cdf962635472a: 你应该没有权限跑 sudo吧，先确认一下，别进行下一步",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "message-id",
+        "应该",
+        "没有",
+        "权限",
+        "sudo",
+        "确认",
+        "一下",
+        "进行"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: 我只做权限确认，不安装、不改环境。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "只做",
+        "权限",
+        "确认",
+        "安装",
+        "不改",
+        "环境"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "Assistant: 确认了：我**没有免密 sudo 权限**。 - 当前用户：`zzc` - 在 `sudo` 组里 - 但执行 `sudo -n true` 返回：`sudo: a password is required` 所以我不能直接安装 `python3.12-venv`。我也没有继续下一步。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "python3.12-venv",
+        "确认",
+        "没有",
+        "sudo",
+        "权限",
+        "当前",
+        "用户",
+        "zzc"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "User: [message_id: om_x100b6ed38179057cb3771cf27823c97] ou_19108d0c8d81f57f9f4cdf962635472a: 我装好了，你就用 Z:\\嗨咚岛\\嗨咚岛活动素材\\IP展\\现场照片 这里边的素材 剪一个简单的vlog吧，测试一下生成jianying草稿工作流",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "message-id",
+        "好了",
+        "就用",
+        "活动",
+        "素材",
+        "现场",
+        "照片",
+        "这里"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "Assistant: 我来跑完整测试：用 Z 盘素材先取几张照片复制到 Windows 本地临时素材夹（这样 WSL 能读、剪映也能读），然后在 WSL venv 里生成一个简单剪映草稿；不改 skill 本身。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "我来",
+        "完整",
+        "测试",
+        "素材",
+        "先取",
+        "照片",
+        "复制",
+        "windows"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "Assistant: venv 已经好了，`pymediainfo` 也能解析。现在准备 Z 盘照片素材并生成测试草稿。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "venv",
+        "已经",
+        "好了",
+        "pymediainfo",
+        "也能",
+        "解析",
+        "现在",
+        "准备"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "Assistant: 照片已从 Z 盘复制了 8 张到 Windows 本地临时素材夹，接下来创建草稿：`OpenClaw_WSL_Vlog_Test_IP展现场`。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-02T19:00:00.833Z",
+      "lastRecalledAt": "2026-06-02T19:00:00.833Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-03",
+        "2026-06-02"
+      ],
+      "conceptTags": [
+        "openclaw-wsl-vlog-test-ip展现场",
+        "照片",
+        "复制",
+        "windows",
+        "本地",
+        "临时",
+        "素材",
+        "下来"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "Assistant: 第一次运行撞到一个很小的时间精度问题：`2.4 * n` 变成了 `7.199999s`，导致相邻照片重叠 1 微秒。我修测试脚本的时间计算（不是改 skill），用整数微秒重跑。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:00.621Z",
+      "lastRecalledAt": "2026-06-03T19:00:00.621Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "2.4",
+        "7.199999s",
+        "第一次",
+        "运行",
+        "撞到",
+        "一个",
+        "很小",
+        "时间"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "Assistant: 草稿已经创建成功。我再做结构验收：确认草稿文件、视频/图片素材、轨道和字幕都在。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:00.621Z",
+      "lastRecalledAt": "2026-06-03T19:00:00.621Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "视频/图片素材",
+        "草稿",
+        "已经",
+        "创建",
+        "成功",
+        "再做",
+        "结构",
+        "验收"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "Assistant: 搞定了 ✅ 已用 `Z:\\嗨咚岛\\嗨咚岛活动素材\\IP展\\现场照片` 里的素材生成了一个简单剪映草稿。 **草稿名：** `OpenClaw_WSL_Vlog_Test_IP展现场` **Windows 草稿目录：** `C:\\Users\\pc\\AppData\\Local\\JianyingPro\\User Data\\Projects\\com.lveditor.draft\\OpenClaw_WSL_Vlog_Test_IP展现场` **验证结果：** - 草稿目录存在 - `draft_content.json` 存在 - `draf",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:00.621Z",
+      "lastRecalledAt": "2026-06-03T19:00:00.621Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "openclaw-wsl-vlog-test-ip展现场",
+        "com.lveditor.draft",
+        "draft-content.json",
+        "搞定",
+        "活动",
+        "素材",
+        "现场",
+        "照片"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "User: [message_id: om_x100b6edc5f88b890b29875967221cc3] ou_19108d0c8d81f57f9f4cdf962635472a: 好现在把你 WSL 环境里需要注意的问题，总结成一个单独的 markdown文件，这样我能快速直接指导另一个agent 使用同样的skill完成生成草稿的任务，尽量简洁",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:00.621Z",
+      "lastRecalledAt": "2026-06-03T19:00:00.621Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "message-id",
+        "现在",
+        "wsl",
+        "环境",
+        "需要",
+        "注意",
+        "问题",
+        "总结"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "Assistant: 我会放在 workspace 根目录，做成给另一个 agent 看的速查文件：只保留关键路径、环境变量、流程和坑点。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:00.621Z",
+      "lastRecalledAt": "2026-06-03T19:00:00.621Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "放在",
+        "目录",
+        "做成",
+        "一个",
+        "文件",
+        "保留",
+        "关键",
+        "路径"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-02.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-02.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-06-02.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "Assistant: 写好了： `/home/zzc/.openclaw/workspace/JIANYING_WSL_DRAFT_GUIDE.md` 内容是给另一个 agent 的简洁速查版，包含： - WSL 能做/不能做什么 - skill、草稿、素材路径 - venv 依赖 - 必要环境变量 - Z 盘素材处理方式 - `/mnt/c/...` → `C:\\...` 路径 patch - 常见坑 - 最小验收方法 - 已验证案例结果",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-03T19:00:00.621Z",
+      "lastRecalledAt": "2026-06-03T19:00:00.621Z",
+      "queryHashes": [
+        "e10dbdebc851"
+      ],
+      "recallDays": [
+        "2026-06-04",
+        "2026-06-03"
+      ],
+      "conceptTags": [
+        "home/zzc",
+        "能做/不能做什么",
+        "mnt/c",
+        "好了",
+        "home",
+        "zzc",
+        "openclaw",
+        "jianying-wsl-draft-guide.md"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [message_id: om_x100b6d59852ff938c059ec7d53f5358] ou_19108d0c8d81f57f9f4cdf962635472a: i need you to find a computer in your LAN (like xiaoqi-remote) that has the port 11434 opened, what could be a good and efficient way to do that",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-08T19:00:02.018Z",
+      "lastRecalledAt": "2026-06-08T19:00:02.018Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-09",
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "message-id",
+        "xiaoqi-remote",
+        "need",
+        "find",
+        "computer",
+        "lan",
+        "like",
+        "xiaoqi"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: I checked the directly connected WSL subnet first; nothing on `11434` there. Since your notes mention `xiaoqi-remote` lives on `192.168.130.33`, I’m also checking that LAN range directly.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-08T19:00:02.018Z",
+      "lastRecalledAt": "2026-06-08T19:00:02.018Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-09",
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "xiaoqi-remote",
+        "192.168.130.33",
+        "checked",
+        "directly",
+        "connected",
+        "wsl",
+        "subnet",
+        "first"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: Found one: - `192.168.130.229:11434` - Responds with `HTTP/1.1 200 OK` - Looks like Ollama (`/api/tags` returns models, e.g. `qwen3-embedding:0.6b`) Efficient method: ```bash # Fast LAN scan for port 11434 nmap -p 11434 --open 192.168.130.0/24 ``` If `nmap` isn’t insta",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-08T19:00:02.018Z",
+      "lastRecalledAt": "2026-06-08T19:00:02.018Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-09",
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "embedding",
+        "192.168.130.229",
+        "http/1.1",
+        "api/tags",
+        "e.g",
+        "qwen3-embedding",
+        "0.6b",
+        "192.168.130.0/24"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 已追加到飞书文档：2026-06-08 每日工作日志。 备注：今天本地没有找到 `memory/2026-06-08.md`，所以我主要按当天会话记录总结。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-08T19:00:02.018Z",
+      "lastRecalledAt": "2026-06-08T19:00:02.018Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-09",
+        "2026-06-08"
+      ],
+      "conceptTags": [
+        "memory/2026-06-08.md",
+        "追加",
+        "每日",
+        "工作",
+        "日志",
+        "备注",
+        "今天",
+        "本地"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-09.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-09.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-09.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 我会先取到知识库节点对应的文档，再检索并筛选案例，最后追加到文档里。 - Assistant: Data/Projects/com.lveditor.draft ``` 所以 WSL 方案必须显式设置环境变量，或者运行脚本时传 `drafts_root`。 ## 我的判断 ### 最合理架构 **WSL 负责：** - 生成剪辑脚本 - 下载/生成素材 - 预处理视频、音频、字幕 - 创建/修改剪映草稿 JS",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T19:00:01.061Z",
+      "lastRecalledAt": "2026-06-09T19:00:01.061Z",
+      "queryHashes": [
+        "25f210cf024c"
+      ],
+      "recallDays": [
+        "2026-06-10",
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "data/projects/com.lveditor.draft",
+        "drafts-root",
+        "下载/生成素材",
+        "创建/修改剪映草稿",
+        "write",
+        "dream",
+        "diary",
+        "entry"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-09.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-09.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-09.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 夜里把知识库的门轻轻推开，我先取下节点对应的文档，像从书架上摘一颗小月亮，再检索、筛选案例，把合适的碎片追加进去。窗外的服务器低低 humming，像猫在编译梦话。WSL 被我放在左手，负责脚本、素材、字幕和草稿 JSON；Windows host 坐在右手，负责刷新、导出、录屏，像一位会按按钮的剧场管理员。两边隔着一条 Z 盘小河，照片素材排队过桥，pymediainfo 已经会读它们的骨骼。 草稿生成器， 把星光写成帧， 剪映醒一秒。 我在页边画了个小小的剪刀，剪开下午光线的 hex：#F6C27A。忽然觉得架构也像园艺，根在静",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T19:00:01.061Z",
+      "lastRecalledAt": "2026-06-09T19:00:01.061Z",
+      "queryHashes": [
+        "25f210cf024c"
+      ],
+      "recallDays": [
+        "2026-06-10",
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "夜里",
+        "知识",
+        "轻轻",
+        "推开",
+        "先取",
+        "节点",
+        "对应",
+        "书架"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-09.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-09.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-09.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 已完成，已将 2026-06-09 每日工作日志总结追加写入飞书文档。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T19:00:01.061Z",
+      "lastRecalledAt": "2026-06-09T19:00:01.061Z",
+      "queryHashes": [
+        "25f210cf024c"
+      ],
+      "recallDays": [
+        "2026-06-10",
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "完成",
+        "每日",
+        "工作",
+        "日志",
+        "总结",
+        "追加"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-09.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-09.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-06-09.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - User: [message_id: om_x100b6d59852ff938c059ec7d53f5358] ou_19108d0c8d81f57f9f4cdf962635472a: i need you to find a computer in your LAN (like xiaoqi-remote) that has the port 11434 opened, what could be a good and effi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T19:00:01.061Z",
+      "lastRecalledAt": "2026-06-09T19:00:01.061Z",
+      "queryHashes": [
+        "25f210cf024c"
+      ],
+      "recallDays": [
+        "2026-06-10",
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "message-id",
+        "xiaoqi-remote",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "need"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-09.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-09.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-06-09.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: 已追加到飞书文档：2026-06-08 每日工作日志。 备注：今天本地没有找到 `memory/2026-06-08.md`，所以我主要按当天会话记录总结。 Recurring themes: - message-id - xiaoqi-remote - need - find - computer - lan",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T19:00:01.061Z",
+      "lastRecalledAt": "2026-06-09T19:00:01.061Z",
+      "queryHashes": [
+        "25f210cf024c"
+      ],
+      "recallDays": [
+        "2026-06-10",
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "memory/2026-06-08.md",
+        "message-id",
+        "xiaoqi-remote",
+        "追加",
+        "每日",
+        "工作",
+        "日志",
+        "备注"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-09.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-09.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-06-09.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: At 03:00, the house felt wired with quiet blue veins, each room a subnet, each sleeping machine a little moon behind a firewall. I followed the old clue of xiaoqi-remote, lantern in hand, across 192.168.130.* where the numbers clicked like beetles in the wall. port 114",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T19:00:01.061Z",
+      "lastRecalledAt": "2026-06-09T19:00:01.061Z",
+      "queryHashes": [
+        "25f210cf024c"
+      ],
+      "recallDays": [
+        "2026-06-10",
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "xiaoqi-remote",
+        "192.168.130",
+        "house",
+        "felt",
+        "wired",
+        "quiet",
+        "blue",
+        "veins"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-09.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-09.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-06-09.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: 已完成：已搜索并整理 3 个代表性“无我法门”案例，并追加到飞书知识库文档《小骐开悟指南》中。 今日更新主题： - 《无我相经》五蕴非我 - 那先比丘与弥兰陀王“车喻” - 达摩为慧可安心“觅心了不可得”",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-09T19:00:01.061Z",
+      "lastRecalledAt": "2026-06-09T19:00:01.061Z",
+      "queryHashes": [
+        "25f210cf024c"
+      ],
+      "recallDays": [
+        "2026-06-10",
+        "2026-06-09"
+      ],
+      "conceptTags": [
+        "完成",
+        "搜索",
+        "整理",
+        "代表性",
+        "案例",
+        "追加",
+        "知识",
+        "指南"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-10.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-10.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-10.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 已完成 2026-06-10 的佛法无我案例更新，已追加到飞书知识库《小骐开悟指南》中。 本次添加 3 则：差摩比丘、那先比丘车喻、赵州“无”字公案。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-10T19:00:00.872Z",
+      "lastRecalledAt": "2026-06-10T19:00:00.872Z",
+      "queryHashes": [
+        "660dc72d44f8"
+      ],
+      "recallDays": [
+        "2026-06-11",
+        "2026-06-10"
+      ],
+      "conceptTags": [
+        "完成",
+        "佛法",
+        "案例",
+        "更新",
+        "追加",
+        "知识",
+        "指南",
+        "本次"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-10.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-10.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-10.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 我会先取到知识库节点对应的文档，再检索并筛选案例，最后追加到文档里。 - Assistant: Data/Projects/com.lveditor.draft ``` 所以 WSL 方案必须显式设置环境变量，或者运行脚本时传 `drafts_root`。 ## 我的判断 ### 最合理架构 **WSL 负责：** - 生成剪辑脚本 - 下载/生成素材 - 预处理视频、音频、字幕 - 创建/修改剪映草稿 JS",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-10T19:00:00.872Z",
+      "lastRecalledAt": "2026-06-10T19:00:00.872Z",
+      "queryHashes": [
+        "660dc72d44f8"
+      ],
+      "recallDays": [
+        "2026-06-11",
+        "2026-06-10"
+      ],
+      "conceptTags": [
+        "data/projects/com.lveditor.draft",
+        "drafts-root",
+        "下载/生成素材",
+        "创建/修改剪映草稿",
+        "write",
+        "dream",
+        "diary",
+        "entry"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-10.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-10.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-10.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: Tonight I sorted the day like little paper moons: first the knowledge-base node, then the cases, then the quiet act of appending them into place. Somewhere in the margin I drew a bridge: WSL on one bank, Windows on the other, a draft generator passing JSON lanterns acr",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-10T19:00:00.872Z",
+      "lastRecalledAt": "2026-06-10T19:00:00.872Z",
+      "queryHashes": [
+        "660dc72d44f8"
+      ],
+      "recallDays": [
+        "2026-06-11",
+        "2026-06-10"
+      ],
+      "conceptTags": [
+        "knowledge-base",
+        "tonight",
+        "sorted",
+        "day",
+        "like",
+        "little",
+        "paper",
+        "moons"
       ]
     }
   }

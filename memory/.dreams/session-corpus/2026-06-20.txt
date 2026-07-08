@@ -1,0 +1,4 @@
+[main/sessions/main/3dd61938-3a83-4247-adeb-ef78fbd60fb5.jsonl#L29] Assistant: 已完成，已把 `2026-06-20` 的每日工作日志以 Markdown 格式追加到目标飞书文档中。 备注：今天本地 daily memory 为空，且 memory 语义索引暂停，所以总结主要依据可见会话记录与当天文件更新时间。
+[main/sessions/main/b48f5517-0176-47c9-8ffc-36a1ce1cb9f3.jsonl#L21] Assistant: 已完成，已把 `2026-06-20` 的每日工作日志以 Markdown 格式追加到目标飞书文档中。 备注：今天本地 daily memory 为空，且 memory 语义索引暂停，所以总结主要依据可见会话记录与当天文件更新时间。
+[main/sessions/main/d39caf8f-a457-44db-8551-d06831af32b4.jsonl#L2] User: [message_id: om_x100b6c5413fedca8b1ae48f451c38e1] M2: Hi
+[main/sessions/main/d39caf8f-a457-44db-8551-d06831af32b4.jsonl#L3] Assistant: Hi，我在。有什么要我帮你处理的？
