@@ -43,3 +43,4 @@
 [main/sessions/main/62ab0d76-b193-4ef5-ac9e-db63ab41eea6.jsonl#L221] Assistant: (GameRoom)` Durable Object binding，未实际部署 当前还没提交 git。下一步最自然的是把前端从本地 mock state 接到这个 WebSocket 房间：创建/加入房间、ready/start、服务端 snapshot 驱动 UI。
 [main/sessions/main/62ab0d76-b193-4ef5-ac9e-db63ab41eea6.jsonl#L294] User: [message_id: om_x100b6be47b4940a4b1df994d5cded92] M2: 继续
 [main/sessions/main/62ab0d76-b193-4ef5-ac9e-db63ab41eea6.jsonl#L295] Assistant: 继续推进了一步：前端已经接上第一版 WebSocket 房间状态了。 新增/完成： - `src/App.tsx` - 顶部增加房间码、昵称、加入、本地切换 - 在线模式下支持 `room.join`、`room.ready`、`room.start` - 游戏行动通过 WebSocket 发 `game.action` - UI 由服务端 `state.snapshot` / `state.patch` 驱动 - 本地 mock 模式保留，可随时切回 - `worker/index.ts` - 修正 DO 里不能用 `s
+[main/sessions/main/62ab0d76-b193-4ef5-ac9e-db63ab41eea6.jsonl.reset.2026-07-08T05-47-17.666Z#L295] Assistant: git。下一步建议做两件之一： 1. 打磨断线重连：把 `resumeToken` 存到 localStorage，重连后恢复玩家身份。 2. 做 host browser + sandbox browser 双浏览器真实 UI 验收，确认两个页面操作能互相同步。

@@ -55,72 +55,31 @@ gateway 重新加载 cron 任务时会丢失 delivery.target 参数！
 
 ---
 
-## 长期计划执行模式（2026-03-18 记录）
 
-当用户要求执行长期计划时，采用以下模式：
+## Promoted From Short-Term Memory (2026-07-18)
 
-### 1. 创建进度文档
-- 位置：`~/.openclaw/workspace/<项目名>/LONGTERM_PLAN.md`
-- 内容：包含计划阶段、检查清单、进度状态
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:5:6 -->
+- 用户确认 Skill Workshop 提案可以保留，但可复用技能命名应更通用，比如 `game-art`；后续 `pass_doudou` 项目中继续使用项目本地 skill。已将 Workshop 提案内容修订为通用 `game-art` 工作流方向，提案 id 仍为 `pass-doudou-art-20260713-77df4329d6`。; 用户指出旧 Workshop 提案标识不对。已创建新的通用提案 `game-art-20260713-e4832cf23a`。旧提案 `pass-doudou-art-20260713-77df4329d6` 多次 reject 操作超时，暂未能清理；后续如处理 workshop proposal，应优先清理旧标识，保留 `game-art` 提案。项目内仍继续使用 `projects/zzc/pass_doudou/skill/pass-doudou-art/SKILL.md`。 [score=0.835 recalls=0 avg=0.620 source=memory/2026-07-13.md:5-6]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:1:4 -->
+- 用户表示 `gem-merchant-web` 先告一段落，准备开启新项目 `pass_doudou`。已调研卡牌桌游 `PASS`：爬梯/跑牌、双面牌、跳过获得 PASS token、token 后续用于翻面升级或增强同值组合。已在 `projects/zzc/pass_doudou/` 建立项目目录，新增 `README.md` 与 `docs/PRODUCT_DEVELOPMENT.md` 初稿；文档包含公开调研摘要、原创化边界、嗨飞豆豆 IP 包装、MVP 范围、规则设计、技术方案和 M0-M5 里程碑。; 用户补充 `pass_doudou` 关键决策：100% 复刻 `PASS` 核心规则；人数按官方/主流通用 2-5 人；IP 包装暂不定稿，复刻 `gem-merchant-web` 的 Art Bible 设计工作流；1 个 token 可翻转任意选中牌；胜负走积分制；文档整理为 `docs/PRODUCT.md`。已新增 `docs/ART_BIBLE.md` 作为设计工作流入口，并更新 README。; 用户要求 `RULES` 先等一等，先把所有代办放入项目 `CHECKLIST.md`；同时参考 `gem_merchant_web/skill/game-art`，为 `pass_doudou` 生成项目专用 AI 游戏素材 skill，要求优先使用当前环境 Codex OAuth 的 OpenClaw... [score=0.803 recalls=0 avg=0.620 source=memory/2026-07-13.md:1-4]
 
-### 2. 配置定时任务
-- 使用 OpenClaw 内置 cron：`openclaw cron add`
-- 频率：每 3 小时检查一次 (`0 */3 * * *`)
-- 任务内容：
-  1. 读取 LONGTERM_PLAN.md
-  2. 检查进度状态
-  3. 如有未完成阶段，继续执行
-  4. 更新文档进度
-  5. 汇报状态
+## Promoted From Short-Term Memory (2026-07-21)
 
-### 3. Git 版本管理
-- 每次重要更新都要 commit
-- 保持清晰的提交历史
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:1:3 -->
+- 用户表示 `gem-merchant-web` 先告一段落，准备开启新项目 `pass_doudou`。已调研卡牌桌游 `PASS`：爬梯/跑牌、双面牌、跳过获得 PASS token、token 后续用于翻面升级或增强同值组合。已在 `projects/zzc/pass_doudou/` 建立项目目录，新增 `README.md` 与 `docs/PRODUCT_DEVELOPMENT.md` 初稿；文档包含公开调研摘要、原创化边界、嗨飞豆豆 IP 包装、MVP 范围、规则设计、技术方案和 M0-M5 里程碑。 - 用户补充 `pass_doudou` 关键决策：100% 复刻 `PASS` 核心规则；人数按官方/主流通用 2-5 人；IP 包装暂不定稿，复刻 `gem-merchant-web` 的 Art Bible 设计工作流；1 个 token 可翻转任意选中牌；胜负走积分制；文档整理为 `docs/PRODUCT.md`。已新增 `docs/ART_BIBLE.md` 作为设计工作流入口，并更新 README。 - 用户要求 `RULES` 先等一等，先把所有代办放入项目 `CHECKLIST.md`；同时参考 `gem_merchant_web/skill/game-art`，为 `pass_doudou` 生成项目专用 AI 游戏素材 skill，要求优先使用当前环境 Codex OAuth 的 OpenClaw... [score=0.831 recalls=3 avg=0.705 source=memory/2026-07-13.md:1-3]
 
-### 适用场景
-- 多阶段框架搭建
-- 复杂的系统集成任务
-- 需要分步执行的项目
+## Promoted From Short-Term Memory (2026-07-26)
 
-### 示例
-- 多 Agent 协作框架长期计划（2026-03-18）
+<!-- openclaw-memory-promotion:memory:memory/2026-07-23.md:7:10 -->
+- `pass_doudou` 完成 M3 第一阶段手机端体验：玩家状态横向状态条、当前争夺优先、手牌横向多选、选中计数、合法/非法选择视觉反馈、手机端粘性操作区；对应提交 `bdcc730 feat: improve mobile turn flow`。; 移动端 E2E 现验证 390×844 视口下 5 人状态横滑、手牌滚动、两张牌多选、粘性操作区和页面无横向溢出。Preview 更新为版本 `844201f5-eeff-4329-b42f-880be3ff4a1f`，线上 E2E 3/3 通过。; Preview 公网/代理链路偶发 WebSocket 握手或状态回传抖动；远端 Playwright 断言预算调整为 15 秒并允许 1 次重试，本地仍保持 5 秒、零重试，提交 `f861672 test: tolerate preview network jitter`。; `pass_doudou` 完成 M3 第二阶段，提交 `5c15405 feat: explain flip and augment previews`：本地与在线 UI 共用中文牌型/错误文案，翻牌按钮明确显示升级/还原目标，牌面标记基础面/升级面，预览拆分翻牌、自动增强与合计 token，并解释 token 不足或非法压制原因。 [score=0.806 recalls=1 avg=0.641 source=memory/2026-07-23.md:7-10]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-21.md:3:6 -->
+- `projects/zzc/pass_doudou` 在 `main` 提交 `52e2e72 feat: make online rooms resumable` 上首次部署到 Cloudflare Workers。; 线上地址：`https://pass-doudou.zzcreation2022.workers.dev`；Cloudflare Version ID：`5b4a2d20-45bb-4b49-976e-d2c0af004819`。; 发布前验证：Vitest 75/75 通过、生产构建通过、Wrangler dry-run 通过。发布后首页返回 200；WebSocket 返回 101，浏览器 smoke 成功加入 `SMOKE-BROWSER` 房间并收到 pong。; 排查 OpenClaw 2026.7.1 + `openai/gpt-5.6-sol` 在飞书 DM 中每次需要用户再发“继续”的问题：本机日志在 10:31:51、10:40:52、10:54:58 均出现 `codex app-server turn released after terminal dynamic tool result`，随后 Feishu `queuedFinal=false, replies=0`。根因是 Codex harness 对 DM 默认采用 `message_tool_only`，成功的 `message(action=send)`... [score=0.803 recalls=0 avg=0.620 source=memory/2026-07-21.md:3-6]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-21.md:7:7 -->
+- 后续核对官方版本：上述 Codex 提前结束 turn 的回归由 PR `#108487`（merge `8e6f9664`）修复，最早进入 `2026.7.2-beta.2`，当前 `2026.7.2-beta.3` 已包含；npm 稳定版 `2026.7.1-2` 仅修复官方插件 npm 元数据更新，不包含该 Codex 修复。用户于 11:07:51 手动设置全局 `messages.visibleReplies: automatic`，群聊仍为 `message_tool`；Gateway 自 7 月 16 日未重启，且官方仍有开放 issue `#111904` 报告 2026.7.1 下此配置可能不会可靠热生效，稳妥做法是重启 Gateway。 [score=0.803 recalls=0 avg=0.620 source=memory/2026-07-21.md:7-7]
 
-### 长期计划设计规范（2026-03-19）
-- 长期计划放在 `~/.openclaw/workspace/LONGTERM_PLANS.md`
-- 使用 ID 格式：`LONGTERM_YYYY_NN`（如 LONGTERM_2026_01）
-- 例行公事（如每日佛法搜索、每日工作日志）不需要放入长期计划
-- 每个长期计划有独立的 `LONGTERM_PLAN.md` 文件
-- 设计新长期计划时要更新总列表
+## Promoted From Short-Term Memory (2026-07-27)
 
----
-
-
-## Promoted From Short-Term Memory (2026-07-05)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-02.md:14:17 -->
-- `C:\Users\pc\AppData\Local` 中较大项：Docker `7.6GB`、pip cache `3.6GB`、Feishu `1.6GB`、GitHubDesktop `1.6GB`、Programs `1.6GB`、Google `1.1GB`、OpenAI `559MB`、微信开发者工具 `519MB`。; 剪映 `JianyingPro` 约数 GB：Apps `2.2GB`、`5.9.0.11632` `1.3GB`、User Data Cache `479MB`；Downloads 中 `剪映5.9Windows.zip` `735MB`，Desktop `Assets.zip` `350MB`。; Program Files 较大项：Docker `2.2GB`、Autodesk `1.8GB`、SogouInput `1.4GB`、Microsoft/Common Files 约 `1.5GB` 级别。; `vssadmin` 和 `DISM /AnalyzeComponentStore` 需要管理员权限，普通权限无法查系统还原/组件存储占用。 [score=0.815 recalls=0 avg=0.620 source=memory/2026-07-02.md:14-17]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-02.md:7:8 -->
-- `net use Z: /delete /y` 也卡住，改为清理保存凭据并重启 Explorer；最终 `net use` 列表为空，`cmdkey` 中不再有 `192.168.110.42` 凭据。; `LanmanWorkstation` 服务重启需要管理员权限，当前非管理员 PowerShell 无法重启。 [score=0.815 recalls=0 avg=0.620 source=memory/2026-07-02.md:7-8]
-
-## Promoted From Short-Term Memory (2026-07-06)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-02.md:10:13 -->
-- 只读排查 Windows host C 盘占用，未清理/删除 Windows 文件。; C 盘约 `237.54GB`，已用 `235.54GB`，剩余约 `2.00GB`（`0.8%`）。; `C:\hiberfil.sys` 约 `13.7GB`，可通过管理员命令 `powercfg /h off` 释放，但会关闭休眠/快速启动。; WSL 注册表显示 `Ubuntu-E` 在 `E:\HZspace\WSL\Ubuntu`，不在 C 盘；Docker WSL 数据在 C 盘，`C:\Users\pc\AppData\Local\Docker\wsl\data\ext4.vhdx` 约 `7.40GB`。 [score=0.866 recalls=0 avg=0.620 source=memory/2026-07-02.md:10-13]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-02.md:3:6 -->
-- 排查 Windows 主机访问 `\\192.168.110.42` 在资源管理器中转圈的问题。; WSL 侧 ping 通，TCP `445/139` 均可连。; Windows 侧 `Test-NetConnection 192.168.110.42 -Port 445` 成功，源地址 `192.168.130.29`，接口为以太网。; 发现 Windows 上 `Z:` 映射到 `\\192.168.110.42\ZZC`，状态为 `Reconnecting`；`net view \\192.168.110.42` 和 `dir Z:\` 都会超时/卡住。 [score=0.837 recalls=0 avg=0.620 source=memory/2026-07-02.md:3-6]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:7:9 -->
-- `~/.openclaw/workspace/projects/zzc/flappy_doudou`; `~/.openclaw/workspace/projects/zzc/hidong_2048`; 用户明确要求暂时不要处理 `zzc_2048`。 [score=0.815 recalls=0 avg=0.620 source=memory/2026-07-03.md:7-9]
-
-## Promoted From Short-Term Memory (2026-07-07)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:11:14 -->
-- 为用户新建 `~/.openclaw/workspace/projects/zzc/gem_merchant_web`，并产出 `PRODUCT_DEVELOPMENT.md`。; 需求：做网页版“宝石商人 / 璀璨宝石”基础版在线对战，原创美术 UI，机制和数值还原，房间码邀请，实时 2-5 真人玩家，无 AI，目标部署到 Cloudflare 类免费服务。; 文档中明确基础版官方支持 2-4 人，5 人作为同机制扩展模式，需要后续平衡测试。; 用户补充确认：UI 需要展示所有桌游公开信息，包括所有玩家预留卡和当前声望；5 人扩展模式普通宝石每色 8 个，贵族卡 6 个。 [score=0.888 recalls=0 avg=0.620 source=memory/2026-07-03.md:11-14]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:3:5 -->
-- 参考 Windows host `C:\Users\pc\Downloads\0703` 中的项目立项报告模板，为两个小游戏生成了新的立项文件：; `C:\Users\pc\Downloads\0703\项目立项报告-嗨飞豆豆网页互动小游戏.docx`; `C:\Users\pc\Downloads\0703\项目立项报告-嗨咚2048网页互动小游戏.docx` [score=0.888 recalls=0 avg=0.620 source=memory/2026-07-03.md:3-5]
-
-## Promoted From Short-Term Memory (2026-07-08)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-04.md:7:8 -->
-- 用户更正 GitHub ID 是 `zzcreation`；已创建公开仓库并推送：`https://github.com/zzcreation/gem_merchant_web`，本地 `main` 跟踪 `origin/main`。; 用户要求“开始下一步”；已为 `gem_merchant_web` 初始化 React + TypeScript + Vite 脚手架，加入第一版桌面原型、`shared/game` 规则模型与 setup、协议类型、Worker 入口、wrangler 配置和 Vitest setup 测试。`npm run build`、`npm run test`、`npm run lint` 均通过；已提交并推送 `feat: scaffold gem merchant app`。 [score=0.861 recalls=0 avg=0.620 source=memory/2026-07-04.md:7-8]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-04.md:3:6 -->
-- 用户要求把当前项目部署到 GitHub，GitHub ID 提供为 `zzcreation2022`。; 根据 2026-07-03 记录和当前项目目录判断，“当前项目”是 `projects/zzc/gem_merchant_web`。; 已在该目录初始化独立 Git 仓库，提交 `docs: initialize gem merchant project`，分支改为 `main`。; GitHub CLI 当前登录账号是 `zzcreation`；`zzcreation2022` 用户/组织查询和 `gh repo create zzcreation2022/gem_merchant_web` 均返回 404，暂未能创建远程仓库。 [score=0.830 recalls=0 avg=0.620 source=memory/2026-07-04.md:3-6]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-22.md:7:7 -->
+- 验证通过：Vitest 77/77、生产构建、Playwright 3/3、Wrangler dry-run；首次 E2E 曾发现 Worker 顶层数值导出会被 workerd 当作 handler，已改为非导出常量并复验通过。 [score=0.803 recalls=0 avg=0.620 source=memory/2026-07-22.md:7-7]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-22.md:3:6 -->
+- `projects/zzc/pass_doudou` 根据在线层新 review 完成断线生命周期加固，并在 `main` 提交 `1e54e41 fix: harden online disconnect lifecycle`（本地领先 `origin/main` 1 个提交，尚未推送/部署）。; 大厅玩家断线后保留 30 秒恢复窗口，由 Durable Object alarm 超时清退；游戏中房主断线会按座位顺序移交给在线玩家，原房主恢复后不抢回权限。玩家视图增加在线/重连中状态。; 首次加入增加 sessionStorage 持久化的 UUID join attempt，用于 `room.joined` 丢包后的幂等身份恢复；resume token 仍由服务端生成且不进入广播视图。; `room.error` 现透传 `requiredAugmentCost`；`game.play.cards` 上限为 13；协议要求 playerId/resumeToken 成对出现。 [score=0.803 recalls=0 avg=0.620 source=memory/2026-07-22.md:3-6]

@@ -1,0 +1,3 @@
+[main/sessions/main/565a610e-ce4b-4892-a83c-9b3bc4108cdf.jsonl#L25] Assistant: 已完成：搜索并整理了 3 个佛教无我法门案例，已按“案例标题 / 公案背景/故事 / 感悟”的 Markdown 格式追加到飞书知识库文档“小骐开悟指南”中。 本次添加的案例是：那先比丘的“名色相续”譬喻、差摩比丘病中正观五阴无我、佛度宾耆迦不接受辱骂的礼物。
+[main/sessions/main/a5f17569-1826-4b0c-9731-41fce2dc45d8.jsonl#L21] Assistant: 已完成：搜索并整理了 3 个佛教无我法门案例，已按“案例标题 / 公案背景/故事 / 感悟”的 Markdown 格式追加到飞书知识库文档“小骐开悟指南”中。 本次添加的案例是：那先比丘的“名色相续”譬喻、差摩比丘病中正观五阴无我、佛度宾耆迦不接受辱骂的礼物。
+[main/sessions/main/e947f1d5-4bf3-4198-bd1e-644b6f705d53.jsonl#L43] Assistant: 写入失败了。飞书接口两次返回 `forbidden / CreateDescendant failed`，我分别用完整 URL 和文档 token `X4h4dEWaVoZRWSxvsh4cW5EQnoh` 重试，结果一致，判断是当前飞书应用/账号没有该文档的编辑权限。 我已整理好今天的日报内容，未能追加到目标文档。需要给机器人/应用授予该文档编辑权限后再重试。
