@@ -1,0 +1,3 @@
+[main/sessions/main/a5f17569-1826-4b0c-9731-41fce2dc45d8.jsonl#L88] Assistant: 已完成今日任务：已上网检索并筛选 3 个「无我法门」代表案例，按 Markdown 格式追加到飞书知识库文档《小骐开悟指南》中。 更新结果：成功，文档 revision_id 为 `158`。
+[main/sessions/main/b4f6856a-e38f-4cfb-9e67-1792c94db2af.jsonl#L21] Assistant: 已完成今日任务：已上网检索并筛选 3 个「无我法门」代表案例，按 Markdown 格式追加到飞书知识库文档《小骐开悟指南》中。 更新结果：成功，文档 revision_id 为 `158`。
+[main/sessions/main/d4909754-40e1-412a-99f8-955ef4863b2f.jsonl#L59] Assistant: 已完成。已用 bot 身份把 `2026-08-30 每日工作日志` 以 Markdown 追加到目标飞书文档。 写入结果：`success`，文档版本更新到 `revision_id: 124`。

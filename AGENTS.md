@@ -53,7 +53,7 @@ Before any non-trivial task:
 - **Memory is limited** — if you want to remember something, WRITE IT TO A FILE
 - "Mental notes" don't survive session restarts. Files do.
 - When someone says "remember this" → update `memory/YYYY-MM-DD.md` or relevant file
-- When you learn a lesson → update AGENTS.md, TOOLS.md, or the relevant skill
+- When you learn a lesson → update AGENTS.md or the relevant skill
 - When you make a mistake → document it so future-you doesn't repeat it
 - **Text > Brain** 📝
 
@@ -127,7 +127,9 @@ Reactions are lightweight social signals. Humans use them constantly — they sa
 
 ## Tools
 
-Skills provide your tools. When you need one, check its `SKILL.md`. Keep local notes (camera names, SSH details, voice preferences) in `TOOLS.md`.
+### Local notes
+
+Skills define how tools work. Keep environment-specific local notes in this section.
 
 ### Project-local instructions
 
@@ -147,6 +149,143 @@ Skills provide your tools. When you need one, check its `SKILL.md`. Keep local n
 - **Discord/WhatsApp:** No markdown tables! Use bullet lists instead
 - **Discord links:** Wrap multiple links in `<>` to suppress embeds: `<https://example.com>`
 - **WhatsApp:** No headers — use **bold** or CAPS for emphasis
+
+### Local notes (migrated from TOOLS.md)
+
+# TOOLS.md - Local Notes
+
+Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
+
+## What Goes Here
+
+Things like:
+
+- Camera names and locations
+- SSH hosts and aliases
+- Preferred voices for TTS
+- Speaker/room names
+- Device nicknames
+- Anything environment-specific
+
+## Examples
+
+```markdown
+### Cameras
+
+- living-room → Main area, 180° wide angle
+- front-door → Entrance, motion-triggered
+
+### SSH
+
+- home-server → 192.168.1.100, user: admin
+
+### TTS
+
+- Preferred voice: "Nova" (warm, slightly British)
+- Default speaker: Kitchen HomePod
+```
+
+## Why Separate?
+
+Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
+
+---
+
+Add whatever helps you do your job. This is your cheat sheet.
+
+### SSH
+
+- xiaoqi-remote → 192.168.130.33:2222 (WSL2 Ubuntu)
+  - 位置: Windows 主机上的 WSL2 Ubuntu
+  - Node.js: v22.22.1 (直接安装)
+  - OpenClaw: 2026.3.24
+  - Gateway: lan 模式，端口 18789
+  - 端口转发: 2222 (SSH), 18789 (Gateway)
+
+### Windows / ComfyUI 主机拓扑
+
+- 主 OpenClaw 所在 Windows 主机：`192.168.130.29`
+  - 当前主 OpenClaw WSL 运行在这台 Windows 主机上。
+  - WSL 中的 `/mnt/c` 只映射这台 `.29` 主机的 Windows 文件系统。
+- ComfyUI / RTX 3090 Windows 主机：`192.168.130.229`
+  - ComfyUI API：`http://192.168.130.229:8188`
+  - 这是与 `.29` 不同的另一台 Windows 主机；Windows 原生连接器最终应部署到 `.229`。
+
+### 远程 Agent 调用
+
+调用 xiaoqi-remote agent 的正确方式：
+```bash
+ssh -p 2222 zzc@192.168.130.33 "openclaw agent --agent xiaoqi-remote --message '任务描述' --timeout 300"
+```
+
+**重要提示**：
+- 必须使用 `--agent xiaoqi-remote` 而不是 `--agent main`（main 连接了飞书会有其他用途）
+- 需要告诉 xiaoqi-remote 使用 exec 工具调用 agent-reach 工具
+- agent-reach skill 需要软链接到 xiaoqi-remote agent 的 skills 目录
+
+**Agent Reach 工具**（xiaoqi-remote 上已安装）：
+- `curl + jina.ai` - 读取任意网页
+- `xreach` - 搜索 Twitter
+- `mcporter exa` - 全网语义搜索
+- `yt-dlp` - YouTube/B站 视频字幕
+- `gh CLI` - GitHub
+
+### Zzc Cloud Sandbox Docker 网关
+
+- 主机：`39.106.154.140:22`
+- SSH 用户：`openclaw-zzc`
+- Compose 项目：`zzc-cloud-sandbox`
+- 只读密钥：`/home/zzc/.ssh/zzc_sandbox_logs`
+  - 允许：`status`、`logs backend|vendor-stub|mysql|redis [1..2000] [30s|10m|2h|1d]`
+- 运维密钥：`/home/zzc/.ssh/zzc_sandbox_ops`
+  - 额外允许：`restart backend|vendor-stub`
+- 强制命令网关：服务器 `/usr/local/sbin/zzc-cloud-docker-gateway`
+- 禁止范围：任意 Shell、`docker exec/inspect`、创建/删除资源、镜像/volume/network 操作、重启 MySQL/Redis
+- 调用示例：
+  ```bash
+  ssh -i /home/zzc/.ssh/zzc_sandbox_logs -p 22 openclaw-zzc@39.106.154.140 'logs backend 500 10m'
+  ```
+
+### Excel 转 PDF（横向+适应一页）
+
+**之前失败的原因：**
+1. 用 `libreoffice --headless --convert-to pdf` 而不是 `libreoffice --headless --calc --convert-to pdf`
+2. 缺少 `ws.sheet_properties.pageSetUpPr.fitToPage = True`
+3. scale 没有设置为 None
+
+**正确步骤：**
+
+```bash
+# 1. 用 openpyxl 调整页面设置
+python3 << 'EOF'
+import openpyxl
+from openpyxl.worksheet.page import PageMargins
+
+wb = openpyxl.load_workbook('input.xlsx')
+ws = wb.active
+
+# 横向 + A4 + 适应一页
+ws.page_setup.orientation = 'landscape'
+ws.page_setup.paperSize = 9  # A4
+ws.page_setup.fitToWidth = 1
+ws.page_setup.fitToHeight = 1
+ws.page_setup.scale = None
+
+# 缩小页边距
+ws.page_margins = PageMargins(left=0.3, right=0.3, top=0.5, bottom=0.5)
+ws.sheet_properties.pageSetUpPr.fitToPage = True
+
+wb.save('input_adjusted.xlsx')
+EOF
+
+# 2. 用 libreoffice-calc 转换（关键：用 calc 而不是 generic libreoffice）
+libreoffice --headless --calc --convert-to pdf --outdir /tmp input_adjusted.xlsx
+```
+
+**关键点：**
+- 必须用 `--calc` 参数指定用 Calc 打开
+- `fitToPage = True` 是关键设置
+- `scale = None` 让 fitToWidth/Height 生效
 
 ## 💓 Heartbeats
 

@@ -1,1 +1,8 @@
 projects
+
+# Local runtimes and disposable work products
+.venvs/
+tmp/
+
+# Conversation-upload staging; may contain private user attachments
+media/inbound/
