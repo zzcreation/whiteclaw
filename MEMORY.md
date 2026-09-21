@@ -56,18 +56,6 @@ gateway 重新加载 cron 任务时会丢失 delivery.target 参数！
 ---
 
 
-## Promoted From Short-Term Memory (2026-08-15)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-08-10.md:3:6 -->
-- `projects/zzc/doudou-treasure-hunt` 首关可玩原型完成：React + Vite + Canvas，包含首页、60 秒摆钩打捞、轻重物回收、得分/连击/暂停和结算页；根据 390×844 真机视口检查修复了首页按钮被角色图挤出首屏的问题。; 原型已部署到 Cloudflare Pages：`https://doudou-treasure-hunt.pages.dev`，正式域名返回 HTTP 200。; 项目已初始化为独立私有 GitHub 仓库 `https://github.com/zzcreation/doudou-treasure-hunt`，默认分支 `main`；当前提交 `c4d30d5`。; 下一步应收集首轮试玩反馈，重点校准摆钩速度、回收速度、60 秒目标分与角色动画表现。 [score=0.835 recalls=0 avg=0.620 source=memory/2026-08-10.md:3-6]
-<!-- openclaw-memory-promotion:memory:memory/2026-08-10.md:7:9 -->
-- 原型第二轮已完成并部署（提交 `f7ceeeb`）：新增 3-2-1 开局倒数、放钩/命中/抓空/得分 Web Audio 音效、命中震屏、得分飘字、3/5 连击倍率（1.5x/2x）、合理化 0—3 星阈值，并用 localStorage 保存最佳分与静音设置。已在 390×844 浏览器视口实玩，成功抓取并累计 400 分；正式地址保持 `https://doudou-treasure-hunt.pages.dev`。; M2 反馈后产品方向调整（提交 `25cb8c6`）：主体验从竖屏改为移动端横屏 16:9（兼容 19.5:9），引入开篇英雄选择及角色解锁驱动；五位角色全部展示，豆豆默认可用，其余展示技能与解锁条件。首版内容改为 2 岛 10 关，但先开发英雄选择 + 群岛地图 + 1—3 关纵向切片。主 PRD 已升至 v0.3，并纳入用户新增的参考产品文档。; 横屏与英雄选择原型已完成并部署（提交 `b129b53`）：Canvas 重构为 960×540 坐标系，横屏 HUD 改为左侧角色/中部抓取/右侧状态，竖屏显示旋转引导；新增 5 人英雄选择页、锁定条件和技能预览。用内置图像生成工具按豆豆风格生成酷奇奇、叶粿粿、桃乐乐、布噜噜概念形象，经 chroma-key 去背后存入 `public/assets/concepts/companions-v1.png`，提示词归档于... [score=0.803 recalls=0 avg=0.620 source=memory/2026-08-10.md:7-9]
-
-## Promoted From Short-Term Memory (2026-08-19)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-06.md:26:27 -->
-- OpenClaw sandbox browser 配置：在 `openclaw.json` 中已添加 `browser-sandbox` agent（sandbox.mode=all, backend=docker, browser.enabled=true）。Docker 基础镜像 `openclaw-sandbox:bookworm-slim` 和 sandbox browser 镜像 `openclaw-sandbox-browser:bookworm-slim` 均已本地构建完成。sandbox browser 镜像包含 Chromium、noVNC、Xvfb、x11vnc、websockify，ENTRYPOINT 脚本从 GitHub 源 `scripts/sandbox-browser-entrypoint.sh` 复制。gateway 已重启以加载新配置。待验证：sandbox browser 能否成功打开 `http://host.docker.internal:5173/` 并截图。 - sandbox browser 验证遇到的问题：(1) 初始 `browser-sandbox` agent 配置缺少 `sandbox.docker.image` 和 `sandbox.browser.image` 字段，使用默认镜像名但本地未构建；(2) 子会话 spawn 后因镜像不存在而立即失败（`Sandbox image not found:... [score=0.811 recalls=4 avg=0.564 source=memory/2026-07-06.md:26-27]
-
 ## Promoted From Short-Term Memory (2026-08-21)
 
 <!-- openclaw-memory-promotion:memory:memory/2026-07-21.md:1:6 -->
@@ -92,3 +80,12 @@ gateway 重新加载 cron 任务时会丢失 delivery.target 参数！
 - MySQL 权威数据第三批已完成并推送，提交 `49e4c0c`：新增 `PlayerProgressService`，将游玩计次/最高分、选择结果及玩家详情、统计、覆盖率、checkout、影片输入统一切到 MySQL 的 `player_point_records` / `player_selections`；Redis 仅保留可丢弃的玩家档案兼容镜像。; 成绩回传的最高分更新与 `game_sessions` 从 `PROCESSING` 条件更新为 `PROCESSED` 已纳入同一 R2DBC 事务；故障注入测试确认会话条件更新失败时成绩同步回滚，避免会话与成绩半成功。; Sandbox Golden 已加入选择展项 fixture、MySQL 次数/最高分/会话断言，并在删除 Redis 玩家镜像后重新查询，验证玩家进度仍可从 MySQL 完整恢复。本地后端全量 118 tests 通过。; GitLab Pipeline 710 已由 `49e4c0c` 触发；截至本次记忆刷新时最终状态尚未可靠确认，下一轮应先检查 verify、build、deploy、Golden、cleanup 及 Sandbox 四服务健康状态后再宣称收口。 [score=0.803 recalls=0 avg=0.620 source=memory/2026-08-18.md:15-18]
 <!-- openclaw-memory-promotion:memory:memory/2026-08-18.md:19:19 -->
 - MySQL 下一批优先迁移影片序列配置与 active 配置，移除 `SL_CommonData` 的旧全局单键权威状态；随后补关键写失败传播、并发成绩回传/事务回滚、清空 Redis 后成就不变及 Golden Redis 副本丢失恢复测试。 [score=0.803 recalls=0 avg=0.620 source=memory/2026-08-18.md:19-19]
+
+## Promoted From Short-Term Memory (2026-09-05)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-09-04.md:68:71 -->
+- Production storage provider is Qiniu. Config: bucket `zzc-mini`, base path `zzc-comfy-cloud/prod`, private CDN `https://cdn.zzcreation.com`, upload endpoint `https://up-z1.qiniup.com` (South China). Qiniu AK/SK are Worker secrets and must never be echoed. Input assets and generated outputs have passed the end-to-end Qiniu flow. R2 remains available for historical assets and Workflow JSON. - MiniMax H3 is integrated as preset v2. Its aspect ratio values now exactly match the ComfyUI `ResolutionSelector` enum, including `16:9 (Widescreen)`. A real MiniMax task succeeded with input PNG and output MP4 stored in Qiniu.... [score=0.855 signals=6 recalls=6 avg=0.769 source=memory/2026-09-04.md:68-71] <!-- trigger: zzc-mini, zzc-comfy-cloud/prod, cdn.zzcreation.com --> <!-- importance: 9 -->
+<!-- openclaw-memory-promotion:memory:memory/2026-09-04.md:1:10 -->
+- # 2026-09-04 ## zzc-comfy-cloud durable project state - Canonical project path after OpenClaw 2026.8.2 workspace migration: `/home/zzc/.openclaw/workspace/main/projects/zzc/zzc-comfy-cloud`. - The former root workspace was migrated into `workspace/main/`, including `projects/`, memory, skills, artifacts, hidden directories, and the original workspace `.git`. The project and workspace Git history were preserved. A backup of the 8.2-generated empty/default `main` workspace is under `~/.openclaw/backups/workspace-main-migration-20260903-1308/preexisting-main/`.... [score=0.834 signals=6 recalls=6 avg=0.699 source=memory/2026-09-04.md:1-10] <!-- trigger: backup, backups, zzc-comfy-cloud --> <!-- importance: 8 -->
+<!-- openclaw-memory-promotion:memory:memory/2026-09-04.md:51:65 -->
+- Notable pushed commits in order: `d6f2e29` (MiniMax ratio v2), `62c6b9d` (Qiniu non-secret config), `48d1868` (Qiniu provider switch), `64dc9d2` (Qiniu Base64 padding), `a30edb1` (z1 upload endpoint), `1b73fe1` (connector nested Qiniu upload protocol), `60b57b3` (Qiniu E2E acceptance/backlog), `fa92258` (ordinary accounts), `3c974a4` (task cancel/retry/error UX and polling optimization). - Latest task-operation build passed TypeScript, Web production build, API Vitest 25/25, Go tests, and Windows amd64 cross-compilation. - Latest known Worker version after task operations: `7a9903b1-b7a4-4094-ab31-b4ffd23dc518`.... [score=0.833 signals=6 recalls=6 avg=0.696 source=memory/2026-09-04.md:51-65] <!-- trigger: non-secret, acceptance/backlog, cancel/retry/error --> <!-- importance: 8 -->
